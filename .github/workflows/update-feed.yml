@@ -28,6 +28,7 @@ env:
     POjdkZgJBm=wenhuazhimen.xml
     xGo4ebna0L=wenhuajingweixian.xml
     V2WoqkOJ9g=fukechangpianxing.xml
+    p1WdY8NJgz=yiluchangtong.xml
 
 jobs:
   build:
