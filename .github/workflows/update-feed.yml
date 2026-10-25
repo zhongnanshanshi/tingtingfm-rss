@@ -1,0 +1,62 @@
+name: Update feed
+
+on:
+  schedule:
+    # 每天两次（UTC 01:17 / 13:17 = 北京时间 09:17 / 21:17）
+    # 音频链接的 auth_key 有效期约 10 天，每天刷新绰绰有余
+    - cron: "17 1,13 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-feed.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch via RSSHub and rebuild feed
+        run: |
+          python3 scripts/from_rsshub.py "${PROGRAM_ID:-VkZorENdE7}" \
+            --out feed.xml --limit 500
+
+      - name: Validate
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          t = ET.parse("feed.xml")
+          items = t.getroot().findall("./channel/item")
+          assert len(items) >= 20, f"too few items: {len(items)}"
+          for it in items:
+              enc = it.find("enclosure")
+              assert enc is not None, "missing enclosure"
+              assert enc.get("url", "").startswith("https://ttfm2018-oss-cdn"), "bad enclosure host"
+              assert it.findtext("pubDate"), "missing pubDate"
+          print(f"feed OK: {len(items)} items")
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

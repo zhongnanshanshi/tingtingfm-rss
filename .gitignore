@@ -1,7 +1,4 @@
 data.json
-serve.log
-refresh.log
-launchd.out.log
-launchd.err.log
 feed.xml.tmp
+refresh.log
 __pycache__/
