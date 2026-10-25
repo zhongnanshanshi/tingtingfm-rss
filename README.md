@@ -15,14 +15,15 @@
 | 科技新视点（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
 | 打开文化之门（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
 | 文化经纬线（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuajingweixian.xml | 日更 |
+| 悦读时光（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/yuedushiguang.xml | 日更 |
 | 复刻唱片行（音乐广播 FM97.4） | https://zhongnanshanshi.github.io/tingtingfm-rss/fukechangpianxing.xml | 周更 |
 | 照亮新闻深处（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
 
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
 节目 ID 分别是 `VWXaN2aM2j`、`2QKo6pJ1Nl`、`p1WdY8NJgz`、`OjdkYXRaBm`、`POjdkZgJBm`、
-`xGo4ebna0L`、`V2WoqkOJ9g`、`VkZorENdE7`，在 `update-feed.yml` 的 `FEEDS`
-环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
+`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`、`VkZorENdE7`，在 `update-feed.yml`
+的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
