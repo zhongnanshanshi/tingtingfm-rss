@@ -3,7 +3,7 @@
 把 [听听FM](https://mobile.tingtingfm.com) 的节目转成标准 Podcast RSS 2.0，
 可以直接粘进 Apple Podcasts / Overcast / Pocket Casts / 小宇宙 的「通过 URL 添加」。
 
-当前收录 13 个节目。
+当前收录 14 个节目。
 
 ## 订阅地址
 
@@ -32,6 +32,7 @@
 | 打开文化之门 | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
 | 文化经纬线 | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuajingweixian.xml | 日更 |
 | 悦读时光 | https://zhongnanshanshi.github.io/tingtingfm-rss/yuedushiguang.xml | 日更 |
+| 环球旅行家 | https://zhongnanshanshi.github.io/tingtingfm-rss/huanqiulvxingjia.xml | 日更 |
 
 **北京音乐广播 FM97.4**
 
@@ -49,8 +50,8 @@
 
 节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`rkgoD0o1qm`、`4ZdKyGea0r`、
 `OjdkYXRaBm`、`eLoAny1aGm`、`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、
-`V2WoqkOJ9g`、`p2Zdjwpozy`，在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，
-一行一项，格式 `<节目ID>=<输出文件>`。
+`D9VdpOZJeR`、`V2WoqkOJ9g`、`p2Zdjwpozy`，在 `update-feed.yml` 的 `FEEDS`
+环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
