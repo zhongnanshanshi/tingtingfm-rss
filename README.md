@@ -3,7 +3,7 @@
 把 [听听FM](https://mobile.tingtingfm.com) 的节目转成标准 Podcast RSS 2.0，
 可以直接粘进 Apple Podcasts / Overcast / Pocket Casts / 小宇宙 的「通过 URL 添加」。
 
-当前收录 10 个节目。
+当前收录 11 个节目。
 
 ## 订阅地址
 
@@ -37,10 +37,16 @@
 |---|---|---|
 | 复刻唱片行 | https://zhongnanshanshi.github.io/tingtingfm-rss/fukechangpianxing.xml | 周更 |
 
+**北京城市广播副中心之声 FM102.5 / AM1026**
+
+| 节目 | 订阅源 | 更新 |
+|---|---|---|
+| 教育面对面 | https://zhongnanshanshi.github.io/tingtingfm-rss/jiaoyumiduimian.xml | 日更 |
+
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
 节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`OjdkYXRaBm`、`eLoAny1aGm`、
-`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`，
+`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`、`p2Zdjwpozy`，
 在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
