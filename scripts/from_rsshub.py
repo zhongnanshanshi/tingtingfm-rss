@@ -123,7 +123,7 @@ def parse(raw, program_id):
             {
                 "h_audio_id": audio_id,
                 "title": (it.findtext("title") or "").strip(),
-                "duration": hms_to_seconds(it.findtext("itunes:duration", NS)),
+                "duration": hms_to_seconds(it.findtext("{http://www.itunes.com/dtds/podcast-1.0.dtd}duration") or ""),
                 "add_time": str(ts),
                 "play_url": url,
             }
