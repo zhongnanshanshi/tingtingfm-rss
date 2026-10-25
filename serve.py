@@ -25,7 +25,9 @@ import time
 from datetime import datetime
 from http.server import BaseHTTPRequestHandler, HTTPServer
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+_here = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, _here)
+sys.path.insert(0, os.path.join(_here, "scripts"))
 import tingtingfm_rss as tt  # noqa: E402
 
 PORT = int(os.environ.get("PORT", "8787"))
