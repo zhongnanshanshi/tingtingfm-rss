@@ -24,6 +24,7 @@ env:
   FEEDS: >-
     VkZorENdE7=feed.xml
     OjdkYXRaBm=kejixinshidian.xml
+    VWXaN2aM2j=xinwenyaozhidao.xml
 
 jobs:
   build:
