@@ -10,6 +10,7 @@
 | 节目 | 订阅源 | 更新 |
 |---|---|---|
 | 新闻要知道（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/xinwenyaozhidao.xml | 日更 |
+| 一路畅通·早高峰（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong-zao.xml | 日更 |
 | 一路畅通·晚高峰（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong.xml | 日更 |
 | 科技新视点（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
 | 打开文化之门（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
@@ -19,9 +20,9 @@
 
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
-节目 ID 分别是 `VWXaN2aM2j`、`p1WdY8NJgz`、`OjdkYXRaBm`、`POjdkZgJBm`、`xGo4ebna0L`、
-`V2WoqkOJ9g`、`VkZorENdE7`，在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，
-一行一项，格式 `<节目ID>=<输出文件>`。
+节目 ID 分别是 `VWXaN2aM2j`、`2QKo6pJ1Nl`、`p1WdY8NJgz`、`OjdkYXRaBm`、`POjdkZgJBm`、
+`xGo4ebna0L`、`V2WoqkOJ9g`、`VkZorENdE7`，在 `update-feed.yml` 的 `FEEDS`
+环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
