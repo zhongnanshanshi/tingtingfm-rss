@@ -11,12 +11,13 @@
 |---|---|---|
 | 新闻要知道（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/xinwenyaozhidao.xml | 日更 |
 | 科技新视点（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
+| 打开文化之门（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
 | 照亮新闻深处（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
 
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
-节目 ID 分别是 `VWXaN2aM2j`、`OjdkYXRaBm`、`VkZorENdE7`，在 `update-feed.yml`
-的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
+节目 ID 分别是 `VWXaN2aM2j`、`OjdkYXRaBm`、`POjdkZgJBm`、`VkZorENdE7`，
+在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 

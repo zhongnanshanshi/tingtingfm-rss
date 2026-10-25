@@ -13,6 +13,7 @@ Azure runner）一律返回 405，Actions 无法直连。而部分 RSSHub 公共
 
 import argparse
 import os
+import re
 import subprocess
 import sys
 import time
@@ -95,7 +96,7 @@ def parse(raw, program_id):
         "h_program_id": program_id,
         "title": title.split(" - ")[0] or title,
         "belong_radio": title.split(" - ")[1] if " - " in title else "",
-        "description": (ch.findtext("description") or "").strip(),
+        "description": re.sub(r"\s*-\s*Powered by RSSHub\s*$", "", (ch.findtext("description") or "").strip()),
         "cover": cover,
         "anchor": [],
         "audio_num": 0,
