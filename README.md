@@ -3,27 +3,45 @@
 把 [听听FM](https://mobile.tingtingfm.com) 的节目转成标准 Podcast RSS 2.0，
 可以直接粘进 Apple Podcasts / Overcast / Pocket Casts / 小宇宙 的「通过 URL 添加」。
 
-当前节目：[《照亮新闻深处》- 北京新闻广播](https://mobile.tingtingfm.com/v3/program/VkZorENdE7)
+当前收录 10 个节目。
 
 ## 订阅地址
 
+**北京交通广播 FM103.9**
+
 | 节目 | 订阅源 | 更新 |
 |---|---|---|
-| 新闻要知道（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/xinwenyaozhidao.xml | 日更 |
-| 一路畅通·早高峰（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong-zao.xml | 日更 |
-| 一路畅通·晚高峰（交通广播 FM103.9） | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong.xml | 日更 |
-| 科技新视点（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
-| 打开文化之门（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
-| 文化经纬线（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuajingweixian.xml | 日更 |
-| 悦读时光（文艺广播 FM87.6） | https://zhongnanshanshi.github.io/tingtingfm-rss/yuedushiguang.xml | 日更 |
-| 复刻唱片行（音乐广播 FM97.4） | https://zhongnanshanshi.github.io/tingtingfm-rss/fukechangpianxing.xml | 周更 |
-| 照亮新闻深处（新闻广播 FM94.5） | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
+| 一路畅通·早高峰 | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong-zao.xml | 日更 |
+| 一路畅通·晚高峰 | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong.xml | 日更 |
+| 新闻要知道 | https://zhongnanshanshi.github.io/tingtingfm-rss/xinwenyaozhidao.xml | 日更 |
+
+**北京新闻广播 FM94.5**
+
+| 节目 | 订阅源 | 更新 |
+|---|---|---|
+| 科技新视点 | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
+| 财经对对碰 | https://zhongnanshanshi.github.io/tingtingfm-rss/caijingduiduipeng.xml | 日更 |
+| 照亮新闻深处 | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
+
+**北京文艺广播 FM87.6**
+
+| 节目 | 订阅源 | 更新 |
+|---|---|---|
+| 打开文化之门 | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuazhimen.xml | 日更 |
+| 文化经纬线 | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuajingweixian.xml | 日更 |
+| 悦读时光 | https://zhongnanshanshi.github.io/tingtingfm-rss/yuedushiguang.xml | 日更 |
+
+**北京音乐广播 FM97.4**
+
+| 节目 | 订阅源 | 更新 |
+|---|---|---|
+| 复刻唱片行 | https://zhongnanshanshi.github.io/tingtingfm-rss/fukechangpianxing.xml | 周更 |
 
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
-节目 ID 分别是 `VWXaN2aM2j`、`2QKo6pJ1Nl`、`p1WdY8NJgz`、`OjdkYXRaBm`、`POjdkZgJBm`、
-`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`、`VkZorENdE7`，在 `update-feed.yml`
-的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
+节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`OjdkYXRaBm`、`eLoAny1aGm`、
+`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`，
+在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 

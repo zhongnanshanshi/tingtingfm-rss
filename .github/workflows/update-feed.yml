@@ -31,6 +31,7 @@ env:
     p1WdY8NJgz=yiluchangtong.xml
     2QKo6pJ1Nl=yiluchangtong-zao.xml
     1WdY5rMdgz=yuedushiguang.xml
+    eLoAny1aGm=caijingduiduipeng.xml
 
 jobs:
   build:
