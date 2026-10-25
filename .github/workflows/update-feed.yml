@@ -1,0 +1,57 @@
+name: Update Podcast RSS
+
+on:
+  schedule:
+    # 每 8 小时刷新一次，保证 enclosure 的 auth_key（10 天有效期）始终新鲜
+    - cron: "17 */8 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: [feed.xml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate feed
+        run: |
+          python scripts/tingtingfm_rss.py "${{ vars.PROGRAM_ID || 'VkZorENdE7' }}" \
+            --out feed.xml --limit 500
+
+      - name: Sanity check
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          t = ET.parse("feed.xml")
+          items = t.getroot().findall("./channel/item")
+          assert len(items) > 10, f"too few items: {len(items)}"
+          for it in items:
+              enc = it.find("enclosure")
+              assert enc is not None and enc.get("url", "").startswith("http"), "bad enclosure"
+          print(f"feed OK, {len(items)} items")
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
