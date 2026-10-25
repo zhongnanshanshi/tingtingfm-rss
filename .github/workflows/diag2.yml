@@ -1,0 +1,42 @@
+name: diag2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: probe hosts
+        run: |
+          UA="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+          for h in \
+            api.tingtingfm.com \
+            api-v1.tingtingfm.com \
+            api-v2.tingtingfm.com \
+            api-v3.tingtingfm.com \
+            www.tingtingfm.com \
+            m.tingtingfm.com \
+            mobile.tingtingfm.com \
+            ttfm2018-oss-cdn.tingtingfm.com \
+            ttfm2018pub-oss-cdn.tingtingfm.com \
+          ; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 12 -A "$UA" "https://$h/" || echo TIMEOUT)
+            printf "%-42s %s\n" "$h" "$code"
+          done
+
+      - name: probe api paths on mobile host
+        run: |
+          UA="Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148"
+          U="https://mobile.tingtingfm.com/broadcast/get_program_audio_list?version=h5_6.6.3.4&client=h5_YIidkdCDk4PMSHyqmTM4GYoALLUQCY&h_program_id=VkZorENdE7&api_sign=14c4bfa43f762de927973373b1001440"
+          echo "--- mobile host + path ---"
+          curl -s -o /dev/null -w "%{http_code}\n" --max-time 15 -A "$UA" "$U"
+          echo "--- with referer+origin ---"
+          curl -s -o /dev/null -w "%{http_code}\n" --max-time 15 -A "$UA" \
+            -H "Referer: https://mobile.tingtingfm.com/v3/program/VkZorENdE7" \
+            -H "Origin: https://mobile.tingtingfm.com" \
+            -H "Accept: application/json, text/plain, */*" \
+            "$U"
+          echo "--- http (not https) ---"
+          curl -s -o /dev/null -w "%{http_code}\n" --max-time 15 -A "$UA" \
+            "http://api-v3.tingtingfm.com/broadcast/get_program_audio_list?version=h5_6.6.3.4&client=h5_YIidkdCDk4PMSHyqmTM4GYoALLUQCY&h_program_id=VkZorENdE7&api_sign=14c4bfa43f762de927973373b1001440"
