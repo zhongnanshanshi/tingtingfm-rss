@@ -3,7 +3,7 @@
 把 [听听FM](https://mobile.tingtingfm.com) 的节目转成标准 Podcast RSS 2.0，
 可以直接粘进 Apple Podcasts / Overcast / Pocket Casts / 小宇宙 的「通过 URL 添加」。
 
-当前收录 14 个节目。
+当前收录 15 个节目。
 
 ## 订阅地址
 
@@ -23,6 +23,7 @@
 |---|---|---|
 | 科技新视点 | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
 | 财经对对碰 | https://zhongnanshanshi.github.io/tingtingfm-rss/caijingduiduipeng.xml | 日更 |
+| 文化范儿 | https://zhongnanshanshi.github.io/tingtingfm-rss/wenhuafaner.xml | 日更 |
 | 照亮新闻深处 | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
 
 **北京文艺广播 FM87.6**
@@ -49,9 +50,9 @@
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
 节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`rkgoD0o1qm`、`4ZdKyGea0r`、
-`OjdkYXRaBm`、`eLoAny1aGm`、`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、
-`D9VdpOZJeR`、`V2WoqkOJ9g`、`p2Zdjwpozy`，在 `update-feed.yml` 的 `FEEDS`
-环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
+`OjdkYXRaBm`、`eLoAny1aGm`、`Mwa2pOWd0z`、`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、
+`1WdY5rMdgz`、`D9VdpOZJeR`、`V2WoqkOJ9g`、`p2Zdjwpozy`，在 `update-feed.yml`
+的 `FEEDS` 环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
