@@ -19,6 +19,12 @@ concurrency:
   group: feed
   cancel-in-progress: true
 
+env:
+  # 节目ID=输出文件名，空格分隔。加节目只需在这里加一项。
+  FEEDS: >-
+    VkZorENdE7=feed.xml
+    OjdkYXRaBm=kejixinshidian.xml
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,34 +35,51 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch via RSSHub and rebuild feed
+      - name: Fetch via RSSHub and rebuild feeds
         run: |
-          python3 scripts/from_rsshub.py "${PROGRAM_ID:-VkZorENdE7}" \
-            --out feed.xml --limit 500
+          ok=0
+          for pair in $FEEDS; do
+            pid="${pair%%=*}"
+            out="${pair##*=}"
+            echo "::group::$pid -> $out"
+            if python3 scripts/from_rsshub.py "$pid" --out "$out" --limit 500; then
+              ok=1
+            else
+              echo "::warning::$pid 抓取失败，保留旧文件 $out"
+            fi
+            echo "::endgroup::"
+          done
+          if [ "$ok" = "0" ]; then
+            echo "::error::所有节目都抓取失败"
+            exit 1
+          fi
 
       - name: Validate
         run: |
           python3 - <<'PY'
-          import xml.etree.ElementTree as ET
-          t = ET.parse("feed.xml")
-          items = t.getroot().findall("./channel/item")
-          assert len(items) >= 20, f"too few items: {len(items)}"
-          for it in items:
-              enc = it.find("enclosure")
-              assert enc is not None, "missing enclosure"
-              assert enc.get("url", "").startswith("https://ttfm2018-oss-cdn"), "bad enclosure host"
-              assert it.findtext("pubDate"), "missing pubDate"
-          print(f"feed OK: {len(items)} items")
+          import glob, os, xml.etree.ElementTree as ET
+          files = [f for f in glob.glob("*.xml") if f != "feed.xml.tmp"]
+          assert files, "没有生成任何 feed"
+          for f in sorted(files):
+              t = ET.parse(f)
+              items = t.getroot().findall("./channel/item")
+              assert len(items) >= 20, f"{f}: 期数太少 ({len(items)})"
+              for it in items:
+                  enc = it.find("enclosure")
+                  assert enc is not None, f"{f}: 缺少 enclosure"
+                  assert enc.get("url", "").startswith("https://ttfm2018-oss-cdn"), f"{f}: enclosure 域名异常"
+                  assert it.findtext("pubDate"), f"{f}: 缺少 pubDate"
+              print(f"{f}: OK, {len(items)} 期, 最新 {items[0].findtext('pubDate')}")
           PY
 
       - name: Commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
+          git add "*.xml"
           if git diff --cached --quiet; then
             echo "no change"
           else
-            git commit -m "chore: refresh feed $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "chore: refresh feeds $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
