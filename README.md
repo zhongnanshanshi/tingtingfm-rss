@@ -7,11 +7,15 @@
 
 ## 订阅地址
 
-```
-https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml
-```
+| 节目 | 订阅源 | 更新 |
+|---|---|---|
+| 科技新视点 | https://zhongnanshanshi.github.io/tingtingfm-rss/kejixinshidian.xml | 日更 |
+| 照亮新闻深处 | https://zhongnanshanshi.github.io/tingtingfm-rss/feed.xml | 周更 |
 
-首页（含复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
+首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
+
+节目 ID 分别为 `OjdkYXRaBm`、`VkZorENdE7`，在 `update-feed.yml` 的 `FEEDS`
+环境变量里维护，一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
