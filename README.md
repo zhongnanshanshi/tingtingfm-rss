@@ -3,7 +3,7 @@
 把 [听听FM](https://mobile.tingtingfm.com) 的节目转成标准 Podcast RSS 2.0，
 可以直接粘进 Apple Podcasts / Overcast / Pocket Casts / 小宇宙 的「通过 URL 添加」。
 
-当前收录 12 个节目。
+当前收录 13 个节目。
 
 ## 订阅地址
 
@@ -15,6 +15,7 @@
 | 一路畅通·晚高峰 | https://zhongnanshanshi.github.io/tingtingfm-rss/yiluchangtong.xml | 日更 |
 | 新闻要知道 | https://zhongnanshanshi.github.io/tingtingfm-rss/xinwenyaozhidao.xml | 日更 |
 | 1039服务热线 | https://zhongnanshanshi.github.io/tingtingfm-rss/fuwurexian1039.xml | 日更 |
+| 行走天下（原联e会） | https://zhongnanshanshi.github.io/tingtingfm-rss/xingzoutianxia.xml | 日更 |
 
 **北京新闻广播 FM94.5**
 
@@ -46,10 +47,10 @@
 
 首页（带复制按钮）：<https://zhongnanshanshi.github.io/tingtingfm-rss/>
 
-节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`rkgoD0o1qm`、`OjdkYXRaBm`、
-`eLoAny1aGm`、`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、`V2WoqkOJ9g`、
-`p2Zdjwpozy`，在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，一行一项，
-格式 `<节目ID>=<输出文件>`。
+节目 ID 依次为 `2QKo6pJ1Nl`、`p1WdY8NJgz`、`VWXaN2aM2j`、`rkgoD0o1qm`、`4ZdKyGea0r`、
+`OjdkYXRaBm`、`eLoAny1aGm`、`VkZorENdE7`、`POjdkZgJBm`、`xGo4ebna0L`、`1WdY5rMdgz`、
+`V2WoqkOJ9g`、`p2Zdjwpozy`，在 `update-feed.yml` 的 `FEEDS` 环境变量里维护，
+一行一项，格式 `<节目ID>=<输出文件>`。
 
 ## 架构
 
