@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京新闻广播FM94.5/AM828</itunes:name></itunes:owner>
-    <lastBuildDate>Tue, 27 Oct 2026 14:38:53 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:44:27 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261027期：AI有了脸和声音，如何和数字人和谐相处？</title>
+      <description>20261027期：AI有了脸和声音，如何和数字人和谐相处？</description>
+      <guid isPermaLink="false">ttfm-ZdRjs8lO1d</guid>
+      <pubDate>Tue, 27 Oct 2026 21:12:20 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/50/c1/50c18330c29d75e5930c75c064bd755d.m4a?auth_key=1793990666-hMMXoSC6-0-2a44fbd5e1256c4472c68d307505ea51" type="audio/mp4" length="0"/>
+      <itunes:duration>00:45:21</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8lO1d</link>
+    </item>
     <item>
       <title>20261026期：跨越“视频图灵测试”的AI：是完美替身，还是诈骗温床？</title>
       <description>20261026期：跨越“视频图灵测试”的AI：是完美替身，还是诈骗温床？</description>
       <guid isPermaLink="false">ttfm-vJ0PsMRODJ</guid>
       <pubDate>Mon, 26 Oct 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/da/2a/da2a8151b9bbcf9f67b86761a89c4e2f.m4a?auth_key=1793947127-fFQF1vR1-0-5c5cc97c66b7ca80903047e79b860d9e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/da/2a/da2a8151b9bbcf9f67b86761a89c4e2f.m4a?auth_key=1793990666-MoHVE3JH-0-df2ab2303a2562bff291e132576a02d5" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMRODJ</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261024期：器官芯片等前沿科技未来可能如何改变我们的治疗方式？</description>
       <guid isPermaLink="false">ttfm-PorqsvQ6Pd</guid>
       <pubDate>Sat, 24 Oct 2026 21:12:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/19/91/1991148cbaf569dc7af0f30ce3a3efab.m4a?auth_key=1793947127-axTA7cYd-0-f3a061e602253fbf8da7cd9f92221650" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/19/91/1991148cbaf569dc7af0f30ce3a3efab.m4a?auth_key=1793990666-S0TsuJgo-0-38cd1a0a39c7bd69d93587430f96377c" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvQ6Pd</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261023期：模拟显示太阳系剩余寿命可能大幅缩短，谁是肇事者？</description>
       <guid isPermaLink="false">ttfm-eoxBsO2kQJ</guid>
       <pubDate>Fri, 23 Oct 2026 21:12:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/f8/ee/f8ee09487222194c764955cc8058b589.m4a?auth_key=1793947127-t7N0q7xW-0-cf4212470f476661c2a53c57104beeb5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/f8/ee/f8ee09487222194c764955cc8058b589.m4a?auth_key=1793990666-Yp3dAKl4-0-a4206a299dad221258900d948016fc27" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsO2kQJ</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261022期：“十五五”风光大基地的绿色底气</description>
       <guid isPermaLink="false">ttfm-PJQvsWNWVd</guid>
       <pubDate>Thu, 22 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/23/fe/23fe5e0338cf5cd4f6b482e27443ef4c.m4a?auth_key=1793947127-wOzzD1oe-0-91d59471cc86b84e7af12496daa5b1fc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/23/fe/23fe5e0338cf5cd4f6b482e27443ef4c.m4a?auth_key=1793990666-KdFgXdcb-0-178e780428947ef5353fc820d552b3b7" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWNWVd</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261021期：“无人区”找答案：风电叶片越做越大的背后</description>
       <guid isPermaLink="false">ttfm-QdBWs049lo</guid>
       <pubDate>Wed, 21 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/60/89/6089c7d0e4f6b1bb5fd07f1ada2d816b.m4a?auth_key=1793947127-5eh2JA7l-0-3beddc8cffd428273241a16cc61cda78" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/60/89/6089c7d0e4f6b1bb5fd07f1ada2d816b.m4a?auth_key=1793990666-1HeURdGL-0-71a2492d9db6ae54dcbaf26307863509" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs049lo</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261020期：专访银河通用张直政——人形机器人从零售、运动到落地千行百业还有多远？</description>
       <guid isPermaLink="false">ttfm-Vob5sY95ed</guid>
       <pubDate>Tue, 20 Oct 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/7c/cd/7ccdfe334aca8744afeee6ea045f3c06.m4a?auth_key=1793947127-iQYmG3Nm-0-f7b29d82c2ac40f743cb9e4485e35ff4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/7c/cd/7ccdfe334aca8744afeee6ea045f3c06.m4a?auth_key=1793990666-iByP9BNL-0-61b623ff6936d5aa906ff7a15ad4417f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sY95ed</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261019期：哪些燃脂运动在悄悄伤害膝关节？怎么避免人未老膝盖先衰？</description>
       <guid isPermaLink="false">ttfm-6JW8s2M9Ld</guid>
       <pubDate>Mon, 19 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/d6/48/d64823b2911aef4df57308d0db8cde7f.m4a?auth_key=1793947127-BgYqmk7m-0-1a859c2eff4b9a3a959d186180a04a3d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/d6/48/d64823b2911aef4df57308d0db8cde7f.m4a?auth_key=1793990666-01vb1bZw-0-39a7a3dd668c66842fce838985b9a344" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2M9Ld</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261017期：AI面试，是人在求职还是算法在挑人？</description>
       <guid isPermaLink="false">ttfm-goqZsGBb7a</guid>
       <pubDate>Sat, 17 Oct 2026 21:12:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/0b/9a/0b9a99c300d45ddf7df90999608ff898.m4a?auth_key=1793947127-RfTH4AsG-0-783bbb4bfc95820c853433692b7f2c38" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/0b/9a/0b9a99c300d45ddf7df90999608ff898.m4a?auth_key=1793990666-8x6IFmfz-0-28f98b75f3cd2d1e610ea03c4c97cc20" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsGBb7a</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261016期：正视更年期，科学护“她”健康</description>
       <guid isPermaLink="false">ttfm-MJmvse5Krd</guid>
       <pubDate>Fri, 16 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/17/3c/173c033a09f475f2e76cb231756fe372.m4a?auth_key=1793947127-Ga5DYZcr-0-0d4dc6e0d6e03b3be53107230d57c66e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/17/3c/173c033a09f475f2e76cb231756fe372.m4a?auth_key=1793990666-lgUP8n9Y-0-98fc5865162fea3bbb466a20e98ee576" type="audio/mp4" length="0"/>
       <itunes:duration>00:44:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvse5Krd</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261015期：从实验室到风场，风电叶片的“落地之旅”</description>
       <guid isPermaLink="false">ttfm-qaN0swnOmd</guid>
       <pubDate>Thu, 15 Oct 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/3c/22/3c22818948aeaf1854ea2dc967923904.m4a?auth_key=1793947127-mP7YmZxm-0-be6c0407a53e8a825041cfa5ab8292e4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/3c/22/3c22818948aeaf1854ea2dc967923904.m4a?auth_key=1793990666-lz2lY0A3-0-281423123892945c38b8b797630dc1fc" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swnOmd</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261014期：城市“捡秋”有讲究，哪些不能捡、不能吃？</description>
       <guid isPermaLink="false">ttfm-6JW8s2Y3xd</guid>
       <pubDate>Wed, 14 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/b9/c1/b9c1871551f11e64e3677988f51c6de0.m4a?auth_key=1793947127-UCBHLUQy-0-76ae88986d110c302099d3b5e055b609" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/b9/c1/b9c1871551f11e64e3677988f51c6de0.m4a?auth_key=1793990666-L9WrTYDV-0-b3a7263c9b04124174a9c66920032025" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2Y3xd</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261013期：四部门发布新规对“速成车”说不！新能源车或迎来营销整顿和行业洗牌</description>
       <guid isPermaLink="false">ttfm-xJvKsbDXwd</guid>
       <pubDate>Tue, 13 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/a5/37/a5371246f97918fbe37103ba43e853d8.m4a?auth_key=1793947127-keQcdTfy-0-2019655a1f7df0f060c2d2a77eba445e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/a5/37/a5371246f97918fbe37103ba43e853d8.m4a?auth_key=1793990666-vYOkazBn-0-7b416604c31b3c35cd4517cc39364a8a" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbDXwd</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261012期：秋收话驯化，看人类如何把野草变粮食</description>
       <guid isPermaLink="false">ttfm-QJgAsYl8vo</guid>
       <pubDate>Mon, 12 Oct 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/ce/a1/cea11533ff63d0d66ad9307b9331dee2.m4a?auth_key=1793947127-8xyVXtO3-0-ac51cc6f1bff4044db23823a833d35b8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/ce/a1/cea11533ff63d0d66ad9307b9331dee2.m4a?auth_key=1793990666-095pm7G0-0-9620cf63c4445671f13506cc003b6cc0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYl8vo</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261010期：中微子研究再次斩获诺贝尔物理学奖，为什么说“幽灵粒子”揭示宇宙奥秘？</description>
       <guid isPermaLink="false">ttfm-OdPXszgvRd</guid>
       <pubDate>Sat, 10 Oct 2026 21:12:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/1a/6a/1a6aa73ba05f5ad38ed3e0aaf4781c0e.m4a?auth_key=1793947127-nsKx0DFQ-0-b4a26f5cf43cc1ffdf8d2dc85df8b9b3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/1a/6a/1a6aa73ba05f5ad38ed3e0aaf4781c0e.m4a?auth_key=1793990666-WLerZby5-0-d4082bc33283098caad2f248ada0001f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszgvRd</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261009期：土豆的“吃法陷阱”和全谷物的“防癌密码”</description>
       <guid isPermaLink="false">ttfm-4o6Qs9MMZd</guid>
       <pubDate>Fri, 09 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/44/42/4442a588c540a1ed1963799e48fafec6.m4a?auth_key=1793947127-3VdfRIJo-0-5582a0f87949867f631c192d00f714ba" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/44/42/4442a588c540a1ed1963799e48fafec6.m4a?auth_key=1793990666-Dsw0W2JE-0-7246d86eecbfc85cb511eb293aca1037" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9MMZd</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261008期：从一次性内裤到次抛衣，一次性消费的便利与环保隐忧</description>
       <guid isPermaLink="false">ttfm-Vob5sYmKyd</guid>
       <pubDate>Thu, 08 Oct 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/86/a9/86a936b2803b47490e8121398075db32.m4a?auth_key=1793947127-KXyobiAi-0-cbb5b790bfe49a05ae417e8aabf6d4e4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/86/a9/86a936b2803b47490e8121398075db32.m4a?auth_key=1793990666-vXyJq5tz-0-819da490ec557f84f50b47ff54526d16" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYmKyd</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261007期：对话科技派——看病+科研，中西医结合攻坚妇科疾病</description>
       <guid isPermaLink="false">ttfm-Oo5psr68vd</guid>
       <pubDate>Wed, 07 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/c3/34/c334d1b806d0005f6bf6916af6f5f708.m4a?auth_key=1793947127-1LII892O-0-45dc898203a5ef8f810877da9eb83581" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/c3/34/c334d1b806d0005f6bf6916af6f5f708.m4a?auth_key=1793990666-kIzqQqIc-0-b80d9df3c2075a4b9231d32e1e034814" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr68vd</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261006期：对话科技派——让新能源成为北京城市更新加速的绿色引擎</description>
       <guid isPermaLink="false">ttfm-ZJ3esKbw4o</guid>
       <pubDate>Tue, 06 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/d8/58/d858be8965244be8f7d9ee7b6c93f41c.m4a?auth_key=1793947127-gmH5PtCc-0-ce5a26081243196abf091a60a85623a7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/d8/58/d858be8965244be8f7d9ee7b6c93f41c.m4a?auth_key=1793990666-UIXLmmCm-0-3abca2543a8d2adf50aa950ffc7fdfe7" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKbw4o</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261005期：对话科技派——访谈北理工陈赟教授团队</description>
       <guid isPermaLink="false">ttfm-xJvKsbDqgd</guid>
       <pubDate>Mon, 05 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/75/0e/750e64e7119c72dcd89b0440000275c6.m4a?auth_key=1793947127-JxFpRbZ8-0-aebd53317173199756c7245cbc19b50b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/75/0e/750e64e7119c72dcd89b0440000275c6.m4a?auth_key=1793990666-C9c4bbdt-0-fa6ca1e39ece2855c68f60aa6b09fe3d" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbDqgd</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261003期：对话科技派——访谈大兴机场建筑设计师王亦知</description>
       <guid isPermaLink="false">ttfm-polrsLLgrJ</guid>
       <pubDate>Sat, 03 Oct 2026 21:12:37 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/7a/06/7a06362c7d129334d96bc334738142a5.m4a?auth_key=1793947127-D4e2C2bv-0-ef8c7d88ec715598ba9abaf721c28dca" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/7a/06/7a06362c7d129334d96bc334738142a5.m4a?auth_key=1793990666-pIn8rvMB-0-5ed22c79524b340f42dcfa15a9ab3a0b" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLLgrJ</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261002期：对话科技派——破解“难言之隐”，科技点亮生命尊严</description>
       <guid isPermaLink="false">ttfm-Ka2Ps66Ard</guid>
       <pubDate>Fri, 02 Oct 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/ab/a7/aba7f8e49575a1f58d1e35f8d2432808.m4a?auth_key=1793947127-KIqxdqAp-0-65df15b4f601a7eada136522c2ad359f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/ab/a7/aba7f8e49575a1f58d1e35f8d2432808.m4a?auth_key=1793990666-1pfLaWZK-0-37cb4bb4e666e3c087cab9c0c292b3c0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps66Ard</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261001期：对话科技派——AI如何助力“通信塔”变身“数字塔”？</description>
       <guid isPermaLink="false">ttfm-eaVrsAAmKa</guid>
       <pubDate>Thu, 01 Oct 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/47/78/4778ca791bf5e34739cc302db6c5d7ef.m4a?auth_key=1793947127-8QyLt4Ew-0-deea29e5b2e350e49b778c8168154532" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/47/78/4778ca791bf5e34739cc302db6c5d7ef.m4a?auth_key=1793990666-YZae3yGl-0-ffd27f03dc768c80e028bb1f4051df29" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAAmKa</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20260930期：看见科普追光者，他们眼中科普不止一种答案</description>
       <guid isPermaLink="false">ttfm-0dGMsnn7Ya</guid>
       <pubDate>Wed, 30 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/31/aa/31aa53504730ec36056270f7b6aa6e7f.m4a?auth_key=1793947127-WwTdZ3oB-0-f0e8eb89f04bff3d42d430e2fc540926" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/31/aa/31aa53504730ec36056270f7b6aa6e7f.m4a?auth_key=1793990666-1fg2vmXd-0-fa94e470aafe9f70aeea058549a82b2d" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnn7Ya</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20260929期：看见科普追光者，植保科学家的“双面人生”</description>
       <guid isPermaLink="false">ttfm-raEvsAAbEJ</guid>
       <pubDate>Tue, 29 Sep 2026 21:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/33/30/33303ce525dc7faf1c9ec1f55c97255c.m4a?auth_key=1793947127-iLIPWyPR-0-a6f69477eeb4bc80e2504d3c8c313cec" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/33/30/33303ce525dc7faf1c9ec1f55c97255c.m4a?auth_key=1793990666-4A87XFN7-0-c6adc1408761ce153ec698c38df5ebd0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAAbEJ</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20260928期：人工智能时代的数据安全与隐私保护，怎么让AI“学会忘记”？</description>
       <guid isPermaLink="false">ttfm-Oowlsbb4la</guid>
       <pubDate>Mon, 28 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/f6/bd/f6bdfac406d8f9c19ac67fc365892145.m4a?auth_key=1793947127-n3xgm5eB-0-e20c1197179f537544d4d64ca55c6752" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/f6/bd/f6bdfac406d8f9c19ac67fc365892145.m4a?auth_key=1793990666-RmB0VjPZ-0-8d4b6f428151add80ffedd066d084c12" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oowlsbb4la</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20260926期：数字遗产背后的技术与价值逻辑</description>
       <guid isPermaLink="false">ttfm-MaXAs770WJ</guid>
       <pubDate>Sat, 26 Sep 2026 21:12:37 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/03/01/0301677f441522fb2110a3998e175702.m4a?auth_key=1793947127-ETsNNulq-0-b7e3db2349de5de6c427073b4c03ddc5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/03/01/0301677f441522fb2110a3998e175702.m4a?auth_key=1793990666-ts4Y69lo-0-4ecfec6dc1836fa43a21c7e912392dc7" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs770WJ</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20260925期：具身智能进入下半场，谁能率先走向量产？</description>
       <guid isPermaLink="false">ttfm-polrsLLQbJ</guid>
       <pubDate>Fri, 25 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/a9/a5/a9a5b7ccddb436af56770c588e20bace.m4a?auth_key=1793947127-8wAVOK0c-0-c7a2afe7ecb35ebb0c5d7f8e796cbe12" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/a9/a5/a9a5b7ccddb436af56770c588e20bace.m4a?auth_key=1793990666-4ubSEpRU-0-b68f59eee09e15df5bf56c0115b9b157" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLLQbJ</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20260924期：色彩遇见脑机接口，探索“看见”的情绪密码</description>
       <guid isPermaLink="false">ttfm-eoxBsOOypJ</guid>
       <pubDate>Thu, 24 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/17/ed/17eda5cab4e99bad16c37308de0064b2.m4a?auth_key=1793947127-ZNlfbbVN-0-c9b1fb36fa93a7f744a5616057f2d343" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/17/ed/17eda5cab4e99bad16c37308de0064b2.m4a?auth_key=1793990666-BjVcsxvS-0-d7cf10b140f64859d36efb50e2930d7e" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOOypJ</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20260923期：智慧植保助丰收——虫口夺粮背后的科技密码</description>
       <guid isPermaLink="false">ttfm-PJQvsWWgBd</guid>
       <pubDate>Wed, 23 Sep 2026 21:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/8d/45/8d45fd094c8914a7d38c176368c03dc3.m4a?auth_key=1793947127-0JuHs17N-0-1c217fba3906d1538f88b046e35fd525" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/8d/45/8d45fd094c8914a7d38c176368c03dc3.m4a?auth_key=1793990666-MsVKmPa0-0-de228ce400f637a3fdefbc31111b1e23" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWWgBd</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20260922期：北京飞上海只需半小时，超音速客机离我们还有多远？</description>
       <guid isPermaLink="false">ttfm-QdBWs00Deo</guid>
       <pubDate>Tue, 22 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/c1/6d/c16d7244b41e8e659c2de1297f6bcced.m4a?auth_key=1793947127-JRR3wgOi-0-877a17aa91f459f2352dadb75f114770" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/c1/6d/c16d7244b41e8e659c2de1297f6bcced.m4a?auth_key=1793990666-8kKQMMKe-0-a29d19f25b3ae261d8e29b69c8d6f6c2" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs00Deo</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20260921期：钨价两年涨9倍，“工业牙齿”钨为何如此紧俏？</description>
       <guid isPermaLink="false">ttfm-4o6Qs9DgAd</guid>
       <pubDate>Mon, 21 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/6b/bf/6bbf99ecde7c675ab7ee44c83db93191.m4a?auth_key=1793947127-ggy4N6fJ-0-4bc123bfb6786d6713884ee97bbaed87" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/6b/bf/6bbf99ecde7c675ab7ee44c83db93191.m4a?auth_key=1793990666-fLWgN04x-0-4f406cb6195696b745805efddd4ef9c2" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9DgAd</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20260919期：“飞行的硫酸”还是“农田卫士”？今天把隐翅虫说清楚</description>
       <guid isPermaLink="false">ttfm-ZdRjs89V8d</guid>
       <pubDate>Sat, 19 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/67/69/676974869858eee1f87a2bbf6c6b968a.m4a?auth_key=1793947127-nVAOB4iQ-0-e76b408c716ad6279ee169ad7197a1b8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/67/69/676974869858eee1f87a2bbf6c6b968a.m4a?auth_key=1793990666-HpTogjTx-0-7758a1ae3f84d2992b5fb2ba550027e0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs89V8d</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20260918期：”智能时代“的网络安全发生了哪些变化？</description>
       <guid isPermaLink="false">ttfm-MaXAs73P1J</guid>
       <pubDate>Fri, 18 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/df/04/df04fe00147313e19e3b8d998803e195.m4a?auth_key=1793947127-hjNm0Yhz-0-046df6eb998fdf064b03622ad9125825" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/df/04/df04fe00147313e19e3b8d998803e195.m4a?auth_key=1793990666-OdY6OHYm-0-1b546001a86dcb6c38485cba3afd3339" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs73P1J</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20260917期：科普月看见科普追光者:听农科院“全职科普人”教你好好吃饭</description>
       <guid isPermaLink="false">ttfm-MJmvsewROd</guid>
       <pubDate>Thu, 17 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/03/f7/03f7607f7ffeedd9b9768d55bce29fe8.m4a?auth_key=1793947127-y55ZdQEA-0-8b9172e2ca5e39a0fa107f132cced8de" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/03/f7/03f7607f7ffeedd9b9768d55bce29fe8.m4a?auth_key=1793990666-Kn4Huqsu-0-583faa08f4f1074eb69472730020fbad" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvsewROd</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20260916期：自查这几点，看看你是不是AI成瘾了？</description>
       <guid isPermaLink="false">ttfm-7oZbsW9vAo</guid>
       <pubDate>Wed, 16 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/c2/a5/c2a50152623fae4fb0b415549520791c.m4a?auth_key=1793947127-y2lOclmg-0-38aa4650a6addafc9b0d2f691b7d77da" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/c2/a5/c2a50152623fae4fb0b415549520791c.m4a?auth_key=1793990666-mpcYLxEX-0-cd68f4cc6c47e6cb24198d1c82960613" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsW9vAo</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20260915期：苹果上新、折叠屏破万，手机进入“奢侈”时代了吗？</description>
       <guid isPermaLink="false">ttfm-vJ0PsM0bnJ</guid>
       <pubDate>Tue, 15 Sep 2026 21:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/fd/f1/fdf1ca3fd970f6be8d0a2ad767359abf.m4a?auth_key=1793947127-7dSvpw6r-0-8778dcbe800d13d0195ef75a4594dc3d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/fd/f1/fdf1ca3fd970f6be8d0a2ad767359abf.m4a?auth_key=1793990666-MrMcGfdg-0-0a88584269e9e1861df223fac26a5a3f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsM0bnJ</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20260914期：解读“十个没想到”破除食品营养认知误区</description>
       <guid isPermaLink="false">ttfm-0dGMsnMkVa</guid>
       <pubDate>Mon, 14 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/10/49/104957429bb6db032eacdfe5923f351e.m4a?auth_key=1793947127-dqCmdbVM-0-6fb5e0438336d7ac2f7901f3530472f2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/10/49/104957429bb6db032eacdfe5923f351e.m4a?auth_key=1793990666-8Iv42dcc-0-b8d4b7554c74d43e5f659ec1d809d0e4" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnMkVa</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20260912期：过敏的人为何越来越多，有哪些前沿疗法？</description>
       <guid isPermaLink="false">ttfm-6JW8s2l29d</guid>
       <pubDate>Sat, 12 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/82/71/8271128d0d76637f860eab78ef4c3591.m4a?auth_key=1793947127-vddykglP-0-edd5886dd9ac41c1b3008481a1091a33" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/82/71/8271128d0d76637f860eab78ef4c3591.m4a?auth_key=1793990666-sWWI75g1-0-c91d691edb93b6596d2031eef7defd67" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2l29d</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20260911期：指尖革命:灵巧手练就“穿针引线”真功夫</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPEK0o</guid>
       <pubDate>Fri, 11 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/99/37/993799a0bc3bbdb13593bf6ed12a6456.m4a?auth_key=1793947127-0YIWHceA-0-181e30d9b44fd82136ed467cf5286cf9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/99/37/993799a0bc3bbdb13593bf6ed12a6456.m4a?auth_key=1793990666-Zke3NpuF-0-cb792ebe437862833d9f45b456829b38" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:35</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPEK0o</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20260910期：从"冠军餐桌"到"国民食堂"——AI智慧营养如何助力大众健康生活？</description>
       <guid isPermaLink="false">ttfm-VJLvspjB1o</guid>
       <pubDate>Thu, 10 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/56/ba/56ba0a262aed03d251fb072a916a0ab4.m4a?auth_key=1793947127-IW1KI9N9-0-27617f24f627be3a0b54f6caca3f871f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/56/ba/56ba0a262aed03d251fb072a916a0ab4.m4a?auth_key=1793990666-2zbax4Lj-0-c3f9b08f0a383a2c033dc206c2092109" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:19</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspjB1o</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20260909期：机器人超越人类极限，怎么看具身智能产学研新生态</description>
       <guid isPermaLink="false">ttfm-qaN0swxpEd</guid>
       <pubDate>Wed, 09 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/2c/64/2c64cade7af34a8b3aa3b51ed0ef2061.m4a?auth_key=1793947127-AanWZfMQ-0-92ecf1f67a9a91c029360c64df88cfe1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/2c/64/2c64cade7af34a8b3aa3b51ed0ef2061.m4a?auth_key=1793990666-jH1KRrSF-0-ac74289bf8f0aebd2fda2be583c33ba6" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swxpEd</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20260908期："错峰互济”跨越时空的追风补光之旅</description>
       <guid isPermaLink="false">ttfm-6JW8s2AxKd</guid>
       <pubDate>Tue, 08 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/79/5f/795f3e55a6fbc5b042d43fb7abe75bc0.m4a?auth_key=1793947127-Qopy5WOk-0-b16b20f9c89f84dc432523e36fb6e354" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/79/5f/795f3e55a6fbc5b042d43fb7abe75bc0.m4a?auth_key=1793990666-sIsQlW5M-0-c2731fc737731cfbe718dfafe469b8fa" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2AxKd</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20260907期：绿电交易开启与百姓生活的一次“绿色对话”</description>
       <guid isPermaLink="false">ttfm-PJQvsWXY8d</guid>
       <pubDate>Mon, 07 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/03/42/0342d4915f1ac19739a4b7fdfb41a0b7.m4a?auth_key=1793947127-36B69yzp-0-5d744b7e7ad04a9a710cbda5f0c0eb8a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/03/42/0342d4915f1ac19739a4b7fdfb41a0b7.m4a?auth_key=1793990666-J47i1Ubj-0-7a97597bff46c95859bb263fcea7b3e7" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWXY8d</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20260905期：气候监测解锁地球“慢直播”</description>
       <guid isPermaLink="false">ttfm-ea8RsgEZrd</guid>
       <pubDate>Sat, 05 Sep 2026 21:12:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/fc/e9/fce9a8178fc1beaf478f5019dd284e4b.m4a?auth_key=1793947127-J9FMZxHk-0-f469828c585fd535228d0249e391a735" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/fc/e9/fce9a8178fc1beaf478f5019dd284e4b.m4a?auth_key=1793990666-6mpAJRQZ-0-86186b48908766b678272978dd2ff591" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgEZrd</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260904期：赛场内外之机器人盛会观察与相关人才培养</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6pYOd</guid>
       <pubDate>Fri, 04 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/22/82/2282542232203f47833d87fe7819ad53.m4a?auth_key=1793947127-ddJWeygR-0-6ce0d1295d98220c59f569e42f89b702" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/22/82/2282542232203f47833d87fe7819ad53.m4a?auth_key=1793990666-iZQUprpI-0-03365a6c345ded40dc2d07dd8fe6f754" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6pYOd</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260903期：从“蛇中大熊猫”标本受损说起，了解珍稀物种与标本背后的科学</description>
       <guid isPermaLink="false">ttfm-gay7s9D5rd</guid>
       <pubDate>Thu, 03 Sep 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/b2/a4/b2a440185be5aa53223dacc1c4cd6567.m4a?auth_key=1793947127-V2dpeNBu-0-0fd4176e347eaf1aea1999d4ad15f7b1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/b2/a4/b2a440185be5aa53223dacc1c4cd6567.m4a?auth_key=1793990666-bhLk9IHJ-0-560143bd322b17e2696a3eff58655ad8" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9D5rd</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260902期：北大团队研究南极冰川融化释放剧毒汞，气候变暖下冰川融化的隐秘危机</description>
       <guid isPermaLink="false">ttfm-0dGMsngKya</guid>
       <pubDate>Wed, 02 Sep 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/08/94/089482797c030627335aa0ac64e50c28.m4a?auth_key=1793947127-QRwR0i8e-0-3b81f9d22d1ca2eb6b5bb15514f392b7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/08/94/089482797c030627335aa0ac64e50c28.m4a?auth_key=1793990666-gKp5nO03-0-69dd6476c79ebbec3a84e63f73dddecb" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsngKya</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260901期：好柿多“蘑”，一次“反向生长”的真菌奇遇</description>
       <guid isPermaLink="false">ttfm-raEvsAzYwJ</guid>
       <pubDate>Tue, 01 Sep 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/e0/94/e09453626fc6d71de70035ed55dceeda.m4a?auth_key=1793947127-HsOFw8z0-0-0d4d954ee88057959c4f2a506ec6dd1d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/e0/94/e09453626fc6d71de70035ed55dceeda.m4a?auth_key=1793990666-Btije655-0-3a1ecf61b1ba3f9f9e7b0a8cb4477805" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAzYwJ</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260831期：开学季情绪“告急”怎么办？</description>
       <guid isPermaLink="false">ttfm-7oZbsW5lko</guid>
       <pubDate>Mon, 31 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/ae/3f/ae3f454c41ff3a29fb7e7c98b27d010f.m4a?auth_key=1793947127-rPBfgDet-0-c250bd444b03e4440d0b744eab6a02a5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/ae/3f/ae3f454c41ff3a29fb7e7c98b27d010f.m4a?auth_key=1793990666-9KzdI1o4-0-0f84df9a51e558f9e4246812628390b0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsW5lko</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260829期：亚洲水塔上空“空中补给线”首次被拍到</description>
       <guid isPermaLink="false">ttfm-QdBWs0O9Xo</guid>
       <pubDate>Sat, 29 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/5a/c3/5ac32e5f8df909e589a5472f37bed890.m4a?auth_key=1793947127-7r8Vp5c8-0-6990c3db48a33395befa8bd494745e7c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/5a/c3/5ac32e5f8df909e589a5472f37bed890.m4a?auth_key=1793990666-hzPsWTlf-0-d19875d3022cef2b335a003748e67c88" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs0O9Xo</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260828期：别等老了才控糖，血糖管理警戒线竟是35岁</description>
       <guid isPermaLink="false">ttfm-polrsLGzWJ</guid>
       <pubDate>Fri, 28 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/83/8e/838e3b812ae68a3c715c6baf67d48ed0.m4a?auth_key=1793947127-S2j2p3PJ-0-81fd38e5ca535111abb69aa735805ae0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/83/8e/838e3b812ae68a3c715c6baf67d48ed0.m4a?auth_key=1793990666-jd1OqRyu-0-141589f0ebf2791d3fd54ab38b5b3f84" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLGzWJ</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260827期：台风沙德尔加天文大潮来袭警惕沿海地区海水倒灌</description>
       <guid isPermaLink="false">ttfm-Lo7PspDVNa</guid>
       <pubDate>Thu, 27 Aug 2026 21:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/f9/f5/f9f58d27473b5adf3c24f3cbe8b7ddf9.m4a?auth_key=1793947127-MPaXJI0i-0-6775ecab2db008f9563405bb689f7c3b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/f9/f5/f9f58d27473b5adf3c24f3cbe8b7ddf9.m4a?auth_key=1793990666-mR1Wlqzk-0-0ffdad4d1def3eb3e14aaaf8f01a9a79" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7PspDVNa</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260826期：跨越百万年的杂交奇缘</description>
       <guid isPermaLink="false">ttfm-PJQvsWvR2d</guid>
       <pubDate>Wed, 26 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/f6/e6/f6e6b0bb5503bad5390716f10282c71e.m4a?auth_key=1793947127-CAXNyA0L-0-23561c9292329897dc3084497a59616c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/f6/e6/f6e6b0bb5503bad5390716f10282c71e.m4a?auth_key=1793990666-gzJJnchB-0-3d251917f689a01fd60403354195cadd" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWvR2d</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260825期：给长城做“数字体检”：防患未然的科技新方</description>
       <guid isPermaLink="false">ttfm-eaVrsANNAa</guid>
       <pubDate>Tue, 25 Aug 2026 21:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/00/69/0069b792017cec3523f67dcfa039ba1a.m4a?auth_key=1793947127-3h3Rylm1-0-c60a7bff6e22850e9cb22fe35bcef742" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/00/69/0069b792017cec3523f67dcfa039ba1a.m4a?auth_key=1793990666-reeVyUPO-0-4afd1469d489e06b08d74f3b7beb16d5" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsANNAa</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260824期：从“大熊猫倒行”看动物的“刻板行为”与动物福利</description>
       <guid isPermaLink="false">ttfm-gay7s9Nj9d</guid>
       <pubDate>Mon, 24 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/bc/0d/bc0d09d49642fcfa9180a0a88e9dde91.m4a?auth_key=1793947127-fTH55Ki6-0-4ada6f125dd3ed41350682d603cc2099" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/bc/0d/bc0d09d49642fcfa9180a0a88e9dde91.m4a?auth_key=1793990666-s20VB4Yh-0-0d6d11a6cdac8ee478afc71eb42d6fc0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9Nj9d</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260822期：WRC风向之变：从“翻跟头”到“真干活”</description>
       <guid isPermaLink="false">ttfm-raEvsjKVEJ</guid>
       <pubDate>Sat, 22 Aug 2026 21:12:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/b4/a0/b4a00f245e231e7c17662e179a73aa91.m4a?auth_key=1793947127-vR0u63By-0-7fe14ba9908db4aecd9b0e478d1f74e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/b4/a0/b4a00f245e231e7c17662e179a73aa91.m4a?auth_key=1793990666-iKWxlHLP-0-d7008ef9ccdbfb6db365dcce2b94f9d0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsjKVEJ</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260821期：中国火箭回收双路径：着陆腿与网系各有所长</description>
       <guid isPermaLink="false">ttfm-Vob5sZjDzd</guid>
       <pubDate>Fri, 21 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/96/c5/96c5e4f931b22a16f6ca8d1d84d47ac9.m4a?auth_key=1793947127-W4a0AvRE-0-7a1b5ded762ff5d082f0f825fe9a4df9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/96/c5/96c5e4f931b22a16f6ca8d1d84d47ac9.m4a?auth_key=1793990666-9dkCfwU8-0-09215c03c61c1dc01af9fa9153aafba5" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZjDzd</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260820期：祝贺！朱雀三号“入轨+回收”双成功</description>
       <guid isPermaLink="false">ttfm-Oo5psB72Zd</guid>
       <pubDate>Thu, 20 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/a4/1a/a41aec9d6e543aa0772105749350e93b.m4a?auth_key=1793947127-4lFD20EC-0-eb980274c293b60fd999c6e92d832c40" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/a4/1a/a41aec9d6e543aa0772105749350e93b.m4a?auth_key=1793990666-sIj3PsfK-0-53fc1cfd37155c3ecc927e5694affb90" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psB72Zd</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260819期：零蔗糖=无糖？白砂糖比果葡糖浆好？听懂饮料里的甜</description>
       <guid isPermaLink="false">ttfm-4o6QsDgPRd</guid>
       <pubDate>Wed, 19 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/68/2d/682d7912d52cc47babf25e96a903b8af.m4a?auth_key=1793947127-2TMcGrN0-0-923dcfdc3c3d8a57d7d287952ed29f33" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/68/2d/682d7912d52cc47babf25e96a903b8af.m4a?auth_key=1793990666-FjigtYN2-0-c399e2239badae9a42ff7b3fb2242812" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6QsDgPRd</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260818期：算电协同：人工智能时代的“进化方程式”</description>
       <guid isPermaLink="false">ttfm-6JW8slxvOd</guid>
       <pubDate>Tue, 18 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/75/cf/75cf2fbd43c586dc5d4357f8d012699f.m4a?auth_key=1793947127-TBqeaSJt-0-c98219a06b34a9e0cd9456d9f4a1d81b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/75/cf/75cf2fbd43c586dc5d4357f8d012699f.m4a?auth_key=1793990666-UNXSRkd5-0-a110522f86736a68a5ef50107229c7e0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8slxvOd</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260817期：我国新能源汽车跨越“半壁江山”后，如何更稳健发展？</description>
       <guid isPermaLink="false">ttfm-kdjgsykwYo</guid>
       <pubDate>Mon, 17 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/2c/a7/2ca706be632bb507dbc8c01fa7ac9730.m4a?auth_key=1793947127-xXNPiVYB-0-d61d017e108e2ac37951620df151ccf6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/2c/a7/2ca706be632bb507dbc8c01fa7ac9730.m4a?auth_key=1793990666-ym11VoBe-0-7eeb833ba36970fd9a7e2945132c0f78" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsykwYo</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260815期：唤醒沉睡的大脑——脑机接口与意识障碍的科学突围</description>
       <guid isPermaLink="false">ttfm-OowlsNMKla</guid>
       <pubDate>Sat, 15 Aug 2026 21:12:33 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/72/d2/72d216191a2f20eb44843a53b02f1661.m4a?auth_key=1793947127-ZKhlUpi9-0-4cb97c7816a359f56bb40c39bdbd18ec" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/72/d2/72d216191a2f20eb44843a53b02f1661.m4a?auth_key=1793990666-AMLpL0G7-0-47ab1021767da47a60ed901006f5fb5f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNMKla</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260814期：圆柏育种攻关，努力让“过敏星人”好过点</description>
       <guid isPermaLink="false">ttfm-6JW8sl1Gjd</guid>
       <pubDate>Fri, 14 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/cb/70/cb709f873e84370d0f96e686b00e879c.m4a?auth_key=1793947127-PEeaiwyb-0-15eea3655db98d19dda9a385d90b03b0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/cb/70/cb709f873e84370d0f96e686b00e879c.m4a?auth_key=1793990666-KX90LIGc-0-d96e55e953de21885d1d4de669e37cc0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8sl1Gjd</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260813期：铁打的长寿“绿”却是让你“流泪”的常青树</description>
       <guid isPermaLink="false">ttfm-xJvKsxPkvd</guid>
       <pubDate>Thu, 13 Aug 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/fb/ac/fbaca36852109df070b1fe919f8ebebe.m4a?auth_key=1793947127-SihClwwt-0-ea07f9a1e5d1e5c46612e4a09ddbe13e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/fb/ac/fbaca36852109df070b1fe919f8ebebe.m4a?auth_key=1793990666-mxbHCGka-0-fd7ee67284ab34cf5495686d0752894c" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsxPkvd</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260812期：每天玩“拼豆”眼轴成倍增长，暑假青少年如何科学用眼？</description>
       <guid isPermaLink="false">ttfm-xo4GsV8wBd</guid>
       <pubDate>Wed, 12 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/75/73/757391022e21c5c6d784f5b798bc3560.m4a?auth_key=1793947127-fCGV7AZE-0-9831e529968353c4446006a90331a0fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/75/73/757391022e21c5c6d784f5b798bc3560.m4a?auth_key=1793990666-ZuPUuXkP-0-b292de4a686a9ef995532e5de119bf90" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsV8wBd</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260811期：毛毛虫进入暴食期，揭秘北京抗击美国白蛾的“科技战”</description>
       <guid isPermaLink="false">ttfm-kdjgsyBOpo</guid>
       <pubDate>Tue, 11 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/ea/06/ea06796266fcfdbebd22d2018e1a04c6.m4a?auth_key=1793947127-wHuIo7FV-0-5a17322847763cc0274b73a5e6ed519d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/ea/06/ea06796266fcfdbebd22d2018e1a04c6.m4a?auth_key=1793990666-zRWRGYN3-0-85ddb62af8a8915e43c29b58fb8c2ec1" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsyBOpo</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260810期：北周阿史那皇后遗骨微量元素检测看考古成果</description>
       <guid isPermaLink="false">ttfm-2d9es2mL1d</guid>
       <pubDate>Mon, 10 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/4f/e1/4fe1352ce28bcf34f5b6eaeafeb758c1.m4a?auth_key=1793947127-ODN7t7g1-0-b95960de6033f3e96f11b7ba01a14273" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/4f/e1/4fe1352ce28bcf34f5b6eaeafeb758c1.m4a?auth_key=1793990666-DBIQV350-0-f1d58f558da84bc2e04916c852794be9" type="audio/mp4" length="0"/>
       <itunes:duration>00:46:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9es2mL1d</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260808期：120万辆特斯拉因悬架问题遭调查，会不会波及中国市场？</description>
       <guid isPermaLink="false">ttfm-4o6QsDqxAd</guid>
       <pubDate>Sat, 08 Aug 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/b5/26/b5263f644aae9ea14e096b21b5794f9d.m4a?auth_key=1793947127-bhRngeG3-0-979f4712e3fa2b7025fb7f587e8a6828" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/b5/26/b5263f644aae9ea14e096b21b5794f9d.m4a?auth_key=1793990666-ZGgTVx95-0-3a1c500e698da92b40a025e88ba47431" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6QsDqxAd</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260807期：AI向善，少年有为—AI赋能教育和创业的路径</description>
       <guid isPermaLink="false">ttfm-ea8Rsx30jd</guid>
       <pubDate>Fri, 07 Aug 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/85/ab/85ab575d002d937667ffa6df363c35bf.m4a?auth_key=1793947127-nZbjOBrf-0-385ada184f032f28ed89ab7cb36d7965" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/85/ab/85ab575d002d937667ffa6df363c35bf.m4a?auth_key=1793990666-Da81WpqN-0-77c0c3458a2251e1f26b635df88807ae" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsx30jd</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260806期：科技进步能否解决牛蛙等生鲜的高密度养殖之困？</description>
       <guid isPermaLink="false">ttfm-Rd1ZsERVpo</guid>
       <pubDate>Thu, 06 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/f3/99/f39945d1992f4d165afabd8ef9a90fed.m4a?auth_key=1793947127-WKzezDMR-0-7e2698cf59ee9900d2c49a3d71e4be2b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/f3/99/f39945d1992f4d165afabd8ef9a90fed.m4a?auth_key=1793990666-SL4bAU9f-0-6b53e73e5c84600729e33c25dfc3b010" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsERVpo</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260805期：多地曝出抗生素牛蛙，抗生素滥用可能带来哪些问题？</description>
       <guid isPermaLink="false">ttfm-VJLvsjnZko</guid>
       <pubDate>Wed, 05 Aug 2026 21:12:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/b9/fe/b9feabf1bfa130d4c3364b95b43ba6a5.m4a?auth_key=1793947127-sUDNiyT0-0-7b52608fa69f3df7d918ba60faa9ae2b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/b9/fe/b9feabf1bfa130d4c3364b95b43ba6a5.m4a?auth_key=1793990666-PQTYF4hl-0-6346b7f366c47e651250a3920259be92" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvsjnZko</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260804期：科技上天入地，智能机组合在草原“打工”</description>
       <guid isPermaLink="false">ttfm-qaN0sx1mYd</guid>
       <pubDate>Tue, 04 Aug 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/c0/da/c0da5f160e9480b231be27a15f5b9fe7.m4a?auth_key=1793947127-nItBPyZx-0-d313d65c5a7b9909ae5d5feead06f57f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/c0/da/c0da5f160e9480b231be27a15f5b9fe7.m4a?auth_key=1793990666-1f2gV28A-0-b409580602f11006a244c09f27e0a9cd" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sx1mYd</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260803期：暑期的草原是旅游景点也是“数字化的牧野”</description>
       <guid isPermaLink="false">ttfm-eoxBse2OBJ</guid>
       <pubDate>Mon, 03 Aug 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/18/35/18355ad3e7dda6e2f1cbcacb1ef7eb05.m4a?auth_key=1793947127-CK9bjIGB-0-fc70b096cfa1eb962044d6776ecf6cb9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/18/35/18355ad3e7dda6e2f1cbcacb1ef7eb05.m4a?auth_key=1793990666-8i9zmq8m-0-2e2bd874157699656fceba449d59e796" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBse2OBJ</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260801期：国产新型碱基编辑器“化刀为笔”，AI如何推动基因编辑领域进步？</description>
       <guid isPermaLink="false">ttfm-PJQvskNn1d</guid>
       <pubDate>Sat, 01 Aug 2026 21:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/a8/bf/a8bf97f7f0c16183688647be24eecf1b.m4a?auth_key=1793947127-5dq1muCa-0-642b65686433a3b01070afd8c07d1e1c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/a8/bf/a8bf97f7f0c16183688647be24eecf1b.m4a?auth_key=1793990666-gxgGp3iE-0-81a4ab1c6fce141e4be590a37cfa4988" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvskNn1d</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260731期：揭开基因编辑疗法的神秘面纱，安全性如何保证？</description>
       <guid isPermaLink="false">ttfm-0dGMsM96Ka</guid>
       <pubDate>Fri, 31 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/2f/42/2f4270f43f4c03a5c0a683f1ffb70e67.m4a?auth_key=1793947127-RhZ4lWuk-0-c934f52e666016657e65c9d55e8e9fd4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/2f/42/2f4270f43f4c03a5c0a683f1ffb70e67.m4a?auth_key=1793990666-ue1NUEiL-0-b981f5a278479a1c0573c584c2d9a3af" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsM96Ka</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260730期：盛夏圆明园映日荷花为何别样红？</description>
       <guid isPermaLink="false">ttfm-raEvsjxm8J</guid>
       <pubDate>Thu, 30 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/dc/d6/dcd6c931c3de9816eb249d99aa2c6dee.m4a?auth_key=1793947127-NFT860Vk-0-90b076d530e2bb5e9d3390353a5e1a25" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/dc/d6/dcd6c931c3de9816eb249d99aa2c6dee.m4a?auth_key=1793990666-0RWQnhUk-0-f8f770113d4a3df6cf810cc8369a3771" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsjxm8J</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260729期：走近数学界诺贝尔——菲尔兹奖，王虹、邓煜为何能获奖？</description>
       <guid isPermaLink="false">ttfm-ZdRjs9y4gd</guid>
       <pubDate>Wed, 29 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/00/b4/00b4a7f27b3fab5c5c69822aec1744d3.m4a?auth_key=1793947127-UhXeKghH-0-32ecee42227c2b6fb0f384dcf42f94cb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/00/b4/00b4a7f27b3fab5c5c69822aec1744d3.m4a?auth_key=1793990666-q6CUoQlt-0-6005c9f08a3e5e021a18190dc24945b6" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs9y4gd</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260728期：东野圭吾因结肠癌早逝，“沉默”的结直肠癌如何实现可防可治？</description>
       <guid isPermaLink="false">ttfm-VJLvsjwv1o</guid>
       <pubDate>Tue, 28 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/64/ab/64ab1ef2f56eca31616ede30b2651a07.m4a?auth_key=1793947127-bJwqT9Eb-0-f403a89e4bebb771fdcff48126849294" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/64/ab/64ab1ef2f56eca31616ede30b2651a07.m4a?auth_key=1793990666-QX8pkEvp-0-7fb63dae1c300cf64fbb265e5739ee37" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvsjwv1o</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260727期：北斗短报文如何飞入寻常百姓家</description>
       <guid isPermaLink="false">ttfm-0dGMsM0Aza</guid>
       <pubDate>Mon, 27 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0727/80/41/8041d17e4d67161d250268ddc16c2ab2.m4a?auth_key=1793947127-gffGwNbZ-0-14b2b8274e4b32760df37ec408b7a28d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0727/80/41/8041d17e4d67161d250268ddc16c2ab2.m4a?auth_key=1793990666-aDNDcICz-0-02171c324f739d5166b33d855623b8a0" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsM0Aza</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260725期：Kimi K3火爆背后大模型终极战场可能在基建</description>
       <guid isPermaLink="false">ttfm-OowlsNP1ya</guid>
       <pubDate>Sat, 25 Jul 2026 21:00:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/audio/radio/2026/0727/a6/0d/a60d7813fbf47064cee7c23e26b84e3f.m4a?auth_key=1793947127-iLdDAUHM-0-6038dff1262b1fe41afd61383a442c29" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/audio/radio/2026/0727/a6/0d/a60d7813fbf47064cee7c23e26b84e3f.m4a?auth_key=1793990666-snOYs5aB-0-eed39fb03883b1f6ec4ccce248df7e54" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNP1ya</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260724期：文物01星升空，遥感天眼守护中华文脉</description>
       <guid isPermaLink="false">ttfm-ea8RsxR44d</guid>
       <pubDate>Fri, 24 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0724/9b/d3/9bd30f120d842893155dcb1324f85b31.m4a?auth_key=1793947127-srqEmY4Z-0-61577b9de2b9f2c9d6ff277d47134ace" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0724/9b/d3/9bd30f120d842893155dcb1324f85b31.m4a?auth_key=1793990666-3yXSiAW7-0-72997ea33f98e17c1b7f58cf4a6cbbf8" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsxR44d</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260723期：大暑到农事忙，讲讲漂洋过海的种子扎根中国田垄的故事</description>
       <guid isPermaLink="false">ttfm-eoxBseVZDJ</guid>
       <pubDate>Thu, 23 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0723/d9/46/d9460f6dcd29a485ca734ac2ce973589.m4a?auth_key=1793947127-9QkTNGfD-0-26cac54e9b250879442e3d7231b987d0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0723/d9/46/d9460f6dcd29a485ca734ac2ce973589.m4a?auth_key=1793990666-l2ymFHug-0-b5f873c5f90c389e55740a0096d9d179" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBseVZDJ</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260722期：叩问苍穹，商业航天时代，卫星如何“看”懂地球？</description>
       <guid isPermaLink="false">ttfm-6JW8slYY7d</guid>
       <pubDate>Wed, 22 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0722/4c/da/4cdad07bf1d2d6a8a0ef08d28676e18c.m4a?auth_key=1793947127-IJxaZh3X-0-c6134db5ee85d38e2be3357662bd532c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0722/4c/da/4cdad07bf1d2d6a8a0ef08d28676e18c.m4a?auth_key=1793990666-NBPIfTHv-0-a27d467d219e7a1f3070f577687cdaed" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8slYY7d</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260721期：怕买到勾兑果汁？真正的NFC、HPP纯果汁该怎么选？</description>
       <guid isPermaLink="false">ttfm-2d9es2VD9d</guid>
       <pubDate>Tue, 21 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0721/74/de/74de9be1fc3b74c2db97b53cf1468edc.m4a?auth_key=1793947127-5o2rOUUp-0-44307458f86d20daf504f84a120314df" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0721/74/de/74de9be1fc3b74c2db97b53cf1468edc.m4a?auth_key=1793990666-TpwyA0FL-0-7752722464657f89f0afdf96575706be" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9es2VD9d</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260720期：全球抢“氦”，这种“黄金气体”金贵在哪？</description>
       <guid isPermaLink="false">ttfm-polrsQ5zEJ</guid>
       <pubDate>Mon, 20 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0720/bd/49/bd4909714f6d562a51788058af107c44.m4a?auth_key=1793947127-5Ruo7q58-0-fb6e6f87965161c5417757a5c7e7115d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0720/bd/49/bd4909714f6d562a51788058af107c44.m4a?auth_key=1793990666-T8GMgSjX-0-ca717ff117c0d7f5b69c0b69fbdb6824" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQ5zEJ</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260718期：从玉米到“工业糖精”：被果葡糖浆包围的夏天，我们该怎么选？</description>
       <guid isPermaLink="false">ttfm-ZJ3esNKEKo</guid>
       <pubDate>Sat, 18 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0718/f9/0d/f90d25a04020e4c51ed3bdbb058e1948.m4a?auth_key=1793947127-fPe3zBaP-0-c0de03b958596366e2dfdc10926559c1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0718/f9/0d/f90d25a04020e4c51ed3bdbb058e1948.m4a?auth_key=1793990666-T8lcAPwB-0-9cf28365fbef5037c76a7c4ba6d136d4" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNKEKo</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260717期：苹果入局是否会重塑手机折叠屏格局</description>
       <guid isPermaLink="false">ttfm-MaXAs37Z2J</guid>
       <pubDate>Fri, 17 Jul 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0717/2d/53/2d537f094c102d454913b105712655f7.m4a?auth_key=1793947127-mw2xMx1E-0-04c2b4015c6fa7e0cde1b8b59356231e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0717/2d/53/2d537f094c102d454913b105712655f7.m4a?auth_key=1793990666-slfe02aj-0-8221587a880f075f27aa6fbefc4386b4" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:40</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs37Z2J</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260716期：“海上陀螺”的前世今生，科普台风气象过程</description>
       <guid isPermaLink="false">ttfm-vdz8smO4Za</guid>
       <pubDate>Thu, 16 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0716/72/1b/721b4e562f10a21cc9c154c0e5895774.m4a?auth_key=1793947127-HUoa8Hcv-0-807ea312bd25856aa6b9f7a4a7e121ba" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0716/72/1b/721b4e562f10a21cc9c154c0e5895774.m4a?auth_key=1793990666-pniOZhI6-0-37e68b4ce168466676f129319525b22f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8smO4Za</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260715期：火箭回收重复利用，跟普通人有什么关系？</description>
       <guid isPermaLink="false">ttfm-QdBWsv0Q3o</guid>
       <pubDate>Wed, 15 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0715/20/b1/20b1cd3f326c379ff624d1e867df576a.m4a?auth_key=1793947127-vXkOFCDI-0-41732bd2a63f215b9e8b1925e6717420" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0715/20/b1/20b1cd3f326c379ff624d1e867df576a.m4a?auth_key=1793990666-oDfM28LU-0-3b13f2f1a326ce0688d418bd71bf3505" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWsv0Q3o</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260714期：我国首创全球海上网系回收火箭，怎么做到的？</description>
       <guid isPermaLink="false">ttfm-0dGMsMnYba</guid>
       <pubDate>Tue, 14 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0714/94/b0/94b040eef717b7bdf3463a35ec05a00c.m4a?auth_key=1793947127-HqBQ7UEV-0-08654b63fe470b60d2872f3da1f0865f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0714/94/b0/94b040eef717b7bdf3463a35ec05a00c.m4a?auth_key=1793990666-oS2edIs9-0-dee4971f01e8bf20f27c5a9997ae7cce" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsMnYba</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260713期：国家喊你“存肌肉”—看体重管理的科学之道</description>
       <guid isPermaLink="false">ttfm-6JW8sl27Gd</guid>
       <pubDate>Mon, 13 Jul 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0713/66/d6/66d60c3d40995ccb746f61811740b358.m4a?auth_key=1793947127-0WCjkgHf-0-06b26cdc707b97cca6feb448a9ea0fd2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0713/66/d6/66d60c3d40995ccb746f61811740b358.m4a?auth_key=1793990666-rqC8yj3g-0-1383e93b68e96b50214e12a33148e47f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8sl27Gd</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260710期：解析持续霸占北京天空的高颜值“冷涡蓝”</description>
       <guid isPermaLink="false">ttfm-ZdRjs989Md</guid>
       <pubDate>Fri, 10 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0710/07/18/0718fac5692f84f753544f7af9379be6.m4a?auth_key=1793947127-MB6PJDpn-0-1c07764ad0b9bd37ce646c23cb74edf3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0710/07/18/0718fac5692f84f753544f7af9379be6.m4a?auth_key=1793990666-gF1mQeyT-0-aefc6ce9d1c54fa80794f80c13847cdf" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs989Md</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260709期：从英伟达的GPU到谷歌的TPU看AI芯片发展之路</description>
       <guid isPermaLink="false">ttfm-PJQvskWb4d</guid>
       <pubDate>Thu, 09 Jul 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0709/19/38/19382f4cfacb66941a17c2f995118564.m4a?auth_key=1793947127-dQzGWnDf-0-a13277f48de729e9838b12779752cf42" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0709/19/38/19382f4cfacb66941a17c2f995118564.m4a?auth_key=1793990666-HKSucUmV-0-39b033ce8d52820ddff21511296e269e" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvskWb4d</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260708期：AI上绿茵场—2026世界杯背后的科技</description>
       <guid isPermaLink="false">ttfm-gay7sK9Y3d</guid>
       <pubDate>Wed, 08 Jul 2026 21:12:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0708/e7/2c/e72cb1a2cf85d2ce84419ea754f9c12f.m4a?auth_key=1793947127-fX2vc8Dq-0-001990a488ec152d4f720571008b223f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0708/e7/2c/e72cb1a2cf85d2ce84419ea754f9c12f.m4a?auth_key=1793990666-5tlcdhZJ-0-6a8f49234ff0c7cf50ec6a4c8cf134a1" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sK9Y3d</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260707期：揭秘新型电子烟的科技伪装与健康陷阱</description>
       <guid isPermaLink="false">ttfm-ydkvsGG6wJ</guid>
       <pubDate>Tue, 07 Jul 2026 21:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0707/3e/53/3e53859f1c4285c52a14991bdba65b28.m4a?auth_key=1793947127-EiZlVjvv-0-5e99beb6989637f13bdb864e59fc2efd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0707/3e/53/3e53859f1c4285c52a14991bdba65b28.m4a?auth_key=1793990666-CEhquSw8-0-3ca083b1ee0140026db52d8cefc65f71" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsGG6wJ</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260706期：北京发明创新大赛唯一特等奖背后的中国智造</description>
       <guid isPermaLink="false">ttfm-Ka2PsqqV6d</guid>
       <pubDate>Mon, 06 Jul 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0706/6e/cb/6ecb8370ddaafd0e1e9ae5b0d82412eb.m4a?auth_key=1793947127-voFxhzxC-0-76cae33c8c5e5740cb7b45797051e142" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0706/6e/cb/6ecb8370ddaafd0e1e9ae5b0d82412eb.m4a?auth_key=1793990666-SkPKq2Im-0-f65358503e44c04598d9ac7216c158d7" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2PsqqV6d</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260704期：全球变暖背景下的雨带“迁徙”</description>
       <guid isPermaLink="false">ttfm-ea8RsxxZMd</guid>
       <pubDate>Sat, 04 Jul 2026 21:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0704/d8/d5/d8d51542af0cec333259790a63fae7ac.m4a?auth_key=1793947127-lh8JTXnA-0-dba73ea940fd69c2f52dc0f74a15939e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0704/d8/d5/d8d51542af0cec333259790a63fae7ac.m4a?auth_key=1793990666-3t5CCLql-0-8b332a519b013db43ce9be28c89597a5" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsxxZMd</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260703期：欧洲多地气温超40度，未来极端高温成常态？</description>
       <guid isPermaLink="false">ttfm-polrsQQ9XJ</guid>
       <pubDate>Fri, 03 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0703/e6/d9/e6d98aae7cc70e5b54cff79cf4f81d89.m4a?auth_key=1793947127-avjzmqCM-0-02f3b105787735f837d8ab2158f9a09a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0703/e6/d9/e6d98aae7cc70e5b54cff79cf4f81d89.m4a?auth_key=1793990666-ML6OAkMC-0-ee3ac058926ba37c7ee3d8f158d78816" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:15</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQQ9XJ</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260702期：那些被“管控”的植物</description>
       <guid isPermaLink="false">ttfm-ZJ3esNNW2o</guid>
       <pubDate>Thu, 02 Jul 2026 21:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0702/9f/b2/9fb2564fc4323d669109cd77b984c07b.m4a?auth_key=1793947127-qQDVorum-0-c3d7d61d9384ace352ec4cd4584685de" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0702/9f/b2/9fb2564fc4323d669109cd77b984c07b.m4a?auth_key=1793990666-GDH0Np5G-0-7281b52c6932c3523e1988922f1f029c" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNNW2o</link>
-    </item>
-    <item>
-      <title>20260701期：头位分娩破纪录，科技守护“微笑天使”</title>
-      <description>20260701期：头位分娩破纪录，科技守护“微笑天使”</description>
-      <guid isPermaLink="false">ttfm-pdpvswwe4a</guid>
-      <pubDate>Wed, 01 Jul 2026 21:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0701/16/98/169863507628cf94f5905588fe1a6d63.m4a?auth_key=1793947127-p9RhvjwS-0-3738e3770da7ced18454e304e9a94058" type="audio/mp4" length="0"/>
-      <itunes:duration>00:45:43</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvswwe4a</link>
     </item>
   </channel>
 </rss>
