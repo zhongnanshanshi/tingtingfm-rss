@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京交通广播FM103.9</itunes:name></itunes:owner>
-    <lastBuildDate>Tue, 03 Nov 2026 15:58:33 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:09:09 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261103期：你会愿意去试试自己不擅长的事吗？</title>
+      <description>20261103期：你会愿意去试试自己不擅长的事吗？</description>
+      <guid isPermaLink="false">ttfm-VJLvspKEBo</guid>
+      <pubDate>Tue, 03 Nov 2026 19:14:00 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/c6/36/c6366e6ef3a1bffa41f01465ab8469c2.m4a?auth_key=1794600548-B0AVCbmw-0-298af9eb1da10b05d5142762b5e902a3" type="audio/mp4" length="0"/>
+      <itunes:duration>02:00:10</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspKEBo</link>
+    </item>
     <item>
       <title>20261102期：平替</title>
       <description>20261102期：平替</description>
       <guid isPermaLink="false">ttfm-9onZsWLqKo</guid>
       <pubDate>Mon, 02 Nov 2026 19:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/7a/af/7aafc4c543dfc47960baff4d02c955ab.m4a?auth_key=1794556713-VuqsZoYM-0-c7b7483fc542c2463eb8ffd24a729d36" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/7a/af/7aafc4c543dfc47960baff4d02c955ab.m4a?auth_key=1794600548-uR0Dv4wZ-0-16b686afde0813b42e65e6c9fc910c54" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWLqKo</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261101期：一路畅通(晚高峰)</description>
       <guid isPermaLink="false">ttfm-xo4GsKblNd</guid>
       <pubDate>Sun, 01 Nov 2026 19:14:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/2f/23/2f230a13ff9848c01bc474b663cd8948.m4a?auth_key=1794556713-ymcPV8YG-0-1eaf0b09be320f03f37560d033d730ae" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/2f/23/2f230a13ff9848c01bc474b663cd8948.m4a?auth_key=1794600548-MCOoJpyQ-0-944e9494761e59416530f5fd5ea622e3" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKblNd</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261031期：在家里，你是“扛事儿”还是“被扛事儿”的人？</description>
       <guid isPermaLink="false">ttfm-6oDvsB5z7J</guid>
       <pubDate>Sat, 31 Oct 2026 19:13:13 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/ee/ad/eead5d5d6962057101720200eec2a691.m4a?auth_key=1794556713-cdxOwlha-0-a066e317d79a5162c0c382353a677bd5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/ee/ad/eead5d5d6962057101720200eec2a691.m4a?auth_key=1794600548-rUrST3Bx-0-fc6ca6e666154cd3dc2de868f40ad1d3" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsB5z7J</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261030期：你经历过最长的一次旅程，是去哪里？</description>
       <guid isPermaLink="false">ttfm-6oDvsB5pOJ</guid>
       <pubDate>Fri, 30 Oct 2026 19:13:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/e7/1c/e71c9dfa5cf2bf4226801feaf8852c0d.m4a?auth_key=1794556713-Ppys12N2-0-92384c1c1b16974ae824587191e2db8c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/e7/1c/e71c9dfa5cf2bf4226801feaf8852c0d.m4a?auth_key=1794600548-YowrDxdW-0-6dd05217364e5d956b5ccbb505b4afcd" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:35</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsB5pOJ</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261029期：你曾经“脑子一热”干了什么？</description>
       <guid isPermaLink="false">ttfm-polrsLD89J</guid>
       <pubDate>Thu, 29 Oct 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/e6/8d/e68d6f919c4955e50d7d3bd4ed8f025e.m4a?auth_key=1794556713-QVRSg15B-0-70d2bac76be0c4bae068b2c4bade46ba" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/e6/8d/e68d6f919c4955e50d7d3bd4ed8f025e.m4a?auth_key=1794600548-J9wTk5nj-0-8b70bd2d8cb10ee0321457ebc4f47c91" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLD89J</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261028期：面对新品，我是“早买早享受”还是“晚买更放心”？</description>
       <guid isPermaLink="false">ttfm-zJeWsW8wWo</guid>
       <pubDate>Wed, 28 Oct 2026 19:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/5e/c7/5ec7c3f95134ccb7b2983ff1ce8b4995.m4a?auth_key=1794556713-eWnxEh1t-0-263f17891c1ab84e16e9f59760cd4bdc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/5e/c7/5ec7c3f95134ccb7b2983ff1ce8b4995.m4a?auth_key=1794600548-mGRGo34n-0-0e3ee9f65b15592d9e9c3f4d9f773276" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsW8wWo</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261027期：哪种我曾经不爱喝的东西，长大后却喜欢上了？</description>
       <guid isPermaLink="false">ttfm-eaVrsAO1Ma</guid>
       <pubDate>Tue, 27 Oct 2026 19:13:55 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/ea/ee/eaee3d8f4cedd2428dcdb522d3218321.m4a?auth_key=1794556713-rNz1oTTY-0-bc58e3cc21b2e2ba8084fd26d3791ed2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/ea/ee/eaee3d8f4cedd2428dcdb522d3218321.m4a?auth_key=1794600548-87OW7u7c-0-6d8195c889ef3d6d0259cca85bd3dc9a" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAO1Ma</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261026期：报过班吗？怎样了？</description>
       <guid isPermaLink="false">ttfm-VJLvspnbYo</guid>
       <pubDate>Mon, 26 Oct 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/ee/19/ee1982e50811e9d7679806ce3c570731.m4a?auth_key=1794556713-ThNSMKJA-0-0b518e52d1fb9057525730de4002fbb1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/ee/19/ee1982e50811e9d7679806ce3c570731.m4a?auth_key=1794600548-dDZq0Q9K-0-b27d1369b0d00b69db4fcfa4f53a1d0c" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspnbYo</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261025期：骑妙之旅——你家有哪些“在吃灰”或“用回本”的健身小器械？</description>
       <guid isPermaLink="false">ttfm-vdz8sOrv2a</guid>
       <pubDate>Sun, 25 Oct 2026 19:13:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/a7/00/a7000c9e43dc7f7d63dc0a74d50637bf.m4a?auth_key=1794556713-Abi4YMuR-0-761edd9c432a5cd440f72435d030f714" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/a7/00/a7000c9e43dc7f7d63dc0a74d50637bf.m4a?auth_key=1794600548-ftxt23Pl-0-b128abf8ca68efba8372ee172576567a" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOrv2a</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261024期：在感情里，我是一个……的人</description>
       <guid isPermaLink="false">ttfm-qaN0sw1v6d</guid>
       <pubDate>Sat, 24 Oct 2026 19:13:54 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/44/97/449743a1d1315b96621a336322a02456.m4a?auth_key=1794556713-Qj1FSTD9-0-028fe0927b7f1d9e23a762a27e9d694f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/44/97/449743a1d1315b96621a336322a02456.m4a?auth_key=1794600548-JHrz1tLU-0-a2594b26cf4b91dbd4c49770dc6c46a7" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sw1v6d</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261023期：生活中哪些事儿你可以忍，哪些事儿你绝不忍？</description>
       <guid isPermaLink="false">ttfm-ndKes17pya</guid>
       <pubDate>Fri, 23 Oct 2026 19:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/2c/0c/2c0c6618fce63864d4d981686c334e7c.m4a?auth_key=1794556713-8w3rLvXN-0-504ab62d377dbc5db51317d232e6ee14" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/2c/0c/2c0c6618fce63864d4d981686c334e7c.m4a?auth_key=1794600548-jQfj5jWU-0-7f6484eb405a456ba50dd1b1e04076ef" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes17pya</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261022期：中华老曲库：天冷了，哪一首老歌最能“暖”到你？</description>
       <guid isPermaLink="false">ttfm-ZoAws121rJ</guid>
       <pubDate>Thu, 22 Oct 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/26/9b/269b5ca326c40800b0d9ba3a9febbbe9.m4a?auth_key=1794556713-msKToI9g-0-30d5068fb42dfc89051f3867b53e4e72" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/26/9b/269b5ca326c40800b0d9ba3a9febbbe9.m4a?auth_key=1794600548-RKA59Haa-0-a4b33875172c7e32d273565625b50344" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws121rJ</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261021期：来报一下你今天的“手中饮品”是啥？</description>
       <guid isPermaLink="false">ttfm-MJmvseZLjd</guid>
       <pubDate>Wed, 21 Oct 2026 19:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/38/14/38147e92f4ed0b8e836cee63e6d76ef5.m4a?auth_key=1794556713-kZf8aekA-0-0360b7f3b1419d5392a0af4886dfb00e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/38/14/38147e92f4ed0b8e836cee63e6d76ef5.m4a?auth_key=1794600548-9tVnkcIw-0-5339064e872d448d457715507118697b" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseZLjd</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261020期：夸夸我家的大厨</description>
       <guid isPermaLink="false">ttfm-7oZbsWng7o</guid>
       <pubDate>Tue, 20 Oct 2026 19:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/b4/85/b485f72b8cc10bbffa5dbe48c385896b.m4a?auth_key=1794556713-DpkwiVpA-0-4d1b7257387b9d0580156aeb711f8eae" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/b4/85/b485f72b8cc10bbffa5dbe48c385896b.m4a?auth_key=1794600548-ubYAIteA-0-87fe3d989001430a45ef52d6c117d4c2" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsWng7o</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261019期：你有丢东西或捡东西的经历吗？</description>
       <guid isPermaLink="false">ttfm-eaVrsAO4Ga</guid>
       <pubDate>Mon, 19 Oct 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/1a/b8/1ab87977bd824c7b2ac997e6b65d33ea.m4a?auth_key=1794556713-GUqAeksd-0-1d84f516399f855ae06ed3fb300c546a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/1a/b8/1ab87977bd824c7b2ac997e6b65d33ea.m4a?auth_key=1794600548-cdn2QuIs-0-03e5779f453bd9ca01c5417a93aa41d5" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:15</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAO4Ga</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261018期：你有没有一件事，咬咬牙真的坚持下来了？</description>
       <guid isPermaLink="false">ttfm-VJLvspwOno</guid>
       <pubDate>Sun, 18 Oct 2026 19:13:36 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/b6/c5/b6c5033d9595d798311a97724a985000.m4a?auth_key=1794556713-phf53d9O-0-78ff15c08ce848e4cded032484e9e5fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/b6/c5/b6c5033d9595d798311a97724a985000.m4a?auth_key=1794600548-ngYN2ACp-0-b061c963d89e9cc68be66725f1319bcf" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspwOno</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261017期：旅途中哪些小细节，会让你对相亲对象加分？</description>
       <guid isPermaLink="false">ttfm-ZJ3esKb8Eo</guid>
       <pubDate>Sat, 17 Oct 2026 19:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/7e/be/7ebe2bb2643b42af1533ff8a09f8ca22.m4a?auth_key=1794556713-LNSDCqia-0-3910221a115722e3a5446827abcd1685" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/7e/be/7ebe2bb2643b42af1533ff8a09f8ca22.m4a?auth_key=1794600548-KIivXlVA-0-70ad7e642c70f4f4ff3d1af0518024f8" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKb8Eo</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261016期：最近网上有什么让你停不下来？</description>
       <guid isPermaLink="false">ttfm-ea8RsgRB9d</guid>
       <pubDate>Fri, 16 Oct 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/3b/7c/3b7cdbb0f78f9e1ef09abbfe23b8f41a.m4a?auth_key=1794556713-rmNiNKqL-0-ff8f939f2458de0b6b5fb3cfd2fa6ff8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/3b/7c/3b7cdbb0f78f9e1ef09abbfe23b8f41a.m4a?auth_key=1794600548-DNuGvvww-0-48cdecefd8f6afceec375a30795551a7" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgRB9d</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261015期：你参加过哪场至今难忘的考试？</description>
       <guid isPermaLink="false">ttfm-raEvsAx9DJ</guid>
       <pubDate>Thu, 15 Oct 2026 19:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/45/a6/45a613549cc543d89a81127dab13b8bf.m4a?auth_key=1794556713-aS4kPLGs-0-6900ccc92c0b1c43c66da223fded2efd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/45/a6/45a613549cc543d89a81127dab13b8bf.m4a?auth_key=1794600548-zDbkDSlo-0-a91fe2cbfb32b12a0e49a26fa82c0d20" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAx9DJ</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261014期：秋天周末去哪儿？你的后备箱里装了什么？</description>
       <guid isPermaLink="false">ttfm-gay7s9b35d</guid>
       <pubDate>Wed, 14 Oct 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/ea/5d/ea5da2ddde8257f20e7fccd527351c2c.m4a?auth_key=1794556713-ZUVoYf02-0-e05a9a4ecd5b163d6a24d5654fbaa641" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/ea/5d/ea5da2ddde8257f20e7fccd527351c2c.m4a?auth_key=1794600548-ZDedgROa-0-03f6a0b6b5ec8d560fb6754ec4de7568" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9b35d</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261013期：降温了，吃口热乎的</description>
       <guid isPermaLink="false">ttfm-0dGMsn0YZa</guid>
       <pubDate>Tue, 13 Oct 2026 19:13:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/31/88/31882ce8d11cb0828e3127997fcf7b4c.m4a?auth_key=1794556713-esrSRx3j-0-eae583ff94a04812e8ca5b7c35b958a0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/31/88/31882ce8d11cb0828e3127997fcf7b4c.m4a?auth_key=1794600548-vMjQSH9t-0-6627836618f9f93bfc5ad15066320a9e" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsn0YZa</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261012期：你上一次手写信，是什么时候、写给谁的？</description>
       <guid isPermaLink="false">ttfm-OowlsbPO3a</guid>
       <pubDate>Mon, 12 Oct 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/5b/a4/5ba472fb7a45bd1db6f4979bf20b50eb.m4a?auth_key=1794556713-f6xF176v-0-55417507f39fb6ad5407a4698b371953" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/5b/a4/5ba472fb7a45bd1db6f4979bf20b50eb.m4a?auth_key=1794600548-Ykm73Tbm-0-109500d8c106610ff840540cda84aac7" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:19</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsbPO3a</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261011期：有没有一次运动经历，让你觉得自己挺厉害？</description>
       <guid isPermaLink="false">ttfm-vJ0PsMYeAJ</guid>
       <pubDate>Sun, 11 Oct 2026 19:13:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/5c/35/5c3534672e3ddfae628536317210bc5d.m4a?auth_key=1794556713-I0kZrpBt-0-a76bd0fbdbb5bab58e482ad40a538006" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/5c/35/5c3534672e3ddfae628536317210bc5d.m4a?auth_key=1794600548-hSE5khCt-0-0e29154e9116eefe8f54f2c4ab8bd6ed" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMYeAJ</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261010期：他俩能成——你身边有没有“一切从简”结婚的例子？</description>
       <guid isPermaLink="false">ttfm-9onZsWr1Lo</guid>
       <pubDate>Sat, 10 Oct 2026 19:12:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/e3/da/e3dacc7756ce38b1896f85d9a50f5ee4.m4a?auth_key=1794556713-FXUxCUTq-0-935f062079d84ec05d13d8e9bf2e91b7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/e3/da/e3dacc7756ce38b1896f85d9a50f5ee4.m4a?auth_key=1794600548-U7MIwGb4-0-64fdb2d97d0aef10117e9169f1ba6929" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWr1Lo</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261009期：你的汽车后备箱里，常年放着什么？</description>
       <guid isPermaLink="false">ttfm-PorqsvKKVd</guid>
       <pubDate>Fri, 09 Oct 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/40/a9/40a9ec315014c277561a5b1b217451c0.m4a?auth_key=1794556713-LXDfRXYP-0-4b003ea509eacbb1d0fc0e4c50db6d0a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/40/a9/40a9ec315014c277561a5b1b217451c0.m4a?auth_key=1794600548-1oeiZEq4-0-743658a58f62495690cf57b39792ac0a" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvKKVd</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261008期：你对“住得舒服”的最基本要求是什么？</description>
       <guid isPermaLink="false">ttfm-7oZbsWM1yo</guid>
       <pubDate>Thu, 08 Oct 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/8e/62/8e62bdc8e6b6d3ed5d6580a682a92981.m4a?auth_key=1794556713-AeBpABrt-0-d669d6cbe8085972830b5125dac46c7e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/8e/62/8e62bdc8e6b6d3ed5d6580a682a92981.m4a?auth_key=1794600548-LDj39VpI-0-a1588046dfb154657d4c873c81be73ba" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsWM1yo</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261007期：这个假期我最想感谢的人是……</description>
       <guid isPermaLink="false">ttfm-OdPXszgkEd</guid>
       <pubDate>Wed, 07 Oct 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/ed/a5/eda55ec64e684859678aaf6990ffd7fd.m4a?auth_key=1794556713-DWckiMiI-0-ddb0e51ab6d273e53a2683abc81d6c68" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/ed/a5/eda55ec64e684859678aaf6990ffd7fd.m4a?auth_key=1794600548-8JSW4nEd-0-dafbd0560c97d641bcca7b3945240b0f" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszgkEd</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261006期：国庆夜京城，你打卡了哪里？</description>
       <guid isPermaLink="false">ttfm-QdBWs0pKLo</guid>
       <pubDate>Tue, 06 Oct 2026 19:13:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/06/d6/06d6d0f85ae02a5828e8949405dac3be.m4a?auth_key=1794556713-97bjTwL2-0-78a35c27e169fc815b6475847956c873" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/06/d6/06d6d0f85ae02a5828e8949405dac3be.m4a?auth_key=1794600548-zlg7C3Ue-0-79600a71ed70d500c39743fb962aeb76" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs0pKLo</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261005期：你身边那些被忽略的秋天角落</description>
       <guid isPermaLink="false">ttfm-vdz8sOOxxa</guid>
       <pubDate>Mon, 05 Oct 2026 19:13:46 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/b0/7a/b07a2f8fd2904fffe05f95c18af68cb4.m4a?auth_key=1794556713-FGg3bnko-0-f3da445a35fae046caef475ca1c830d4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/b0/7a/b07a2f8fd2904fffe05f95c18af68cb4.m4a?auth_key=1794600548-dDGcNL7Y-0-2e6a0f546fe5a4931548536f17305d2d" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOOxxa</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261004期：假期过半了，你开始累了吗？</description>
       <guid isPermaLink="false">ttfm-xJvKsbbyOd</guid>
       <pubDate>Sun, 04 Oct 2026 19:13:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/df/b4/dfb45855d0edf4ad24befc4f995c6d97.m4a?auth_key=1794556713-6tEDz6fU-0-b2a80e42164fd73b3be7e770e45ff8f0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/df/b4/dfb45855d0edf4ad24befc4f995c6d97.m4a?auth_key=1794600548-zom7Xsn4-0-d2f1029c48eab754e7747359b2a3a7d2" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbbyOd</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261003期：这个假期你运动了没？</description>
       <guid isPermaLink="false">ttfm-MJmvseeXkd</guid>
       <pubDate>Sat, 03 Oct 2026 19:14:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/19/ae/19aefc4f3a057ddcf63b23749eddfbc4.m4a?auth_key=1794556713-82mTm1bm-0-2480a9dc38ec5ad7c52b7b30e7dc877b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/19/ae/19aefc4f3a057ddcf63b23749eddfbc4.m4a?auth_key=1794600548-m1JWHRr7-0-44afe3fcff1ba9f6f6981bdec3816286" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:33</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseeXkd</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261002期：您家的十一假期谁做主？</description>
       <guid isPermaLink="false">ttfm-eoxBsOOpXJ</guid>
       <pubDate>Fri, 02 Oct 2026 19:13:46 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/4d/7f/4d7fa1c00ad1703447f1405bb5cd30ca.m4a?auth_key=1794556713-7EmnBu0Z-0-b96f5dbd8ddcaafed07c30832fde2e23" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/4d/7f/4d7fa1c00ad1703447f1405bb5cd30ca.m4a?auth_key=1794600548-Ruw6LnF2-0-6c828a293dd0de16a905a0343d7193a8" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOOpXJ</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261001期：今年十一，你选择了哪种出行方式？</description>
       <guid isPermaLink="false">ttfm-kdjgsjjzWo</guid>
       <pubDate>Thu, 01 Oct 2026 19:14:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/af/a6/afa655059da7a0d929b0521bacbc55d6.m4a?auth_key=1794556713-ExebXtSK-0-b9a639e2e82d1a239a9f7c1f9f78f326" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/af/a6/afa655059da7a0d929b0521bacbc55d6.m4a?auth_key=1794600548-Qw1LJmTo-0-e6f153b94028ff7e2fea1a5b2266c5fa" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjjzWo</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20260930期：出去旅游，哪些东西我必须自带？</description>
       <guid isPermaLink="false">ttfm-QdBWs001vo</guid>
       <pubDate>Wed, 30 Sep 2026 19:13:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/23/8d/238da99813cd2a98bd168f8113aafbdb.m4a?auth_key=1794556713-rjDVun4D-0-1727345acc7212d9b24be9504808a7d4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/23/8d/238da99813cd2a98bd168f8113aafbdb.m4a?auth_key=1794600548-SwMHgbsM-0-c057dd400966802fcc828c51bae64d3d" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs001vo</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20260929期：你现在还会专门步行去什么地方？</description>
       <guid isPermaLink="false">ttfm-PorqsvvPjd</guid>
       <pubDate>Tue, 29 Sep 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/84/17/84178f697306af09e96b3ee8d2cca324.m4a?auth_key=1794556713-ODeoqZJM-0-f4cb88547acf771c1fff571759040392" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/84/17/84178f697306af09e96b3ee8d2cca324.m4a?auth_key=1794600548-MNEDbuhH-0-4b89daf7a7eef30e89a1b8a180611fdc" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:15</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvvPjd</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20260928期：你的解压清单里必有的一款是什么？</description>
       <guid isPermaLink="false">ttfm-6JW8s22wjd</guid>
       <pubDate>Mon, 28 Sep 2026 19:13:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/3e/64/3e641421806f1c7c76cf57b27fd0143c.m4a?auth_key=1794556713-M4Sui7MT-0-e4125e88d12425bc713d2cc84c9a66f0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/3e/64/3e641421806f1c7c76cf57b27fd0143c.m4a?auth_key=1794600548-tz36O6Tg-0-f65c24e03ae069b7690eb04932fb0ff9" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s22wjd</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20260927期：这个中秋假期结束之后，您的下一段出行准备好了吗？</description>
       <guid isPermaLink="false">ttfm-gay7s99Egd</guid>
       <pubDate>Sun, 27 Sep 2026 19:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/fe/c8/fec8f0eb3de8ef665185cb6b537ca7d0.m4a?auth_key=1794556713-R449ymCB-0-9e51f81adc72e824456367ca14173db0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/fe/c8/fec8f0eb3de8ef665185cb6b537ca7d0.m4a?auth_key=1794600548-yvcqarqi-0-d97e6370e969be4fb3c75dd41a6aa44b" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s99Egd</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20260926期：您心中的最佳赏月地是哪里？</description>
       <guid isPermaLink="false">ttfm-vdz8sOOrDa</guid>
       <pubDate>Sat, 26 Sep 2026 19:13:46 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/dc/0e/dc0ea5b920bbdedb5436f45daf7cd6de.m4a?auth_key=1794556713-HxISRDwv-0-c07514ee05c2a9173556fe31ee85b9e9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/dc/0e/dc0ea5b920bbdedb5436f45daf7cd6de.m4a?auth_key=1794600548-zvqbWkz5-0-a0fa19a3fc7fb6b9840194a8f7a781c5" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOOrDa</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20260925期：你体验过哪些北京夜游场景？</description>
       <guid isPermaLink="false">ttfm-9onZsWWDZo</guid>
       <pubDate>Fri, 25 Sep 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/f0/c4/f0c49ef74e184cd995c91ce59f16b43d.m4a?auth_key=1794556713-NcJVQ35n-0-2c91e902c8b163132bcda785a9324e21" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/f0/c4/f0c49ef74e184cd995c91ce59f16b43d.m4a?auth_key=1794600548-wAHqINAw-0-c4e1b95fde71875f6626dae6aa3dc9b7" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWWDZo</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20260924期：下班后，你最爱去哪儿走走？</description>
       <guid isPermaLink="false">ttfm-Oowlsbb27a</guid>
       <pubDate>Thu, 24 Sep 2026 19:13:45 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/0d/21/0d21a0de4841368a75640b16a2d45fef.m4a?auth_key=1794556713-NQVH1u9i-0-3284f30677ae8a42afb1b8c83e27e72a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/0d/21/0d21a0de4841368a75640b16a2d45fef.m4a?auth_key=1794600548-GIcZlyPM-0-46d6faffad52b20fe3626affa4c94a1a" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oowlsbb27a</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20260923期：这首歌我听到就会忍不住一起唱</description>
       <guid isPermaLink="false">ttfm-ZoAws11KZJ</guid>
       <pubDate>Wed, 23 Sep 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/63/92/639267661e5a425fd4fea69b5c3926a9.m4a?auth_key=1794556713-yxAnrMlN-0-ffaf755c1ab72bb4051b89cd232c72ea" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/63/92/639267661e5a425fd4fea69b5c3926a9.m4a?auth_key=1794600548-WBHHxHgs-0-cb6b9cbb1d13ecd0c35a0fba3059330e" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws11KZJ</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20260922期：什么东西看着不起眼，却特别能提升生活质量？</description>
       <guid isPermaLink="false">ttfm-goqZsGGkNa</guid>
       <pubDate>Tue, 22 Sep 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/d3/85/d3858830bd835c213d7a0dc5783fa7c5.m4a?auth_key=1794556713-QeXuLIfD-0-77e3c3b614f74408a3dda9871e540df1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/d3/85/d3858830bd835c213d7a0dc5783fa7c5.m4a?auth_key=1794600548-NscLg4HC-0-b8cab54fbdcd421037ee7af17df74c55" type="audio/mp4" length="0"/>
       <itunes:duration>02:05:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsGGkNa</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20260921期：最让你念念不忘的旅游美食是什么？</description>
       <guid isPermaLink="false">ttfm-ea8RsgxPjd</guid>
       <pubDate>Mon, 21 Sep 2026 19:14:03 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/03/20/03208de3bda5b42965ec87bdd3e25db8.m4a?auth_key=1794556713-fLHPT7VE-0-d969d2b879bc6056793b36e4a9009be6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/03/20/03208de3bda5b42965ec87bdd3e25db8.m4a?auth_key=1794600548-X513HAvc-0-5036f3087de0f3caa144e20f6a9ced3c" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgxPjd</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20260920期：我参加过印象最深的一场体育比赛是……</description>
       <guid isPermaLink="false">ttfm-3aMvs1vN1J</guid>
       <pubDate>Sun, 20 Sep 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/27/a4/27a435c74fc86fee78c75d10a3c81593.m4a?auth_key=1794556713-dKrYHTf3-0-57262647832560732ce70ec82d1bca10" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/27/a4/27a435c74fc86fee78c75d10a3c81593.m4a?auth_key=1794600548-4UvS3wOB-0-a8f4c9b81186d61d2d9abf181a7a4d63" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs1vN1J</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260919期：别人对你的期待，哪些曾成为你的心理负担？</description>
       <guid isPermaLink="false">ttfm-gay7s9KBvd</guid>
       <pubDate>Sat, 19 Sep 2026 19:14:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/a2/7a/a27a825c0277294cac7e0b34df66f87c.m4a?auth_key=1794556713-6AXmBhqZ-0-608e275fbc13e92a4c5022a4e4b96505" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/a2/7a/a27a825c0277294cac7e0b34df66f87c.m4a?auth_key=1794600548-hJqsVqi3-0-64235dc551d3c54f5511317305ed7a57" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9KBvd</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260918期：周末了，你的“社交电量”还剩多少？</description>
       <guid isPermaLink="false">ttfm-vdz8sOmLMa</guid>
       <pubDate>Fri, 18 Sep 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/89/a6/89a6fe4b63e2a646089eecce3b4d812a.m4a?auth_key=1794556713-MLt1RPOh-0-95e053abd9377f8c89c5d8a9e8f74bc1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/89/a6/89a6fe4b63e2a646089eecce3b4d812a.m4a?auth_key=1794600548-qmYmLkf8-0-82671fa352d3cad343344e87917354d2" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOmLMa</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260917期：有没有一首歌，你特别想听一次现场版？</description>
       <guid isPermaLink="false">ttfm-ZJ3esKNXNo</guid>
       <pubDate>Thu, 17 Sep 2026 19:13:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/c6/1d/c61d882203fbd1889c5a52f6fd07868c.m4a?auth_key=1794556713-xdveOboW-0-8f5083a3ac67ed8472034b83f1e47e70" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/c6/1d/c61d882203fbd1889c5a52f6fd07868c.m4a?auth_key=1794600548-OC9caTOE-0-302ade8a28bf287fe21f02ea9fa42105" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKNXNo</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260916期：我的大脑运转最活跃和最缓慢的时候</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPEbmo</guid>
       <pubDate>Wed, 16 Sep 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/1b/f7/1bf717966ccee732b54c9604d1927f97.m4a?auth_key=1794556713-S7u7AI1O-0-723fb16735b7d8027c0cefb3f4efc50d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/1b/f7/1bf717966ccee732b54c9604d1927f97.m4a?auth_key=1794600548-Ypxbfser-0-4fc034af6aaef883bb2956bbd15f1c00" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPEbmo</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260915期：晒晒你的“恋秋幸福清单”</description>
       <guid isPermaLink="false">ttfm-VJLvspjz2o</guid>
       <pubDate>Tue, 15 Sep 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/79/a1/79a13f5d32b6f6e5de963f5aedff7318.m4a?auth_key=1794556713-iYnkm2Gj-0-8d3a83c9236511b18a30162105fdcb08" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/79/a1/79a13f5d32b6f6e5de963f5aedff7318.m4a?auth_key=1794600548-wjI4nl5r-0-025a0da14568f9a220dc767816ec2f78" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspjz2o</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260914期：如果允许“职业交换”一天，你最想体验哪个职业？</description>
       <guid isPermaLink="false">ttfm-polrsLQmeJ</guid>
       <pubDate>Mon, 14 Sep 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/c1/ed/c1edc230d463429050fa38646f3172d6.m4a?auth_key=1794556713-vr40Gs7e-0-e6a1b49d721fb842d5993bb91dc3620e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/c1/ed/c1edc230d463429050fa38646f3172d6.m4a?auth_key=1794600548-nHuWdX3N-0-d922e073c4b8d7bb0d5bca6cc86c5c07" type="audio/mp4" length="0"/>
       <itunes:duration>02:05:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLQmeJ</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260913期：碎片时间做运动，你会选择哪一项？</description>
       <guid isPermaLink="false">ttfm-zJeWsWBk6o</guid>
       <pubDate>Sun, 13 Sep 2026 19:13:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/1e/a3/1ea3ed9fbc2f1a2eba07d652720bb67a.m4a?auth_key=1794556713-kSydzWBg-0-7df0c2efd772f59a1e0c16eb0b80096d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/1e/a3/1ea3ed9fbc2f1a2eba07d652720bb67a.m4a?auth_key=1794600548-glEVVLO1-0-b6f3e936a7dea257749ec3467c951736" type="audio/mp4" length="0"/>
       <itunes:duration>02:05:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsWBk6o</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260912期：他俩能成——你通过哪些细节判断对方适不适合交往？</description>
       <guid isPermaLink="false">ttfm-Lo7Psp55ea</guid>
       <pubDate>Sat, 12 Sep 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/32/4a/324a86761d05a8525a3c7b5cc0c9d73f.m4a?auth_key=1794556713-99eNEnjz-0-6266d2d3e1a0dad9b0cbb3631e4c5b5a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/32/4a/324a86761d05a8525a3c7b5cc0c9d73f.m4a?auth_key=1794600548-MkDi9oJB-0-ea6187f644c22088ee9a95e8a3761358" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:19</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7Psp55ea</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260911期：你最愿意为什么样的"服务"花钱？</description>
       <guid isPermaLink="false">ttfm-2d9esK25Wd</guid>
       <pubDate>Fri, 11 Sep 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/bf/84/bf842dabcbb759d49cc3638cd8e378e2.m4a?auth_key=1794556713-uSdaQyDj-0-2b341fb4e39419eb72dbb67a6d60cd30" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/bf/84/bf842dabcbb759d49cc3638cd8e378e2.m4a?auth_key=1794600548-vpZ76PlH-0-b3a05acd4ef3afcdfb27584cd29144a4" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esK25Wd</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260910期：你的名字里藏着爸妈的哪些“小心思”？</description>
       <guid isPermaLink="false">ttfm-0dGMsnMmza</guid>
       <pubDate>Thu, 10 Sep 2026 19:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/06/92/0692a9ea5b1664243b9642b9abdbd442.m4a?auth_key=1794556713-6tecw8Nd-0-e7c2b6fdbe9608b6979a7de80da32c6b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/06/92/0692a9ea5b1664243b9642b9abdbd442.m4a?auth_key=1794600548-i7x1z3fL-0-3c26607ff1b07e42785c8ba2b23ea3f4" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnMmza</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260909期：XXX能临时冲刺？但XXX真得脚踏实地</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6q9nd</guid>
       <pubDate>Wed, 09 Sep 2026 19:12:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/93/90/93907e59a6c3027fa65c3be7eced3b9b.m4a?auth_key=1794556713-Go6imQJe-0-9a23ab1b8ca75398c0836570fad2fdf8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/93/90/93907e59a6c3027fa65c3be7eced3b9b.m4a?auth_key=1794600548-vcG8b6CX-0-5c9e8aefa8d42a55fbe7d77b93da85b4" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6q9nd</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260908期：家政遇上智能，居家照护会改变什么？</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPq5Po</guid>
       <pubDate>Tue, 08 Sep 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/3b/53/3b5349b609b85acb65b590611345d238.m4a?auth_key=1794556713-9vMnfEb5-0-4d35789499dfe62a2d61ea1234f73e2c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/3b/53/3b5349b609b85acb65b590611345d238.m4a?auth_key=1794600548-RGyPOPw2-0-1b0dcbc8ccbb150fe78e429851927fa1" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPq5Po</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260907期：晒晒你最近的“文化菜单”</description>
       <guid isPermaLink="false">ttfm-vJ0PsMD40J</guid>
       <pubDate>Mon, 07 Sep 2026 19:13:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/13/da/13da425c946eff2b3ee76954c7f472e6.m4a?auth_key=1794556713-VvJ90yHb-0-131ef656cf77c223d4d84a7b3a209e1b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/13/da/13da425c946eff2b3ee76954c7f472e6.m4a?auth_key=1794600548-xM7kSRgL-0-fb2a15357565e98c4682645a91d6e0a6" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMD40J</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260906期：在哪件事上，您是“一遭被蛇咬、十年怕井绳”</description>
       <guid isPermaLink="false">ttfm-9onZsWDlRo</guid>
       <pubDate>Sun, 06 Sep 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/74/a8/74a82c9417489aba7dec26d5774e9fa3.m4a?auth_key=1794556713-qLnQEEpi-0-4625b8d1bfe97166879954568570401a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/74/a8/74a82c9417489aba7dec26d5774e9fa3.m4a?auth_key=1794600548-3gAuuHW3-0-acc9fc6ea49a9e6d6fad0cd353c479ed" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWDlRo</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260905期：他俩能成——我们家是这样分工的……</description>
       <guid isPermaLink="false">ttfm-eoxBsOMmDJ</guid>
       <pubDate>Sat, 05 Sep 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/b9/43/b9432339802443cf9ae622fc377f11be.m4a?auth_key=1794556713-frASCK3b-0-f4c280f80a0a90ddd5bdb397d947dd3b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/b9/43/b9432339802443cf9ae622fc377f11be.m4a?auth_key=1794600548-NEtSowkF-0-cb8ed5de1e9a1785a5ce7bf60812ac85" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOMmDJ</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260904期：学生时代，我最爱食堂的一道菜是……</description>
       <guid isPermaLink="false">ttfm-eoxBsOM84J</guid>
       <pubDate>Fri, 04 Sep 2026 19:13:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/43/0e/430eca7bab177196748fb32d26f31394.m4a?auth_key=1794556713-OI2AWlVo-0-bf530e4d064e06dd787895514d73d55c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/43/0e/430eca7bab177196748fb32d26f31394.m4a?auth_key=1794600548-RitGCZMr-0-fe3def21effe528dffd69c50bc8819d1" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOM84J</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260903期：你最近卸掉了什么？</description>
       <guid isPermaLink="false">ttfm-PJQvsWX2ed</guid>
       <pubDate>Thu, 03 Sep 2026 19:13:45 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/07/c1/07c1212cb81a43f19a459d5a0f48c0f5.m4a?auth_key=1794556713-WLloEYtK-0-e35dcfaa5952486fc50ecda6b4b1ec2c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/07/c1/07c1212cb81a43f19a459d5a0f48c0f5.m4a?auth_key=1794600548-189Wya8z-0-69a6fc1c2b05a67ad3041d694d3dd05c" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWX2ed</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260902期：我是如何做到“该省省该花花”的</description>
       <guid isPermaLink="false">ttfm-polrsLGOmJ</guid>
       <pubDate>Wed, 02 Sep 2026 19:13:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/f5/45/f5456de51d28a324e8b702710ddac85c.m4a?auth_key=1794556713-Y2dv3FbH-0-45d1c99367af8f28ecd8f5bbc4364b6b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/f5/45/f5456de51d28a324e8b702710ddac85c.m4a?auth_key=1794600548-NhrGtipq-0-90a91aa09e52a09029221b275ad9f7a5" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLGOmJ</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260901期：你觉得一个月生活费多少才够？</description>
       <guid isPermaLink="false">ttfm-Lo7PspDMla</guid>
       <pubDate>Tue, 01 Sep 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/7f/67/7f671aaecf7c1e4675d4680f643cadbe.m4a?auth_key=1794556713-gKDiZuj4-0-fc883fcce8be93d0ead93e4e5d0a8752" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/7f/67/7f671aaecf7c1e4675d4680f643cadbe.m4a?auth_key=1794600548-KHgagwJm-0-aacd02b59a44a0ef028ccf45d283bb01" type="audio/mp4" length="0"/>
       <itunes:duration>02:05:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7PspDMla</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260831期：新学期，我的新气象……</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPq1Xo</guid>
       <pubDate>Mon, 31 Aug 2026 19:13:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/ba/0d/ba0db1033a3de76b18f966bd98ecb0fb.m4a?auth_key=1794556713-SSXTcHoB-0-7bfa0173f900a0b87af84f26c169751c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/ba/0d/ba0db1033a3de76b18f966bd98ecb0fb.m4a?auth_key=1794600548-xfV0grvL-0-9cee9f50ca5126201d06c5154ec6e86a" type="audio/mp4" length="0"/>
       <itunes:duration>02:05:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPq1Xo</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260830期：你还记得最早骑共享单车是什么时候吗？</description>
       <guid isPermaLink="false">ttfm-Oo5psr4rkd</guid>
       <pubDate>Sun, 30 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/06/96/0696bae2a3900a6e173c9e66dd942dea.m4a?auth_key=1794556713-m2Aog8ss-0-00fd4bcc48bbaea099d7224741d0b1b4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/06/96/0696bae2a3900a6e173c9e66dd942dea.m4a?auth_key=1794600548-Oej9LjuS-0-2a8302de75bab5bab7a87cfb622075b4" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr4rkd</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260829期：如果“表达爱”能有说明书，上面会写……</description>
       <guid isPermaLink="false">ttfm-goqZsG8wLa</guid>
       <pubDate>Sat, 29 Aug 2026 19:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/31/ba/31ba14c336dcc904d1742d945d124d9b.m4a?auth_key=1794556713-iOlIIi3s-0-8b5f51626ec36e8ad1e0545e56d67e49" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/31/ba/31ba14c336dcc904d1742d945d124d9b.m4a?auth_key=1794600548-L6j4bcj5-0-f6a2cd286b9a4f5696affb2f7b730318" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsG8wLa</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260828期：第一次见家长，你做过哪些“特别准备”？</description>
       <guid isPermaLink="false">ttfm-9onZsWD3jo</guid>
       <pubDate>Fri, 28 Aug 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/a7/5f/a75f6546758ff720cdffc33f20f74b92.m4a?auth_key=1794556713-4pq6D13t-0-2cf32cdc0a07e559780096dd775199c9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/a7/5f/a75f6546758ff720cdffc33f20f74b92.m4a?auth_key=1794600548-wuaTt3uH-0-6222d24eb1e988201d78a9147375630f" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWD3jo</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260827期：铃停公交，你支持推广吗？</description>
       <guid isPermaLink="false">ttfm-QJgAsYB2ro</guid>
       <pubDate>Thu, 27 Aug 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/e1/e3/e1e31eb96a7eec001548f06a36e791ca.m4a?auth_key=1794556713-LkRsMfL3-0-8050536f65902a30b5d90ce53493452f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/e1/e3/e1e31eb96a7eec001548f06a36e791ca.m4a?auth_key=1794600548-nQxdGlj8-0-f77472a54b3ebca62c0c0c7888d1297d" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYB2ro</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260826期：上学时我最爱穿的衣服是……</description>
       <guid isPermaLink="false">ttfm-MaXAs7NrNJ</guid>
       <pubDate>Wed, 26 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/f3/7b/f37beba27826f56c969906fc51fcffd7.m4a?auth_key=1794556713-gfdw5RN3-0-f02e7961c0ef05eb497b56191a10a52c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/f3/7b/f37beba27826f56c969906fc51fcffd7.m4a?auth_key=1794600548-tyQKkTUg-0-98240762ddfdecfb1db9c2a00985a9df" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7NrNJ</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260825期：对你来说，怎样才算“好好吃一顿饭”？</description>
       <guid isPermaLink="false">ttfm-6oDvsBKjqJ</guid>
       <pubDate>Tue, 25 Aug 2026 19:13:48 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/56/b4/56b4f3ab2bbdd7d0ea0e5641c84e737b.m4a?auth_key=1794556713-NbiIUIZT-0-93dd5a51d7b45d7420ecfdbbfe4dee38" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/56/b4/56b4f3ab2bbdd7d0ea0e5641c84e737b.m4a?auth_key=1794600548-qeicVwPE-0-21c7c67ce59dce8dc555b5f19b681f12" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsBKjqJ</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260824期：如果给你一个无限冰箱，你最想囤什么？</description>
       <guid isPermaLink="false">ttfm-ydkvsPE3RJ</guid>
       <pubDate>Mon, 24 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/58/79/587922210f993261bdb7a3822e693067.m4a?auth_key=1794556713-20TMHPnS-0-5a253e5ae10b1f9fd3881a916b1d5feb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/58/79/587922210f993261bdb7a3822e693067.m4a?auth_key=1794600548-a7XIUWmk-0-f868199cc1cd3cd68e730a7b379f9292" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPE3RJ</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260823期：大降价，你认为是捡到了宝，还是踩进了坑？</description>
       <guid isPermaLink="false">ttfm-9onZsXvRPo</guid>
       <pubDate>Sun, 23 Aug 2026 19:13:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/fc/9d/fc9d6cc675792c23dec08711a8da841e.m4a?auth_key=1794556713-UNsHZ2zG-0-670e77cec1b6cd60ddcf11fb0e4c8e7f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/fc/9d/fc9d6cc675792c23dec08711a8da841e.m4a?auth_key=1794600548-kimq9Cut-0-d6eae1e3abd50b11f83f74057fb5e54c" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsXvRPo</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260822期：满分5分，我给自己的沟通能力打几分？为什么？</description>
       <guid isPermaLink="false">ttfm-zJeWsBnvXo</guid>
       <pubDate>Sat, 22 Aug 2026 19:13:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/20/23/202366f5d791fc13806570e3715eb3d3.m4a?auth_key=1794556713-YAZqiAsU-0-e397f517d02f578be117988ab4523af0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/20/23/202366f5d791fc13806570e3715eb3d3.m4a?auth_key=1794600548-Cw9qSVTl-0-768f5068949646f2bcf061e596c63ea9" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsBnvXo</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260821期：你最近遇到的什么很夯？什么很拉？</description>
       <guid isPermaLink="false">ttfm-7oZbs9PX0o</guid>
       <pubDate>Fri, 21 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/b6/e2/b6e201e6df0886c3cafa7010d34774f0.m4a?auth_key=1794556713-ldAUuR0j-0-24f22527f7afd56eaeb02c3842d45465" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/b6/e2/b6e201e6df0886c3cafa7010d34774f0.m4a?auth_key=1794600548-8Y6rO5W7-0-57e182c0f2384591e6da7a08f1db2f63" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbs9PX0o</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260820期：如今你还在坚持哪些“老古董”式的习惯？</description>
       <guid isPermaLink="false">ttfm-ydkvsGXKMJ</guid>
       <pubDate>Thu, 20 Aug 2026 19:13:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/9d/0c/9d0c886e9d8ce865ef70f048727b6339.m4a?auth_key=1794556713-otAXFUD2-0-0b997a4307851f4b85e9fcc66495d37b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/9d/0c/9d0c886e9d8ce865ef70f048727b6339.m4a?auth_key=1794600548-QA8RoBWs-0-11ea8d51eac7e5ea6f4ffd3166ce7e57" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsGXKMJ</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260819期：为了睡个好觉，我曾经……</description>
       <guid isPermaLink="false">ttfm-PorqsByDrd</guid>
       <pubDate>Wed, 19 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/1e/83/1e83a66b0af861b88db1a43a21d88215.m4a?auth_key=1794556713-SB6M47QE-0-0e1bb59ad81bbb1b1c6f6cbf8f7020d0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/1e/83/1e83a66b0af861b88db1a43a21d88215.m4a?auth_key=1794600548-NodMIe2x-0-c8b655682c72e7646fb98685ee709716" type="audio/mp4" length="0"/>
       <itunes:duration>02:02:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsByDrd</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260818期：我用现在这个手机壳的原因是……</description>
       <guid isPermaLink="false">ttfm-Lo7Ps5N6ka</guid>
       <pubDate>Tue, 18 Aug 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/2d/f9/2df980ffad42d30bb0418c0983f4da7f.m4a?auth_key=1794556713-wDFRYUMl-0-5f5ce294e84d1bd271279ad14570a9be" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/2d/f9/2df980ffad42d30bb0418c0983f4da7f.m4a?auth_key=1794600548-3HOEvs1l-0-eac6276941933dc3e01128d8056fccbe" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7Ps5N6ka</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260817期：孩子的暑假，是该“填满”还是“留白”？</description>
       <guid isPermaLink="false">ttfm-Rd1ZsEQpeo</guid>
       <pubDate>Mon, 17 Aug 2026 19:13:46 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/53/31/533133ce9c8862d25ff78b65af5bd9e4.m4a?auth_key=1794556713-hG0mYbNO-0-a6417c6f212118113a62a6f84f0bca9a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/53/31/533133ce9c8862d25ff78b65af5bd9e4.m4a?auth_key=1794600548-6tWPbE5C-0-d1be2c5347169b9bcd8d8d0f3df0f2cc" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsEQpeo</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260816期：你跟风体验过哪些运动项目，后来呢？</description>
       <guid isPermaLink="false">ttfm-Vob5sZNZnd</guid>
       <pubDate>Sun, 16 Aug 2026 19:13:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/9b/9f/9b9f1eec2947e48bb76bc4c7e47617b9.m4a?auth_key=1794556713-kIYrgT4k-0-03f0c7b6e661b19a8981e33927c336b1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/9b/9f/9b9f1eec2947e48bb76bc4c7e47617b9.m4a?auth_key=1794600548-CxA2zJZs-0-f11978c1c9571b691c0c5c41ec62d540" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZNZnd</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260815期：AI相亲匹配，哪些条件必须前置？</description>
       <guid isPermaLink="false">ttfm-Lo7Ps5Pq2a</guid>
       <pubDate>Sat, 15 Aug 2026 19:13:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/de/b0/deb06908b9554c37b6c93b9452f897ec.m4a?auth_key=1794556713-Grpd73W9-0-fe1aeb5a2450ef59e698cf8aff74f264" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/de/b0/deb06908b9554c37b6c93b9452f897ec.m4a?auth_key=1794600548-eKzZOVy6-0-0d28faf5d9dadcec8274e2b887e74a95" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7Ps5Pq2a</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260814期：你为“慢下来”花过哪些钱？</description>
       <guid isPermaLink="false">ttfm-gay7sKnWgd</guid>
       <pubDate>Fri, 14 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/72/f1/72f1b5c032c119e37a1d9b08583b1c3d.m4a?auth_key=1794556713-ACQkzNin-0-0a6b3463210a2624633e8b2fddef86fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/72/f1/72f1b5c032c119e37a1d9b08583b1c3d.m4a?auth_key=1794600548-fk5FNcfN-0-8d4cfec87244d0324d696a33099fdc0f" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKnWgd</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260813期：你家车上最好用/最鸡肋的设计是哪个？</description>
       <guid isPermaLink="false">ttfm-0dGMsMXzma</guid>
       <pubDate>Thu, 13 Aug 2026 19:13:11 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/36/d6/36d625672b1ead671079777f90fdd134.m4a?auth_key=1794556713-MM4CpZgl-0-11953aac383d650b1a95c809dc51289d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/36/d6/36d625672b1ead671079777f90fdd134.m4a?auth_key=1794600548-up2FE12G-0-c4636d489183bfa5943ecad11ed172ed" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsMXzma</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260812期：能让我亲自下厨的必备条件</description>
       <guid isPermaLink="false">ttfm-raEvsj156J</guid>
       <pubDate>Wed, 12 Aug 2026 19:13:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/f8/b5/f8b531cda4c22dc8f6e46324a1376280.m4a?auth_key=1794556713-NGxvOtsI-0-93bf08b39e178066835e40fd9bd9012f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/f8/b5/f8b531cda4c22dc8f6e46324a1376280.m4a?auth_key=1794600548-nAYNT34T-0-fd6234ef9e4010094d81c80f06f5a2a4" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsj156J</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260811期：你的工作受天气影响吗？</description>
       <guid isPermaLink="false">ttfm-ZdRjs9lvjd</guid>
       <pubDate>Tue, 11 Aug 2026 19:13:11 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/d7/be/d7be7c0a885ed9d42e482e1b5f701998.m4a?auth_key=1794556713-JXhP6mVT-0-b7f390ac8ace6df07e818bf31fd27b4d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/d7/be/d7be7c0a885ed9d42e482e1b5f701998.m4a?auth_key=1794600548-cRZnhgcO-0-2479e64cde9d4c73582675df8351d5c2" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs9lvjd</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260810期：你最近一次彻底放松是在什么时候？</description>
       <guid isPermaLink="false">ttfm-vJ0Ps0RnXJ</guid>
       <pubDate>Mon, 10 Aug 2026 19:13:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/7c/b1/7cb175852eaa4411387ee433f8b357f3.m4a?auth_key=1794556713-PG9rRQaK-0-564fd07f83048b718d0c50376e99c84c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/7c/b1/7cb175852eaa4411387ee433f8b357f3.m4a?auth_key=1794600548-YWxzK9II-0-1f1e414bc3510943be3e4a1a76ee9933" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0Ps0RnXJ</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260809期：骑秒之旅——认识一下，这是我的运动搭子</description>
       <guid isPermaLink="false">ttfm-5aOXsy4OqJ</guid>
       <pubDate>Sun, 09 Aug 2026 19:14:00 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/b0/a0/b0a0a6ff958d63537cb03ce48c2a8fa9.m4a?auth_key=1794556713-RK2RU4jf-0-a6c337e31da48a2330caab72563baeb1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/b0/a0/b0a0a6ff958d63537cb03ce48c2a8fa9.m4a?auth_key=1794600548-aCNCbIy9-0-69c075efdf999778f8318861ce9b7272" type="audio/mp4" length="0"/>
       <itunes:duration>02:03:31</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy4OqJ</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260808期：他俩能成——你会为了爱情“主动出击”还是“等待缘分”？</description>
       <guid isPermaLink="false">ttfm-polrsQD9wJ</guid>
       <pubDate>Sat, 08 Aug 2026 19:13:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/52/1a/521aa9636384248834c139ae406dd9b7.m4a?auth_key=1794556713-F5CkppHk-0-2ce37653fc67c69110ad7fe4f6864b3d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/52/1a/521aa9636384248834c139ae406dd9b7.m4a?auth_key=1794600548-r2f9aUd4-0-0a43a4b5debef7cdf632502d595bab4c" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQD9wJ</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260807期：如果让你教孩子做一道菜，你会教什么？</description>
       <guid isPermaLink="false">ttfm-Vob5sZ9x9d</guid>
       <pubDate>Fri, 07 Aug 2026 19:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/bf/d7/bfd7680ada94b603f91006d269f2a303.m4a?auth_key=1794556713-vYp08bi1-0-374f73485a2954b6be90a6a6f096107d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/bf/d7/bfd7680ada94b603f91006d269f2a303.m4a?auth_key=1794600548-0b3ovpwb-0-831d42f6fd51a01b661e1759b7813d10" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZ9x9d</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260806期：你有哪些“手机后遗症”？</description>
       <guid isPermaLink="false">ttfm-3aMvsvA2mJ</guid>
       <pubDate>Thu, 06 Aug 2026 19:13:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/4c/d0/4cd03c18453673d402124066ad58c145.m4a?auth_key=1794556713-6yHvHpcV-0-744c6eba81c095ba4c04dea40229ab13" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/4c/d0/4cd03c18453673d402124066ad58c145.m4a?auth_key=1794600548-0ZY4mZZK-0-00e8ffc5407286746961896ce0b509d2" type="audio/mp4" length="0"/>
       <itunes:duration>02:04:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvsvA2mJ</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260805期：你玩过最“野”的游乐项目是什么？现在想想后怕吗？</description>
       <guid isPermaLink="false">ttfm-0dGMsM9kWa</guid>
       <pubDate>Wed, 05 Aug 2026 19:13:37 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/fe/73/fe73e61b7791a0cb90783e7b3da5c793.m4a?auth_key=1794556713-NRUDSUWS-0-d3faba8d7d867bc60100c9df7d7507e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/fe/73/fe73e61b7791a0cb90783e7b3da5c793.m4a?auth_key=1794600548-FscDWnZm-0-187934f77164da902079763ee2a5c135" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsM9kWa</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260804期：什么情况下，你会决定换新手机？</description>
       <guid isPermaLink="false">ttfm-ea8Rsx37kd</guid>
       <pubDate>Tue, 04 Aug 2026 19:13:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/f8/58/f858ba115f97f740bbca17e1e71a3259.m4a?auth_key=1794556713-vU2apEVo-0-abd5cf15c836e71be649fa1527739da9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/f8/58/f858ba115f97f740bbca17e1e71a3259.m4a?auth_key=1794600548-n7PKQTL3-0-37d5691c8ba08eb5e0c79b91d82137d9" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsx37kd</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260803期：城市体验经济兴起，你最想打卡什么？</description>
       <guid isPermaLink="false">ttfm-OowlsNzbKa</guid>
       <pubDate>Mon, 03 Aug 2026 19:13:46 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/96/d0/96d0e1ec7cca340ad360e70cd851ced6.m4a?auth_key=1794556713-yXTMpRKM-0-a1d8b83a91ce3283e4b818de84040cd5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/96/d0/96d0e1ec7cca340ad360e70cd851ced6.m4a?auth_key=1794600548-1pmMT1zm-0-4aacada2e1bcf3affc1bec8a9eca955b" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:27</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNzbKa</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260802期：骑秒之旅——我的夏天运动“保命秘籍”是……</description>
       <guid isPermaLink="false">ttfm-6oDvsy5K2J</guid>
       <pubDate>Sun, 02 Aug 2026 19:13:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/fd/cd/fdcd1de49c092f68261c0c9c97bfc75c.m4a?auth_key=1794556713-KWERb7Xq-0-aa18983fe794b4fd27d704e23046395c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/fd/cd/fdcd1de49c092f68261c0c9c97bfc75c.m4a?auth_key=1794600548-TZ7itSCo-0-7e6214fc122d7ef4a9e85127f2ca8c15" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsy5K2J</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260801期：“拼事业”和“顾家庭”，你偏向了哪一边？</description>
       <guid isPermaLink="false">ttfm-xJvKsxg4Vd</guid>
       <pubDate>Sat, 01 Aug 2026 19:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/58/8b/588b9fdfaf93fa1156dfa1182a5ded35.m4a?auth_key=1794556713-56wNyiZx-0-2bb17896e32210adb93791c8b5808bed" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/58/8b/588b9fdfaf93fa1156dfa1182a5ded35.m4a?auth_key=1794600548-sKxNHY1F-0-34b4b26182c5b07920e2bfe16f874311" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsxg4Vd</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260731期：请用三个词形容最真实的你自己……</description>
       <guid isPermaLink="false">ttfm-5aOXsy4ZvJ</guid>
       <pubDate>Fri, 31 Jul 2026 19:13:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/98/cb/98cbc75f1be08d7a1b49e29172eb39aa.m4a?auth_key=1794556713-34NUSOIy-0-b0582a02004fc5f780221d037d5b6b80" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/98/cb/98cbc75f1be08d7a1b49e29172eb39aa.m4a?auth_key=1794600548-QHk45p0O-0-0f6efc3f3aa9e29618e6ee281700427b" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy4ZvJ</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260730期：长大后，你还保留着哪些童心爱好？</description>
       <guid isPermaLink="false">ttfm-PorqsBKyLd</guid>
       <pubDate>Thu, 30 Jul 2026 19:14:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/1f/02/1f02096dbd825a354295f6b00077cf00.m4a?auth_key=1794556713-zy9DlYHW-0-2c2e369f755e430b23032460a16ee89a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/1f/02/1f02096dbd825a354295f6b00077cf00.m4a?auth_key=1794600548-PYrDiC43-0-1b390bfe876e6c812d0c9337b1c80553" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsBKyLd</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260729期：这家餐厅消失后，我……</description>
       <guid isPermaLink="false">ttfm-PJQvsk0YLd</guid>
       <pubDate>Wed, 29 Jul 2026 19:13:14 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/9c/b9/9cb99f9b180f46ae016c1f2612e7755f.m4a?auth_key=1794556713-Da2ZSOBJ-0-6443a2afa01ee2f4277ef2aee417228b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/9c/b9/9cb99f9b180f46ae016c1f2612e7755f.m4a?auth_key=1794600548-RLASNIjt-0-6714ce495147aba5451391972daa84f7" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsk0YLd</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260728期：我们家的传统</description>
       <guid isPermaLink="false">ttfm-5aOXsy5BrJ</guid>
       <pubDate>Tue, 28 Jul 2026 19:13:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/b6/4d/b64df321fca93505a0342e12d7b6e16d.m4a?auth_key=1794556713-eXiLtTTP-0-86575431fd8823d093d6b9edfc93f9b9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/b6/4d/b64df321fca93505a0342e12d7b6e16d.m4a?auth_key=1794600548-Ic8xgBMf-0-05e992c31f4b5628b0392cc2263998d3" type="audio/mp4" length="0"/>
       <itunes:duration>02:00:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy5BrJ</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260727期：因为什么你爱上一种颜色？</description>
       <guid isPermaLink="false">ttfm-raEvsjx6WJ</guid>
       <pubDate>Mon, 27 Jul 2026 19:13:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0727/cf/f9/cff91b704d9ce4cb7b0266d0324a19c0.m4a?auth_key=1794556713-yHJnFzMN-0-c079961680f19f244e3f1300782dd3d1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0727/cf/f9/cff91b704d9ce4cb7b0266d0324a19c0.m4a?auth_key=1794600548-11awouSK-0-83b57ad50fa1b383888707d15695ed76" type="audio/mp4" length="0"/>
       <itunes:duration>01:59:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsjx6WJ</link>
-    </item>
-    <item>
-      <title>20260726期：你曾想尝试哪种“潮流运动”？</title>
-      <description>20260726期：你曾想尝试哪种“潮流运动”？</description>
-      <guid isPermaLink="false">ttfm-qaN0sxnGZd</guid>
-      <pubDate>Sun, 26 Jul 2026 19:13:38 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0726/f8/c5/f8c5d5bd59fb580b338a15362d4048a3.m4a?auth_key=1794556713-64ZF8VoJ-0-ec54a672928233bda1f7cd147ff340a2" type="audio/mp4" length="0"/>
-      <itunes:duration>02:00:26</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sxnGZd</link>
     </item>
   </channel>
 </rss>
