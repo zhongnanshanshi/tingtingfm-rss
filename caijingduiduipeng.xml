@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京新闻广播FM94.5/AM828</itunes:name></itunes:owner>
-    <lastBuildDate>Wed, 04 Nov 2026 04:09:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:39:15 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261104期：财经对对碰</title>
+      <description>20261104期：财经对对碰</description>
+      <guid isPermaLink="false">ttfm-polrsLWGjJ</guid>
+      <pubDate>Wed, 04 Nov 2026 10:12:09 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/85/42/8542eeef76fec5135a7750d54792727a.m4a?auth_key=1794649155-enJjGvFl-0-6125d334fb6bc8065f335cdddc1abd6f" type="audio/mp4" length="0"/>
+      <itunes:duration>00:34:52</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLWGjJ</link>
+    </item>
     <item>
       <title>20261103期：永辉超市艰难自救，出路在何处？</title>
       <description>20261103期：永辉超市艰难自救，出路在何处？</description>
       <guid isPermaLink="false">ttfm-PorqsvnAkd</guid>
       <pubDate>Tue, 03 Nov 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/16/b0/16b02db6d15a04420197e3e565819ea4.m4a?auth_key=1794600558-9lnKitAG-0-6b31381094a5e38cf95d8f50130e9c81" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/16/b0/16b02db6d15a04420197e3e565819ea4.m4a?auth_key=1794649155-DaxdaaHt-0-ec6f1090230c7229ce425645a497dc25" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvnAkd</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261102期：民营企业外贸态势稳中向好</description>
       <guid isPermaLink="false">ttfm-ndKes1pOKa</guid>
       <pubDate>Mon, 02 Nov 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/6e/17/6e1726a4ffe895b4ec951893da9aa27b.m4a?auth_key=1794600558-of5EvKCB-0-f41007b7050cb7ec4f2b5e6d8cbeb0ad" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/6e/17/6e1726a4ffe895b4ec951893da9aa27b.m4a?auth_key=1794649155-CL0Pb5L2-0-b4bda7bcb17b1158d5856b5bd1f3095e" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes1pOKa</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261101期：商场引进机器人新业态，带来新鲜引流话题</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPD2Ro</guid>
       <pubDate>Sun, 01 Nov 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/99/cc/99cc93482ba677190e53967b60749f06.m4a?auth_key=1794600558-CBpgbdNd-0-d4ce5b90bd95f173ceae883e012477ed" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/99/cc/99cc93482ba677190e53967b60749f06.m4a?auth_key=1794649155-NJXYPlS0-0-bac4e66280f026b412578677e951ce81" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPD2Ro</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261031期：短剧上线防沉迷功能，是否和盈利逻辑产生矛盾？</description>
       <guid isPermaLink="false">ttfm-gay7s9Vlpd</guid>
       <pubDate>Sat, 31 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/db/e1/dbe1944f1b652614197b3fac05341c39.m4a?auth_key=1794600558-yw2Uzn1x-0-8b780549f64c15e9c0d9b277341f9a84" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/db/e1/dbe1944f1b652614197b3fac05341c39.m4a?auth_key=1794649155-UhYeSJq4-0-06d7b9e10b04e5d5ef27380d2dfc3e0c" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9Vlpd</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261030期：北广购物</description>
       <guid isPermaLink="false">ttfm-MJmvseZXMd</guid>
       <pubDate>Fri, 30 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/44/49/44492b4f5abc1fbf94526b83789aa22c.m4a?auth_key=1794600558-AiKOpHHt-0-adadb735dd1a4f799bae164b94882d58" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/44/49/44492b4f5abc1fbf94526b83789aa22c.m4a?auth_key=1794649155-WOOAnUTL-0-422ac6d032d511fdcfbd527cd8d76f8a" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseZXMd</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261029期：上证指数微调，新规落地有什么影响？</description>
       <guid isPermaLink="false">ttfm-Oowlsbzmla</guid>
       <pubDate>Thu, 29 Oct 2026 10:01:53 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/e6/a5/e6a5e7955505a0b48ef46a2af21c0ec4.m4a?auth_key=1794600558-DR8xujeh-0-97f2db8e236d439e9a5f03d3a5dfb250" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/e6/a5/e6a5e7955505a0b48ef46a2af21c0ec4.m4a?auth_key=1794649155-gpRGvID7-0-44f8643bde8dbf50dd29a50da1022ec5" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oowlsbzmla</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261028期：北广购物</description>
       <guid isPermaLink="false">ttfm-vJ0PsMRkyJ</guid>
       <pubDate>Wed, 28 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/0f/07/0f0750f66446e9a1fe42b714bbdfc066.m4a?auth_key=1794600558-9MTaUK6d-0-17a6a76469a62cfe1c15ed5f49f4d9e6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/0f/07/0f0750f66446e9a1fe42b714bbdfc066.m4a?auth_key=1794649155-IKvOul88-0-5febf61cfc2600fcf8a28f744268071c" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMRkyJ</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261027期：主题公园行业报告：能不能留住游客成为重要指标</description>
       <guid isPermaLink="false">ttfm-goqZsG7Wpa</guid>
       <pubDate>Tue, 27 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/c7/46/c7460e6af67dcd5945290d2917a87e0f.m4a?auth_key=1794600558-LDKDy84s-0-f74625612a7688b748d7940196a97e72" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/c7/46/c7460e6af67dcd5945290d2917a87e0f.m4a?auth_key=1794649155-8vibPLBa-0-0a2c56ab71259e90d4b02a9b5cdcbaa7" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsG7Wpa</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261026期：购物对外国游客吸引力提升，“中国购”是如何形成的？</description>
       <guid isPermaLink="false">ttfm-ea8Rsg32wd</guid>
       <pubDate>Mon, 26 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/4e/88/4e884b71daca403afd19aedb4cea4368.m4a?auth_key=1794600558-fikDW7gf-0-d873e6237af13900ff32a2f86e6770c2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/4e/88/4e884b71daca403afd19aedb4cea4368.m4a?auth_key=1794649155-IyokSeu6-0-58deac8bce3a540a696f5171df28bbef" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:54</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsg32wd</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261025期：宽基不是万能的，但它什么都有：普通人该怎么配?（下）</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6xZGd</guid>
       <pubDate>Sun, 25 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/53/09/5309aed2065ae75ab6fbba748361e01c.m4a?auth_key=1794600558-UcQvkuNV-0-cd6f4575dbbac750d32e1c5d5d674798" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/53/09/5309aed2065ae75ab6fbba748361e01c.m4a?auth_key=1794649155-AcN8H0AK-0-6e451538eba757619989ff5a6f2b71d4" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6xZGd</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261024期：宽基不是万能的，但它什么都有：普通人该怎么配?（上）</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPR63o</guid>
       <pubDate>Sat, 24 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/37/ab/37ab8be1beb4010f9d89a92996ed2304.m4a?auth_key=1794600558-iMcvjhRQ-0-1b5be600856ae774495ec34ecf0034d3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/37/ab/37ab8be1beb4010f9d89a92996ed2304.m4a?auth_key=1794649155-whRuUW1A-0-d7c024fb99422c13676e786f7331744c" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPR63o</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261023期：北广购物</description>
       <guid isPermaLink="false">ttfm-VJLvspnnQo</guid>
       <pubDate>Fri, 23 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/0d/e7/0de74c5d457518e1becbe42d6d028692.m4a?auth_key=1794600558-JIm7YOC9-0-f7548f98fad4ee6e29370f03a2d8920f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/0d/e7/0de74c5d457518e1becbe42d6d028692.m4a?auth_key=1794649155-E2rCeaTG-0-b370fb2c7f2a8f31339f203c9a3ca692" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspnnQo</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261022期：求职进阶宝典</description>
       <guid isPermaLink="false">ttfm-4o6Qs9qDAd</guid>
       <pubDate>Thu, 22 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/35/cd/35cdadd701e18c8ced811516e8f82c68.m4a?auth_key=1794600558-cx8WWCSE-0-061f467d240f81b59854422f2a99fc01" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/35/cd/35cdadd701e18c8ced811516e8f82c68.m4a?auth_key=1794649155-z3ox4CGa-0-ecb6b9b43cf00423d614368eb8d9fcfd" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9qDAd</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261021期：北广购物</description>
       <guid isPermaLink="false">ttfm-6JW8s2M4pd</guid>
       <pubDate>Wed, 21 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/8f/78/8f7866abd1d2f362ea91e26cdd1bef82.m4a?auth_key=1794600558-BuFloPje-0-d83b5f0578fae3ad531089bec9410228" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/8f/78/8f7866abd1d2f362ea91e26cdd1bef82.m4a?auth_key=1794649155-hfa6s04v-0-ce7f2058b8d434154f475c2154da5184" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2M4pd</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261020期：对谈罗叔：怎么看“进阶版”AI？</description>
       <guid isPermaLink="false">ttfm-gay7s9VWKd</guid>
       <pubDate>Tue, 20 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/65/8b/658bba7e23e49e502d28003475b80194.m4a?auth_key=1794600558-AlS8fTu7-0-7f47ac604e9537e208e131e20535ce48" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/65/8b/658bba7e23e49e502d28003475b80194.m4a?auth_key=1794649155-ydt8qCwH-0-4deacee8d7b9b173b105460525258101" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9VWKd</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261019期：三星堆电影上映，有什么亮点值得关注？</description>
       <guid isPermaLink="false">ttfm-5aOXs14qyJ</guid>
       <pubDate>Mon, 19 Oct 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/9b/f1/9bf18148a98b30489a0a21d755ae42ac.m4a?auth_key=1794600558-2UZ3h1K6-0-2a3ef59b63577a66bbaa85d66b7b31d8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/9b/f1/9bf18148a98b30489a0a21d755ae42ac.m4a?auth_key=1794649155-hqQmHHQ9-0-ce0548cd2b2243dbd485f9d250a5540b" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs14qyJ</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261018期：持拍上场！投资能像网球那样一招制胜吗？（下）</description>
       <guid isPermaLink="false">ttfm-polrsL5NpJ</guid>
       <pubDate>Sun, 18 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/1f/0a/1f0ad482866ae175d75356d5005b3340.m4a?auth_key=1794600558-2ZrfL81H-0-86dbde22009cd6f2a04f295768e74882" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/1f/0a/1f0ad482866ae175d75356d5005b3340.m4a?auth_key=1794649155-JcpE68Vp-0-75b823169c6d823e44fb8115672c6445" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsL5NpJ</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261017期：持拍上场！投资能像网球那样一招制胜吗？(上）</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6wj0d</guid>
       <pubDate>Sat, 17 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/cb/69/cb693accadb3422296bf420e30d55071.m4a?auth_key=1794600558-IWRK473r-0-d8095ac6aac038f5c113e2dfd978e7e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/cb/69/cb693accadb3422296bf420e30d55071.m4a?auth_key=1794649155-xy7wHTmX-0-76227d499c3c7a39470f73b8c985fbeb" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6wj0d</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261016期：北广购物</description>
       <guid isPermaLink="false">ttfm-eoxBsOVpKJ</guid>
       <pubDate>Fri, 16 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/af/52/af52d3afb9f06a8a9be7297ed5e38208.m4a?auth_key=1794600558-ueSFUZJm-0-9cba7d32e3062af9a9c2514bc2c6ae9e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/af/52/af52d3afb9f06a8a9be7297ed5e38208.m4a?auth_key=1794649155-L4IvYmgm-0-33f6309822c8e3ba5e3391a945de3719" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOVpKJ</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261015期：“金融数字化”成为金融机构必经之路，如何能走好、走稳？</description>
       <guid isPermaLink="false">ttfm-PJQvsW0pDd</guid>
       <pubDate>Thu, 15 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/55/14/55146be1a54b34c0918469cce9dda621.m4a?auth_key=1794600558-EhcS0eKo-0-c6a9facd9791521c99be4ec87c78f65a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/55/14/55146be1a54b34c0918469cce9dda621.m4a?auth_key=1794649155-GWmfGkVd-0-b35bd38f137e59d77ba58314f89beabc" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:47</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsW0pDd</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261014期：北广购物</description>
       <guid isPermaLink="false">ttfm-QdBWs0pBEo</guid>
       <pubDate>Wed, 14 Oct 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/75/dc/75dccca49c6d1a19a9227124594f4fe3.m4a?auth_key=1794600558-d49vRZtl-0-62dd4df09cccc723165db9450f7429e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/75/dc/75dccca49c6d1a19a9227124594f4fe3.m4a?auth_key=1794649155-fENAqwBh-0-788a4d88913d47fcafa9426f1b0663fe" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs0pBEo</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261013期：安踏收购彪马三成股权，战略投资有何深意？</description>
       <guid isPermaLink="false">ttfm-PJQvsW0DAd</guid>
       <pubDate>Tue, 13 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/e8/32/e8321693a402f45dde0fa254b1ba7516.m4a?auth_key=1794600558-oR9SCZTo-0-61d16639db9edb2956fd3c2cf2607db4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/e8/32/e8321693a402f45dde0fa254b1ba7516.m4a?auth_key=1794649155-kJsotJ1y-0-7f0e84a0422b61cbca1184eeecc81ad6" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsW0DAd</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261012期：汽车准入监管有什么新动向？</description>
       <guid isPermaLink="false">ttfm-VJLvspwzeo</guid>
       <pubDate>Mon, 12 Oct 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/87/7b/877b5a6c2407d9d6399b6a26a3a41814.m4a?auth_key=1794600558-oL1H0WqW-0-efc41d67ef93012b88437e3e1aff531d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/87/7b/877b5a6c2407d9d6399b6a26a3a41814.m4a?auth_key=1794649155-9wR1sIDE-0-aecc9573421aeb7a2c0229353c773a0d" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspwzeo</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261011期：游戏企业重金投向大模型，有什么样的行业洞察</description>
       <guid isPermaLink="false">ttfm-0dGMsn0k9a</guid>
       <pubDate>Sun, 11 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/58/e8/58e867b66fe7f85e2915441bd9d2b3eb.m4a?auth_key=1794600558-cE1It0wN-0-00bcea03d2f9da259eab7220936bb2c1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/58/e8/58e867b66fe7f85e2915441bd9d2b3eb.m4a?auth_key=1794649155-kbTDqAKa-0-ea47dd5f562c7325302b288af7ac000d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsn0k9a</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261010期：快销品牌精简业务，背后的商业逻辑是什么？</description>
       <guid isPermaLink="false">ttfm-qaN0swn1Ed</guid>
       <pubDate>Sat, 10 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/35/57/355730a4281f8033bc25a28690e8c8d3.m4a?auth_key=1794600558-FFRH3vuM-0-7661f36710ececcff5e840958b981e57" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/35/57/355730a4281f8033bc25a28690e8c8d3.m4a?auth_key=1794649155-TdaIuZX0-0-b2a9c4ed65caa4572824d28fbbcb53c4" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swn1Ed</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261009期：北广购物</description>
       <guid isPermaLink="false">ttfm-6JW8s2YlKd</guid>
       <pubDate>Fri, 09 Oct 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/88/f7/88f7669289104f064cd084c75a6cb643.m4a?auth_key=1794600558-TkQQWXSe-0-750fe9d066b5a8a6d42d44755d451f31" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/88/f7/88f7669289104f064cd084c75a6cb643.m4a?auth_key=1794649155-DGRBkNWq-0-2ff1eb9160828c26096bc1fda56b9957" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2YlKd</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261008期：人民币跨境融资：熊猫债总发行规模突破2100亿元</description>
       <guid isPermaLink="false">ttfm-xJvKsbD3Ld</guid>
       <pubDate>Thu, 08 Oct 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/77/a5/77a591c21ea491b01ffb9591a6da40be.m4a?auth_key=1794600558-GSbuLdMi-0-9ae600f0405ffa2c9e6cb40e4523b686" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/77/a5/77a591c21ea491b01ffb9591a6da40be.m4a?auth_key=1794649155-hcmXzfaE-0-e5704d14f68aa24e20a4b2050b574640" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbD3Ld</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261007期：北广购物</description>
       <guid isPermaLink="false">ttfm-xo4GsKQBEd</guid>
       <pubDate>Wed, 07 Oct 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/b6/89/b689e86a0e9eef6456ea7d2506b2ebb5.m4a?auth_key=1794600558-2uEFevB5-0-18274c03adf7ce6765a13779658856cf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/b6/89/b689e86a0e9eef6456ea7d2506b2ebb5.m4a?auth_key=1794649155-XWMitTtv-0-bca43a6fd29998ac028f1ad1c35ab38d" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKQBEd</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261006期：黄金消费市场走势分析（下）</description>
       <guid isPermaLink="false">ttfm-PorqsvKVDd</guid>
       <pubDate>Tue, 06 Oct 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/1e/3a/1e3ae22c486dea05f7bac347334abd66.m4a?auth_key=1794600558-JHeeoQIH-0-f02cb75a5181dc09da1e690d5c56ed0f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/1e/3a/1e3ae22c486dea05f7bac347334abd66.m4a?auth_key=1794649155-2yuDNkDo-0-092a19c751c6a63a706aca4e509c8717" type="audio/mp4" length="0"/>
       <itunes:duration>00:37:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvKVDd</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261005期：黄金消费市场走势分析（上）</description>
       <guid isPermaLink="false">ttfm-ZJ3esKKEXo</guid>
       <pubDate>Mon, 05 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/c7/0f/c70f160c8c01461289ac2e8d36001f58.m4a?auth_key=1794600558-WlHMvPye-0-d0788b83f7767b2c46808dea306ef14c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/c7/0f/c70f160c8c01461289ac2e8d36001f58.m4a?auth_key=1794649155-ghl63wqq-0-9fcbe3ed12467b330e2930734b20b43f" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKKEXo</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261004期：下半年科技板块的发展趋势将走向如何？（下）</description>
       <guid isPermaLink="false">ttfm-ea8RsggrRd</guid>
       <pubDate>Sun, 04 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/d8/dd/d8dd2480cef73affc1264b8018cb01cd.m4a?auth_key=1794600558-0sQjN0nl-0-9a61707a8ad8c1aee5e86330706a783f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/d8/dd/d8dd2480cef73affc1264b8018cb01cd.m4a?auth_key=1794649155-tauJoVlz-0-57e7373fe4f5f9f0238ad1473a18d9c9" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsggrRd</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261003期：下半年科技板块的发展趋势将走向如何？</description>
       <guid isPermaLink="false">ttfm-ndKes11VRa</guid>
       <pubDate>Sat, 03 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/f4/95/f495872bdba700ca7d5f60eeed0bc47a.m4a?auth_key=1794600558-nAmKjXks-0-c839b017defc4cf43457eb48627149c7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/f4/95/f495872bdba700ca7d5f60eeed0bc47a.m4a?auth_key=1794649155-b59Gv0Dn-0-d0c8eb8b53004537ad8a5a73d27bf86f" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes11VRa</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261002期：北广购物</description>
       <guid isPermaLink="false">ttfm-gay7s99R0d</guid>
       <pubDate>Fri, 02 Oct 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/51/9e/519e1da805c4f1d3d1739678e75b1e82.m4a?auth_key=1794600558-qNEKYTZY-0-87896964ed4ce9bdd6af2cc9e4d2b9bd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/51/9e/519e1da805c4f1d3d1739678e75b1e82.m4a?auth_key=1794649155-sgvl3XUt-0-86590e6c69f8a217de1998c851060eef" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s99R0d</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20261001期：智能网联中国汽车发展十五五规划</description>
       <guid isPermaLink="false">ttfm-MJmvseeEld</guid>
       <pubDate>Thu, 01 Oct 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/d5/5b/d55b7d22d897e0c150c7942ebfd1fc35.m4a?auth_key=1794600558-ub03Owcj-0-37c547c55f1d3413a01e84893f08908a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/d5/5b/d55b7d22d897e0c150c7942ebfd1fc35.m4a?auth_key=1794649155-RWAaT31I-0-238326f6cc418fe15967ac89b5751457" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseeEld</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20260930期：北广购物</description>
       <guid isPermaLink="false">ttfm-Oowlsbb0va</guid>
       <pubDate>Wed, 30 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/81/12/8112c338f56291cf7d6de71a53bbb632.m4a?auth_key=1794600558-69scqwwP-0-dc0805c806adbf84197f38c7a46cddbb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/81/12/8112c338f56291cf7d6de71a53bbb632.m4a?auth_key=1794649155-yj7wlDT5-0-d328944e022a577cbe75268001da2e9d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oowlsbb0va</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20260929期：专访AMG-GT3赛车手梁嘉桐</description>
       <guid isPermaLink="false">ttfm-ZoAws11k7J</guid>
       <pubDate>Tue, 29 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/79/1d/791d7c130692fe950189eb7799ab3dd0.m4a?auth_key=1794600558-SnyS3qEu-0-145187cd58b7bbef26ee761640d2798b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/79/1d/791d7c130692fe950189eb7799ab3dd0.m4a?auth_key=1794649155-rkxf1oUb-0-2eb30a046e51823daae39cfb99df9fbc" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws11k7J</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20260928期：十一假期旅游攻略分享</description>
       <guid isPermaLink="false">ttfm-ydkvsPPmmJ</guid>
       <pubDate>Mon, 28 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/d0/86/d086b943bb482d7081b32cc0efb93ef3.m4a?auth_key=1794600558-cfjfFOcY-0-752dfcc1f769e6fe143aef3a2467818f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/d0/86/d086b943bb482d7081b32cc0efb93ef3.m4a?auth_key=1794649155-E90CuXMs-0-ceb877a289d80c32ceb0e349e54daf26" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPPmmJ</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20260927期：免安装空调——中国消费品出海新逻辑（下）</description>
       <guid isPermaLink="false">ttfm-ZJ3esKKOmo</guid>
       <pubDate>Sun, 27 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/6c/a0/6ca0f35f8b3b4bd7e26c40407e7b4f29.m4a?auth_key=1794600558-doiFcLcJ-0-07fb6304e14b4a7c76638cd624cc6357" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/6c/a0/6ca0f35f8b3b4bd7e26c40407e7b4f29.m4a?auth_key=1794649155-DpXb25pz-0-120501a5b14b24468714e14801e20495" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKKOmo</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20260926期：免安装空调——中国消费品出海新逻辑（上）</description>
       <guid isPermaLink="false">ttfm-ea8RsgggVd</guid>
       <pubDate>Sat, 26 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/24/f0/24f029147787098f333b0944ef0daaa8.m4a?auth_key=1794600558-xb0irJbQ-0-56cca4445f17dffd62cb146c8f178635" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/24/f0/24f029147787098f333b0944ef0daaa8.m4a?auth_key=1794649155-XMh56clC-0-7e1177cc3d824ad6112df941777e0c37" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:56</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgggVd</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20260925期：北广购物</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPPj1o</guid>
       <pubDate>Fri, 25 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/7f/64/7f643d5315eab512b0b7df78a35a1e9c.m4a?auth_key=1794600558-zTAXeuwM-0-50fbdf3b5bb857d0ef8d99d903f58891" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/7f/64/7f643d5315eab512b0b7df78a35a1e9c.m4a?auth_key=1794649155-91Bf9GAV-0-16fff6de1000f79ff400586c4ac21c48" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPPj1o</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20260924期：AI原生汽车的长处和不足都是什么？</description>
       <guid isPermaLink="false">ttfm-VJLvsppBOo</guid>
       <pubDate>Thu, 24 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/1e/49/1e497f6f57dc7278b0793094826fda6b.m4a?auth_key=1794600558-jtjFBrZP-0-8dc75843c990cf23b1057c8c188de75a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/1e/49/1e497f6f57dc7278b0793094826fda6b.m4a?auth_key=1794649155-NachgQA4-0-f8b4a7095a32f8f21218c2ea4232b9cc" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvsppBOo</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20260923期：北广购物</description>
       <guid isPermaLink="false">ttfm-4o6Qs99Njd</guid>
       <pubDate>Wed, 23 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/29/cf/29cf8809f8e2038f722d2ec88c9c6ba9.m4a?auth_key=1794600558-HZgRwFTu-0-cd301d7c0947defec384b35cbf7de07f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/29/cf/29cf8809f8e2038f722d2ec88c9c6ba9.m4a?auth_key=1794649155-UoCDN4bu-0-ec79cd8ea7def0c7c2973865fbdde0c1" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs99Njd</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20260922期：“豆包座舱助手”正式发布，AI原生汽车真的来了</description>
       <guid isPermaLink="false">ttfm-ndKes1Bb8a</guid>
       <pubDate>Tue, 22 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/85/2c/852c3e3396970cffa4bc955bcd2abcf3.m4a?auth_key=1794600558-OQgrnooS-0-a11a04a1a03cd446020965acc9532f57" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/85/2c/852c3e3396970cffa4bc955bcd2abcf3.m4a?auth_key=1794649155-Or6tYd5c-0-7b671a2379d15a3deea1e892f107aea9" type="audio/mp4" length="0"/>
       <itunes:duration>00:32:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes1Bb8a</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20260921期：商圈黄金当铺换为国产品牌，消费发生了什么样的转移？</description>
       <guid isPermaLink="false">ttfm-kdjgsjyX6o</guid>
       <pubDate>Mon, 21 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/d3/ca/d3ca893566d3c6bee9aa985288d2a590.m4a?auth_key=1794600558-yZJbuj9q-0-b567b72486be5d2791964e14b8972480" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/d3/ca/d3ca893566d3c6bee9aa985288d2a590.m4a?auth_key=1794649155-baed0F4F-0-f11786db138b9058053a9b46607e745a" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjyX6o</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260920期：科技板块过山车？可达智灵CEO张宇与嘉实基金经理为您拆解：算力依旧紧缺（下）</description>
       <guid isPermaLink="false">ttfm-ydkvsPG7nJ</guid>
       <pubDate>Sun, 20 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/e1/1f/e11f7870e893f225449acc23e7745190.m4a?auth_key=1794600558-5Tw8liaf-0-b0f9242cc0e5504f1cf4d499881141f6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/e1/1f/e11f7870e893f225449acc23e7745190.m4a?auth_key=1794649155-D9tQ7cU1-0-f056c50aeb26d0baaf9ea4d96722c78b" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPG7nJ</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260919期：科技板块过山车？可达智灵CEO张宇与嘉实基金经理为您拆解：算力依旧紧缺（上）</description>
       <guid isPermaLink="false">ttfm-5aOXs1y07J</guid>
       <pubDate>Sat, 19 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/b2/38/b238258610bab197810d8cc4be3359e4.m4a?auth_key=1794600558-qnddJHPW-0-7432bf2e9518b7e52435ddb507e313a9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/b2/38/b238258610bab197810d8cc4be3359e4.m4a?auth_key=1794649155-48HpErVi-0-a8d293c525500484bcea996e5e0a751e" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs1y07J</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260918期：北广购物</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6qW4d</guid>
       <pubDate>Fri, 18 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/6b/10/6b104f92ecffa2f33a8683a2de7044e8.m4a?auth_key=1794600558-XyfxL3A1-0-0972a5a052482b802c48d623979ba771" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/6b/10/6b104f92ecffa2f33a8683a2de7044e8.m4a?auth_key=1794649155-Pe4MKdP2-0-a025f33d08226eaeb2e36fe9c7037afa" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6qW4d</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260917期：全国公共充电规模大但利用率低，行业将如何发展？</description>
       <guid isPermaLink="false">ttfm-eaVrsAXzja</guid>
       <pubDate>Thu, 17 Sep 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/48/24/4824d90d50b8ba23cd7a208150baf88d.m4a?auth_key=1794600558-tclQmxQI-0-5b31d03bf434ae644ed5587364429fe6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/48/24/4824d90d50b8ba23cd7a208150baf88d.m4a?auth_key=1794649155-NRSk5pf5-0-16de2118a43bc68f8358bb07891ca9de" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAXzja</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260916期：北广购物</description>
       <guid isPermaLink="false">ttfm-0dGMsnMbBa</guid>
       <pubDate>Wed, 16 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/67/33/6733c179030d77e6d08152e1e21e07d6.m4a?auth_key=1794600558-m87OyQhW-0-1d9b344a93b8448035eb1d879440d4d1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/67/33/6733c179030d77e6d08152e1e21e07d6.m4a?auth_key=1794649155-GmJW2vjk-0-187d5559500f7e6be99acd0ead02de74" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnMbBa</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260915期：2026服贸会有什么亮点？</description>
       <guid isPermaLink="false">ttfm-ea8Rsgxw8d</guid>
       <pubDate>Tue, 15 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/4b/b0/4bb024d8e2905f33bc631c96adb73a23.m4a?auth_key=1794600558-xmYirneo-0-d1005253b3370818a268678d4da9d719" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/4b/b0/4bb024d8e2905f33bc631c96adb73a23.m4a?auth_key=1794649155-v6Qmiapr-0-23b3366dcbf6110158bf496de9051f73" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsgxw8d</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260914期：多厂商发布折叠款手机，怎么看这场同台竞技？</description>
       <guid isPermaLink="false">ttfm-YdY3sx30za</guid>
       <pubDate>Mon, 14 Sep 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/58/ff/58ff37e34c12c19ec7c7433ab0fc2546.m4a?auth_key=1794600558-Kqei44m5-0-e865aea061f84813f193431fd9b9f268" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/58/ff/58ff37e34c12c19ec7c7433ab0fc2546.m4a?auth_key=1794649155-zFnjNcuu-0-bc3053a9ca6a9be326127562819e67de" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sx30za</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260913期：机器人真有技术，还是秀个花活？</description>
       <guid isPermaLink="false">ttfm-kdjgsjywzo</guid>
       <pubDate>Sun, 13 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/11/fe/11feb462ea1574ed5642ef962a6018f8.m4a?auth_key=1794600558-uYPISCO7-0-4310fb95c509c60f11f892ee526b2ffd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/11/fe/11feb462ea1574ed5642ef962a6018f8.m4a?auth_key=1794649155-Rxj8jv8Y-0-2fc424ca69da22f852f42e864e19f584" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjywzo</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260912期：机器人距离进入大众家庭还有多远？</description>
       <guid isPermaLink="false">ttfm-ZoAws1DYRJ</guid>
       <pubDate>Sat, 12 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/dc/3d/dc3d61569c59cabf35170dd6998f550a.m4a?auth_key=1794600558-CMYbgQ3C-0-12213bbd48cfb2d0f8bfb11fd661b831" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/dc/3d/dc3d61569c59cabf35170dd6998f550a.m4a?auth_key=1794649155-thMwAxaN-0-c4fd1f8b178fc50461a5d9acb492833a" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws1DYRJ</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260911期：北广购物</description>
       <guid isPermaLink="false">ttfm-polrsLQzAJ</guid>
       <pubDate>Fri, 11 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/a5/2e/a52e7efb76ea09f3078ebac68f91b607.m4a?auth_key=1794600558-mj24jCZV-0-8e887606b98e4cb2f2974a607af320b3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/a5/2e/a52e7efb76ea09f3078ebac68f91b607.m4a?auth_key=1794649155-2PfoS2lG-0-716900aca8b1f17f1520db589b110fa9" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLQzAJ</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260910期：八家中央金融企业发布增资计划，将怎样传导到大众生活</description>
       <guid isPermaLink="false">ttfm-eoxBsOe7jJ</guid>
       <pubDate>Thu, 10 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/3a/3b/3a3b4e063b15adca6993faa2345537f7.m4a?auth_key=1794600558-pgs7Erba-0-e63a7504cc661c88625e1d0875043d48" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/3a/3b/3a3b4e063b15adca6993faa2345537f7.m4a?auth_key=1794649155-8LBLRLUp-0-41f1ce2e174e5bbc437b7cdd99c6c03a" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOe7jJ</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260909期：北广购物</description>
       <guid isPermaLink="false">ttfm-PJQvsWkQwd</guid>
       <pubDate>Wed, 09 Sep 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/4c/fc/4cfc1b8cc5c7e65927fb22198d98e68f.m4a?auth_key=1794600558-JkfO3lH4-0-beb8b4be84a201acb588c0afb0588591" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/4c/fc/4cfc1b8cc5c7e65927fb22198d98e68f.m4a?auth_key=1794649155-RzNnhyCi-0-6e94fd2a8fb64211810244d354878cea" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWkQwd</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260908期：第三方低价话费有什么产生原因？</description>
       <guid isPermaLink="false">ttfm-5aOXs1gVBJ</guid>
       <pubDate>Tue, 08 Sep 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/50/86/5086892afbffa75f1bd497c84c60bd41.m4a?auth_key=1794600558-FxDocK92-0-9b29ab73ad467a59c1eb7c0773e138bb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/50/86/5086892afbffa75f1bd497c84c60bd41.m4a?auth_key=1794649155-oTpcBeqO-0-7b3350840d42ffb3bb49ffe44eb573e0" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs1gVBJ</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260907期：二手房市场筑底回升</description>
       <guid isPermaLink="false">ttfm-ZJ3esK4Lxo</guid>
       <pubDate>Mon, 07 Sep 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/f2/76/f27656e7ad3b079fa93672e9254167f8.m4a?auth_key=1794600558-EYZ3KzAB-0-a4dcddd89b1ac9a2a170732151ea42e4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/f2/76/f27656e7ad3b079fa93672e9254167f8.m4a?auth_key=1794649155-Mfhyzjym-0-d15bac88ff91067422af3b12c568af34" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esK4Lxo</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260906期：航天食品会带进百姓餐桌吗？</description>
       <guid isPermaLink="false">ttfm-YdY3sxlMea</guid>
       <pubDate>Sun, 06 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/9d/a7/9da7efa6c3099312927699705b5357e7.m4a?auth_key=1794600558-Cw4GHAHN-0-c590f6838ef8a0881a8b9a53dd71c984" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/9d/a7/9da7efa6c3099312927699705b5357e7.m4a?auth_key=1794649155-fM2Na28N-0-5894422aba04c4f5ce0cdbb312a85c6e" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxlMea</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260905期：商业航天是什么？</description>
       <guid isPermaLink="false">ttfm-ndKes182Na</guid>
       <pubDate>Sat, 05 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/4a/ea/4aea9130c0059a4259dbe26fd0758eba.m4a?auth_key=1794600558-FOcr0njT-0-9020a6060f875b0b69f930d4dc7e56b6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/4a/ea/4aea9130c0059a4259dbe26fd0758eba.m4a?auth_key=1794649155-pjHgLe0T-0-86eca3d93effe828893138bcd146c886" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes182Na</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260904期：北广购物</description>
       <guid isPermaLink="false">ttfm-MaXAs7ygzJ</guid>
       <pubDate>Fri, 04 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/9d/92/9d92a7f741de091a0054200d18a5a13b.m4a?auth_key=1794600558-cuDM2aAm-0-eeca9bc8a130258f2890b16dfecdf274" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/9d/92/9d92a7f741de091a0054200d18a5a13b.m4a?auth_key=1794649155-3tsETCor-0-7b603c74e7dfc14ae722c11d67ee0b9c" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7ygzJ</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260903期：建好房子，用金隅星牌岩棉</description>
       <guid isPermaLink="false">ttfm-MJmvsePNkd</guid>
       <pubDate>Thu, 03 Sep 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/3e/e4/3ee4e6cffce0bda22de9f372e566d8d3.m4a?auth_key=1794600558-l7iF2jLo-0-771c68130dc3162de6a65c95ac466117" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/3e/e4/3ee4e6cffce0bda22de9f372e566d8d3.m4a?auth_key=1794649155-fzwtQ5GQ-0-953f331238f005bdb681da22db3e0185" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvsePNkd</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260902期：北广购物</description>
       <guid isPermaLink="false">ttfm-7oZbsW5wEo</guid>
       <pubDate>Wed, 02 Sep 2026 10:01:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/c3/2f/c32fbe59f7ae869093492b8fed458a51.m4a?auth_key=1794600558-RRGLceiC-0-f340e9d5b2fccb0d514ae9ea63205336" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/c3/2f/c32fbe59f7ae869093492b8fed458a51.m4a?auth_key=1794649155-35Z7T0HL-0-9c84c5a8aac3540fa399682b169506fd" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsW5wEo</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260901期：ETC要被取消？高速收费变局背后的万亿经济账本</description>
       <guid isPermaLink="false">ttfm-ZoAws1YG5J</guid>
       <pubDate>Tue, 01 Sep 2026 10:02:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/a5/76/a576f378674e202e3eda8e88984482e0.m4a?auth_key=1794600558-H9NXGh2H-0-1daeb9131d65b1b83b20cf84feb0011f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/a5/76/a576f378674e202e3eda8e88984482e0.m4a?auth_key=1794649155-D7eipGV4-0-bc0703cbbb598b34689cbba01e32da46" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:53</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws1YG5J</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260831期：曾经的梦想跑鞋，为什么没人买单了？</description>
       <guid isPermaLink="false">ttfm-vdz8sOQrba</guid>
       <pubDate>Mon, 31 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/34/69/34698a2a453a5ae3140ce21dac968594.m4a?auth_key=1794600558-w7efrz1s-0-dadfab96cf2845c361d6459562abe71d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/34/69/34698a2a453a5ae3140ce21dac968594.m4a?auth_key=1794649155-bCtrCWCF-0-40275c10eb90212e43aefae2f4684977" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOQrba</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260830期：聊聊创新药</description>
       <guid isPermaLink="false">ttfm-ZJ3esK4NKo</guid>
       <pubDate>Sun, 30 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/c6/0a/c60a09c96aad98c732e9fa590f4a51d0.m4a?auth_key=1794600558-t4vWoa9J-0-b95bcf4328f83f9f8075315c5c32ee4d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/c6/0a/c60a09c96aad98c732e9fa590f4a51d0.m4a?auth_key=1794649155-9A1I7tPd-0-3a47af27c50b0045153a20c207124370" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esK4NKo</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260829期：创新药新在哪？</description>
       <guid isPermaLink="false">ttfm-ea8RsgENPd</guid>
       <pubDate>Sat, 29 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/e8/ec/e8ecc28c0df79e29dac27db7d6918212.m4a?auth_key=1794600558-IKAtHV1T-0-1ee2d9c412a10060065021fd0830423b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/e8/ec/e8ecc28c0df79e29dac27db7d6918212.m4a?auth_key=1794649155-9fMgY2xG-0-bc32843f2320b056245bce5224edfe5d" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgENPd</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260828期：北广购物</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPqGbo</guid>
       <pubDate>Fri, 28 Aug 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/63/40/634066415276945ed4e88cf3b63b0ff2.m4a?auth_key=1794600558-EY6JcHof-0-1b76844542c885e4bfc5ac32ef40be7b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/63/40/634066415276945ed4e88cf3b63b0ff2.m4a?auth_key=1794649155-xH4K5x2a-0-6b5e6153f5e6d247a3fcd34e95d9f28f" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:35</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPqGbo</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260827期：低空经济热潮下的机遇与隐忧</description>
       <guid isPermaLink="false">ttfm-VJLvspLNqo</guid>
       <pubDate>Thu, 27 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/ab/b3/abb32682ffb8078bb0ed95c03db763b0.m4a?auth_key=1794600558-CwI9s2wk-0-9e99d6dddb056c36f05df3d237eb5a6e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/ab/b3/abb32682ffb8078bb0ed95c03db763b0.m4a?auth_key=1794649155-v4RcGBFD-0-43333b294498918ac268facc729ff352" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspLNqo</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260826期：北广购物</description>
       <guid isPermaLink="false">ttfm-gay7s9Ny2d</guid>
       <pubDate>Wed, 26 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/1f/e1/1fe1d3f7ba4a3b03c1d9c1c7cf39e1df.m4a?auth_key=1794600558-BlOV6xs3-0-34f2c8c08006a8d7aa40bdc31119db56" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/1f/e1/1fe1d3f7ba4a3b03c1d9c1c7cf39e1df.m4a?auth_key=1794649155-4AUypKWm-0-67ad9618ac355f42f5f9e05803051ef0" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9Ny2d</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260825期：面包节火爆的背后，是怎样的营销逻辑？</description>
       <guid isPermaLink="false">ttfm-vdz8sOPDva</guid>
       <pubDate>Tue, 25 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/e4/7e/e47ebcf569a4a25b941be974a6caf44a.m4a?auth_key=1794600558-aPmYUZyu-0-7f2a96868d8a3bc1458899bfe4ca1755" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/e4/7e/e47ebcf569a4a25b941be974a6caf44a.m4a?auth_key=1794649155-Kk5uDFGI-0-476a2c46bd5873c0eb8a048499f270ac" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOPDva</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260824期：“机器人热”的驱动力来源何处？</description>
       <guid isPermaLink="false">ttfm-4o6QsDg20d</guid>
       <pubDate>Mon, 24 Aug 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/d1/ad/d1adc55ff6fdf1218e21deb24dd48ecf.m4a?auth_key=1794600558-ZMMDSOCv-0-f54424d3870da9a47a7aa2d57feb6668" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/d1/ad/d1adc55ff6fdf1218e21deb24dd48ecf.m4a?auth_key=1794649155-RxoQUZNF-0-f5195ff31eafc1e7936168de03193993" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6QsDg20d</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260823期：怎么看新型储能产业跨越式发展？</description>
       <guid isPermaLink="false">ttfm-OowlsNnrva</guid>
       <pubDate>Sun, 23 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/e3/af/e3af2c71b57dd7934d43c9472cbd246c.m4a?auth_key=1794600558-EBCKalrP-0-0a0d7fab4517f2efa692c7f3f5afbf1b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/e3/af/e3af2c71b57dd7934d43c9472cbd246c.m4a?auth_key=1794649155-iSfVPgta-0-129753362dd9b12d1172996161dbd248" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:35</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNnrva</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260822期：时间嘉奖：从科学家和投资人的角度看产业发展</description>
       <guid isPermaLink="false">ttfm-6JW8slxkwd</guid>
       <pubDate>Sat, 22 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/1b/14/1b14d4328c21aece7534b912a4eacb81.m4a?auth_key=1794600558-ssaNhqGg-0-bcb09b8d5a10a6e8330198f2e4310eaf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/1b/14/1b14d4328c21aece7534b912a4eacb81.m4a?auth_key=1794649155-DrZ3g4pF-0-a695eba3cb1ebb518667855dc584f2d7" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8slxkwd</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260821期：北广购物</description>
       <guid isPermaLink="false">ttfm-xJvKsxEQBd</guid>
       <pubDate>Fri, 21 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/d1/90/d1902a480574fa259a7d7301f6b67dd2.m4a?auth_key=1794600558-am3GcrjI-0-d80a413d9dd18eb8be49b8befff9951e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/d1/90/d1902a480574fa259a7d7301f6b67dd2.m4a?auth_key=1794649155-XKQPqAZQ-0-009fe994ca58caee0bd0d96e64bd226a" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsxEQBd</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260820期：市场为什么给了宇树科技高估值？</description>
       <guid isPermaLink="false">ttfm-qaN0sx2eDd</guid>
       <pubDate>Thu, 20 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/ef/ef/efef5f1d0d0d54b594cdba9427bed05b.m4a?auth_key=1794600558-UsuX2CWd-0-abf8f9bbdb6ac60f3d07f7293399b25d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/ef/ef/efef5f1d0d0d54b594cdba9427bed05b.m4a?auth_key=1794649155-ZPfCA8Bv-0-5515f39ba39774aad54c54ff6eaf9892" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sx2eDd</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260819期：北广购物</description>
       <guid isPermaLink="false">ttfm-6oDvsyzNBJ</guid>
       <pubDate>Wed, 19 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/1c/5c/1c5c20034d431b303f6dc2887ba49b8d.m4a?auth_key=1794600558-FgPpbtQj-0-49f403cdafa2f047a2cb75ca84bde069" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/1c/5c/1c5c20034d431b303f6dc2887ba49b8d.m4a?auth_key=1794649155-XcxESisn-0-f7b70efed035aef1ac7db2576e54d8f0" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsyzNBJ</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260818期：乌兰察布算力中心有什么优势？</description>
       <guid isPermaLink="false">ttfm-vJ0Ps0ORPJ</guid>
       <pubDate>Tue, 18 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/11/73/117387f1f63e502bdd9fb3a6b194c1a5.m4a?auth_key=1794600558-bCV9omht-0-cf651207b4903982de5318de25a51cd1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/11/73/117387f1f63e502bdd9fb3a6b194c1a5.m4a?auth_key=1794649155-WfOWGGVN-0-716d3830eb7f73176617f7d95426cda8" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0Ps0ORPJ</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260817期：AI办公是否发展到瓶颈期？</description>
       <guid isPermaLink="false">ttfm-QJgAskblpo</guid>
       <pubDate>Mon, 17 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/49/20/49209b3fd7193bbd52bd2635afed6554.m4a?auth_key=1794600558-EfnzFX9u-0-5003ba4b0c1b1df21b84a9846a476059" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/49/20/49209b3fd7193bbd52bd2635afed6554.m4a?auth_key=1794649155-5y1TbPDO-0-b41063ca8fa1e5afad09d4d750a0c2c4" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:36</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAskblpo</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260816期：纵览煤化工产业2</description>
       <guid isPermaLink="false">ttfm-7oZbs9r1Vo</guid>
       <pubDate>Sun, 16 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/75/ce/75ce2e58752f5ef9a09225994f3571f9.m4a?auth_key=1794600558-CHCwQaMO-0-511e436f8b989c6e140f2578198748a0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/75/ce/75ce2e58752f5ef9a09225994f3571f9.m4a?auth_key=1794649155-rZ7d1XjW-0-692dc5dfec7207c813acacf7bb0e58f3" type="audio/mp4" length="0"/>
       <itunes:duration>00:37:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbs9r1Vo</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260815期：纵览煤化工产业</description>
       <guid isPermaLink="false">ttfm-PJQvsklEzd</guid>
       <pubDate>Sat, 15 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/d1/a6/d1a68075699543a60eaab4dbcd04cf1f.m4a?auth_key=1794600558-mXdfaSdr-0-86b91627059e15a6b310c47021ea5eae" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/d1/a6/d1a68075699543a60eaab4dbcd04cf1f.m4a?auth_key=1794649155-PQ5wd7Jr-0-c97ae5b8ff59e8edf5e08336b9d52b96" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsklEzd</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260814期：北广购物</description>
       <guid isPermaLink="false">ttfm-QdBWsvbggo</guid>
       <pubDate>Fri, 14 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/e2/64/e2646311caab214f53013cdffc2dce3a.m4a?auth_key=1794600558-vDNgb0qh-0-f56d06be87238f0fd64cf6a0fcf69af5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/e2/64/e2646311caab214f53013cdffc2dce3a.m4a?auth_key=1794649155-FVY6aiH0-0-aac87353ae1305c43dac783151e7c024" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWsvbggo</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260813期：AI+体育未来的应用场景是什么样的？</description>
       <guid isPermaLink="false">ttfm-Vob5sZ92Rd</guid>
       <pubDate>Thu, 13 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/cc/40/cc4057f86e4fd725132ff05506e534cd.m4a?auth_key=1794600558-mkk4hul8-0-5b97a233ebfcb1d623df55c9a16d2691" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/cc/40/cc4057f86e4fd725132ff05506e534cd.m4a?auth_key=1794649155-zFz5MZTp-0-cbb59b70468786e79e795af753fe9df5" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:33</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZ92Rd</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260812期：北广购物</description>
       <guid isPermaLink="false">ttfm-2d9es2myVd</guid>
       <pubDate>Wed, 12 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/86/45/8645794a0c75a1a41e197f675749f2dd.m4a?auth_key=1794600558-2V0y9Vul-0-5dc83e3542b38d00e26e1fcd6f883fbb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/86/45/8645794a0c75a1a41e197f675749f2dd.m4a?auth_key=1794649155-5N3f47gB-0-6cd7dc6f342959a1b70bace5a78e3443" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9es2myVd</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260811期：如何让自己的职业发展跟上时代大势？</description>
       <guid isPermaLink="false">ttfm-0dGMsM92wa</guid>
       <pubDate>Tue, 11 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/88/24/88243d66b4be04a6642388114626dcf6.m4a?auth_key=1794600558-RCD5DTLD-0-5371f54fc74d5f96572519de55c4f363" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/88/24/88243d66b4be04a6642388114626dcf6.m4a?auth_key=1794649155-2QEhR0CQ-0-c3e94b3b1edcc457ccd5130ab1508855" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsM92wa</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260810期：游戏行业的生产端与消费端传递出什么信号？</description>
       <guid isPermaLink="false">ttfm-MJmvswZVgd</guid>
       <pubDate>Mon, 10 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/7e/1c/7e1c0b2606ad4df75fc56960b55eb5bb.m4a?auth_key=1794600558-LS2dj81Y-0-71d7dc81aa03f244f1ac8477f54b2281" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/7e/1c/7e1c0b2606ad4df75fc56960b55eb5bb.m4a?auth_key=1794649155-GcgNEDGL-0-34339c895505f9401311928905ffbe4e" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:35</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvswZVgd</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260809期：时间嘉奖，把握周期机会</description>
       <guid isPermaLink="false">ttfm-xo4GsV86Pd</guid>
       <pubDate>Sun, 09 Aug 2026 10:02:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/56/e3/56e3dfa7c4b6e939b0b1a116618f5aed.m4a?auth_key=1794600558-3UW34GEC-0-2d6d39ae46c80acb8c7491b0bedc7c66" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/56/e3/56e3dfa7c4b6e939b0b1a116618f5aed.m4a?auth_key=1794649155-YBVcdoJz-0-a11a92304bce964cef21bf7bca10baf3" type="audio/mp4" length="0"/>
       <itunes:duration>00:39:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsV86Pd</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260808期：时间嘉奖，把握周期机会</description>
       <guid isPermaLink="false">ttfm-QJgAsk0PYo</guid>
       <pubDate>Sat, 08 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/0f/89/0f8978c26a4d772bec7e7f326a2a45d5.m4a?auth_key=1794600558-otZVMGA0-0-4521c9ecba0e1ecf1ecb0c9200c7cf80" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/0f/89/0f8978c26a4d772bec7e7f326a2a45d5.m4a?auth_key=1794649155-fzMZkM99-0-1e0ec5d42d098350d1e4adcc1e9eaaee" type="audio/mp4" length="0"/>
       <itunes:duration>00:33:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsk0PYo</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260807期：立秋之际，黑木耳特产上新</description>
       <guid isPermaLink="false">ttfm-ZoAwsD2EjJ</guid>
       <pubDate>Fri, 07 Aug 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/35/70/3570ed8b34a0b37dc5b01f67d822d40a.m4a?auth_key=1794600558-SlTpgAOl-0-752f18ff9681e58712e62e149c1e9d60" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/35/70/3570ed8b34a0b37dc5b01f67d822d40a.m4a?auth_key=1794649155-c2Iwl6Wd-0-cc4d27dc478b71cc534cd0a473f1e864" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:56</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAwsD2EjJ</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260806期：个贷新规全国落地执行</description>
       <guid isPermaLink="false">ttfm-polrsQDBOJ</guid>
       <pubDate>Thu, 06 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/2d/a7/2da71f5f3fe8ed3f25fa94c43a6fcf66.m4a?auth_key=1794600558-kWzeSq3X-0-24d298dd6403f4a05208d7516462aa65" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/2d/a7/2da71f5f3fe8ed3f25fa94c43a6fcf66.m4a?auth_key=1794649155-6Z1B3VjM-0-a820d3c38642236b9fa7b22495704f27" type="audio/mp4" length="0"/>
       <itunes:duration>00:31:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQDBOJ</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260805期：北广购物</description>
       <guid isPermaLink="false">ttfm-eoxBse2ZNJ</guid>
       <pubDate>Wed, 05 Aug 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/1e/fb/1efbb0598016f6404f9b1494fcc7a13b.m4a?auth_key=1794600558-MTrdjKSr-0-47b0ba1dc8c6b88cb7cb8b7733798c85" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/1e/fb/1efbb0598016f6404f9b1494fcc7a13b.m4a?auth_key=1794649155-FFNhy1Bg-0-558e6d2337a908a0cfe4c989e285f3b3" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBse2ZNJ</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260804期：携程被重罚，监管尺度发生了什么变化？</description>
       <guid isPermaLink="false">ttfm-2d9es2mV0d</guid>
       <pubDate>Tue, 04 Aug 2026 10:02:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/52/03/52032b1d65ce3d704bc5c7f5d99f7616.m4a?auth_key=1794600558-wVR9cMvR-0-793f94970abf567afe4ef14bd1566ba0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/52/03/52032b1d65ce3d704bc5c7f5d99f7616.m4a?auth_key=1794649155-4ZlMzVuA-0-190e26b3983230374cfde7f3b5558971" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9es2mV0d</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260803期：一人公司是如何实现运行的？</description>
       <guid isPermaLink="false">ttfm-Oo5psBR4Kd</guid>
       <pubDate>Mon, 03 Aug 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/25/ae/25aebdfcf2abd0393b414c3c88fb3d5a.m4a?auth_key=1794600558-iBItfHLK-0-24a0181188534f525e4f772a549db8ab" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/25/ae/25aebdfcf2abd0393b414c3c88fb3d5a.m4a?auth_key=1794649155-LLIx8RQw-0-6d6b920d2b6486c412308152c6a95701" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psBR4Kd</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260802期：为什么AI的尽头是电力？</description>
       <guid isPermaLink="false">ttfm-VJLvsjnq2o</guid>
       <pubDate>Sun, 02 Aug 2026 10:02:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/05/ac/05aceddb27e44befabca6163d24739a3.m4a?auth_key=1794600558-kve10F4N-0-24b54446cde5c28b754c290b5c0a0dfb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/05/ac/05aceddb27e44befabca6163d24739a3.m4a?auth_key=1794649155-VsgV3xeZ-0-aaa8f89b7772281668683f53a1589e1a" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:36</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvsjnq2o</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260801期：养龙虾能如何帮助大家工作？</description>
       <guid isPermaLink="false">ttfm-MJmvswZxxd</guid>
       <pubDate>Sat, 01 Aug 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/59/cc/59ccf75623fe4810147f90a9b98a4833.m4a?auth_key=1794600558-4LvFoVjR-0-c2a627af821e601ad581dd53e710ca87" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/59/cc/59ccf75623fe4810147f90a9b98a4833.m4a?auth_key=1794649155-oRCpahvK-0-5f3cfb8c1d48df0e64713aba7e2a0e1a" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvswZxxd</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260731期：北广购物</description>
       <guid isPermaLink="false">ttfm-OowlsNzwWa</guid>
       <pubDate>Fri, 31 Jul 2026 10:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/f3/c0/f3c037364130a66576dbb21700fb266c.m4a?auth_key=1794600558-KnVocx0P-0-1fc856bbd90d43f83ca71acc2ccc11a0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/f3/c0/f3c037364130a66576dbb21700fb266c.m4a?auth_key=1794649155-ckN2AGTI-0-0ba8cc2b383f2450721b4b49a5159998" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNzwWa</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260730期：金隅砂浆，铸造好房子</description>
       <guid isPermaLink="false">ttfm-MaXAs3D5DJ</guid>
       <pubDate>Thu, 30 Jul 2026 10:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/19/1b/191b0ad470e6541e2823e484e3936aab.m4a?auth_key=1794600558-y60fbUdM-0-71a62aeaf3ee1a841075b2659ba88fda" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/19/1b/191b0ad470e6541e2823e484e3936aab.m4a?auth_key=1794649155-6Iadz8AK-0-724bc68cae0fd39072e1c82ab03d3254" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs3D5DJ</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260729期：北广购物</description>
       <guid isPermaLink="false">ttfm-9onZsXrZeo</guid>
       <pubDate>Wed, 29 Jul 2026 10:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/80/be/80bee97378632ccc028e653be1f6b380.m4a?auth_key=1794600558-pJ8Mrywc-0-33164a3228d47bfc0908c6a275815e7b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/80/be/80bee97378632ccc028e653be1f6b380.m4a?auth_key=1794649155-mAmtOv0u-0-00bd4a478c459c51c06a19c1ec64de96" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsXrZeo</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260728期：财经对对碰，关注身边的财经热点</description>
       <guid isPermaLink="false">ttfm-6oDvsylDeJ</guid>
       <pubDate>Tue, 28 Jul 2026 10:02:15 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/a3/ed/a3ed5071310252acc84fac54613bb202.m4a?auth_key=1794600558-WOIhdpCf-0-6e8d74b8edea8128a414278dec98dec1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0728/a3/ed/a3ed5071310252acc84fac54613bb202.m4a?auth_key=1794649155-3BJwTQUV-0-328f8b91745ca7afa58236ab1a87a932" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsylDeJ</link>
-    </item>
-    <item>
-      <title>20260727期：财经对对碰</title>
-      <description>20260727期：财经对对碰</description>
-      <guid isPermaLink="false">ttfm-OowlsNPGDa</guid>
-      <pubDate>Mon, 27 Jul 2026 10:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0727/b8/bd/b8bd9a2e02ca9ec6e27f7f45356ff529.m4a?auth_key=1794600558-Vak2t525-0-8eeac1e22edfa97a118bccb8a2186102" type="audio/mp4" length="0"/>
-      <itunes:duration>00:34:59</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNPGDa</link>
     </item>
   </channel>
 </rss>
