@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京文艺广播FM87.6</itunes:name></itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 04:42:17 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:58:28 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261106期：文化经纬线 中外传奇故事</title>
+      <description>20261106期：文化经纬线 中外传奇故事</description>
+      <guid isPermaLink="false">ttfm-Ka2Ps6ME2d</guid>
+      <pubDate>Fri, 06 Nov 2026 12:13:10 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/51/07/5107a9cedcb63f21e8e0ca9870e710cd.m4a?auth_key=1794815908-23v6BZwN-0-0bbf63aae1064f83da3c10f37fa0f6a0" type="audio/mp4" length="0"/>
+      <itunes:duration>00:59:08</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6ME2d</link>
+    </item>
     <item>
       <title>20261105期：文化经纬线 中外传奇故事</title>
       <description>20261105期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PJQvsWl0pd</guid>
       <pubDate>Thu, 05 Nov 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/b8/88/b888c17738a00a803fe28ec0e97568ab.m4a?auth_key=1794775337-2EIcrj0M-0-7af8b081bc85d90c9348909b61a95992" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/b8/88/b888c17738a00a803fe28ec0e97568ab.m4a?auth_key=1794815908-3ZYefvUh-0-bdd877fa5a0f0f82b819fbe3df76abcf" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWl0pd</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261104期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZJ3esKR4Ro</guid>
       <pubDate>Wed, 04 Nov 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/bc/f3/bcf3c13b2acd55d7920348b31fe59859.m4a?auth_key=1794775337-RMBUqxgH-0-608c1ee9505eb9c8ea16c73aa5903beb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/bc/f3/bcf3c13b2acd55d7920348b31fe59859.m4a?auth_key=1794815908-R921INay-0-d11a1b3eb8a52e93ebb76f44f39157f0" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKR4Ro</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261103期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZJ3esKRyAo</guid>
       <pubDate>Tue, 03 Nov 2026 12:12:52 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/e0/10/e010979b069fa0cae512efc2caf7634a.m4a?auth_key=1794775337-BAlTigcZ-0-74595a0ba9d456cf6da252a40deaba53" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/e0/10/e010979b069fa0cae512efc2caf7634a.m4a?auth_key=1794815908-aSN8N51s-0-d1e24d7c03ea8954b6fc634a0109adbd" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKRyAo</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261102期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-YdY3sxQL6a</guid>
       <pubDate>Mon, 02 Nov 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/4e/2b/4e2ba317ad4b382e5808e7ff652d905b.m4a?auth_key=1794775337-xa2Dk43r-0-4c9fa3e36303e7a55f6d04b485faebf3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/4e/2b/4e2ba317ad4b382e5808e7ff652d905b.m4a?auth_key=1794815908-utUg2j7K-0-619e9420c89cf4058c48026cfef856e9" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxQL6a</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261101期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-6oDvsB7xgJ</guid>
       <pubDate>Sun, 01 Nov 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/94/87/9487c44c7ead5c9fda4c5fb33c75dfff.m4a?auth_key=1794775337-UBR7ortu-0-19ac5910d16307a921f49d83127712d3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/94/87/9487c44c7ead5c9fda4c5fb33c75dfff.m4a?auth_key=1794815908-mP8RcIX1-0-08f34168cf3d0d7c660a9d366b4d93e1" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsB7xgJ</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261031期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MaXAs7057J</guid>
       <pubDate>Sat, 31 Oct 2026 12:12:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/a9/54/a95472900b93e80a7c31f519c60d30b0.m4a?auth_key=1794775337-Ip8G0iQ1-0-0e9f90f53d963ef78e9a11fac59fae7a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/a9/54/a95472900b93e80a7c31f519c60d30b0.m4a?auth_key=1794815908-EmbpGfjP-0-4b35eca1d2b5bc2f351dadc345c2192b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7057J</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261030期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-polrsLDgNJ</guid>
       <pubDate>Fri, 30 Oct 2026 12:13:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/b5/52/b55282a95031c4b0509df3fed5e14118.m4a?auth_key=1794775337-89fn1ilv-0-13cd31aae7110c29cde3055239f999ef" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/b5/52/b55282a95031c4b0509df3fed5e14118.m4a?auth_key=1794815908-N5ah3oEA-0-f331a0660830d13094b1b4d8fed3d66b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLDgNJ</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261029期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBsO2pzJ</guid>
       <pubDate>Thu, 29 Oct 2026 12:13:11 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/f5/31/f53163d5fae7845aaf8d964385c3f2bc.m4a?auth_key=1794775337-pufY1eH7-0-7724b4534a6ce525aa6862e41625582d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/f5/31/f53163d5fae7845aaf8d964385c3f2bc.m4a?auth_key=1794815908-n5smmNGB-0-51208e091b8ac935b30cab77dcf06a14" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsO2pzJ</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261028期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ydkvsP9wMJ</guid>
       <pubDate>Wed, 28 Oct 2026 12:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/0e/5a/0e5af0b21e05f3b8b32a1fbdf01b5289.m4a?auth_key=1794775337-3vgECddA-0-80718fe3223b7e8806a260e7832bbb57" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/0e/5a/0e5af0b21e05f3b8b32a1fbdf01b5289.m4a?auth_key=1794815908-H1kecwD6-0-ade86af36716ef06347ee181720248ac" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsP9wMJ</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261027期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-OdPXszDYjd</guid>
       <pubDate>Tue, 27 Oct 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/d4/64/d464f1760551378f1419ec06c3138ab0.m4a?auth_key=1794775337-98tgUpvF-0-0c3403d6a00dc7db94159cf704ae3153" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/d4/64/d464f1760551378f1419ec06c3138ab0.m4a?auth_key=1794815908-E5Mqxwcx-0-0a3eff03092042121d0def46da3ff3df" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszDYjd</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261026期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZJ3esKVWzo</guid>
       <pubDate>Mon, 26 Oct 2026 12:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/1c/31/1c31ec0bc491205f0e4f1fcfafacec6f.m4a?auth_key=1794775337-KiCVeEMZ-0-c13cedc818ec4724500c6b51a44505fd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/1c/31/1c31ec0bc491205f0e4f1fcfafacec6f.m4a?auth_key=1794815908-Llk3dgvw-0-99d622a562d5382835c8272c49928610" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKVWzo</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261025期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-qaN0sw1PPd</guid>
       <pubDate>Sun, 25 Oct 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/5a/0e/5a0e82a6af253abbd1a6f133a783ca06.m4a?auth_key=1794775337-jwIxtvAC-0-5f5c84731c0b6c3941ca452a5a1b8023" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/5a/0e/5a0e82a6af253abbd1a6f133a783ca06.m4a?auth_key=1794815908-mSex0rBM-0-b96a0678ed465306235ba8aa493f2695" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sw1PPd</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261024期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-6JW8s2M0Gd</guid>
       <pubDate>Sat, 24 Oct 2026 12:12:54 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/29/58/2958e339347b9578d0b2a4e65ab0d2bb.m4a?auth_key=1794775337-xY2AVPuQ-0-d1b1e1766c350c20ba357efb971d6c45" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/29/58/2958e339347b9578d0b2a4e65ab0d2bb.m4a?auth_key=1794815908-bGSKkwzC-0-d5a1dfc7b04d64d8e5bea2dea5ce3872" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2M0Gd</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261023期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MaXAs700EJ</guid>
       <pubDate>Fri, 23 Oct 2026 12:13:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/09/56/095670ebd22c6f77b135a2d111dc70e2.m4a?auth_key=1794775337-Sr3C2cvw-0-4c29a844ab6550af851b460ff69e2a4d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/09/56/095670ebd22c6f77b135a2d111dc70e2.m4a?auth_key=1794815908-C89C58d6-0-c4b9aec0b6b539532516e67dd4bb8db2" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs700EJ</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261022期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-xo4GsK8V8d</guid>
       <pubDate>Thu, 22 Oct 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/ed/bf/edbf64a9f537558de474e6dfbfc701df.m4a?auth_key=1794775337-MwmuBXhk-0-d347534fd0708c7687451fe4df7fa178" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/ed/bf/edbf64a9f537558de474e6dfbfc701df.m4a?auth_key=1794815908-KbUWf21b-0-145df874ce678db0917548e35cc19fc8" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsK8V8d</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261021期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-kdjgsjB9Zo</guid>
       <pubDate>Wed, 21 Oct 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/31/9a/319ab6264f756cf2fb7886360947fe94.m4a?auth_key=1794775337-NQRQSvYJ-0-9baea068f547ecb0efdf3f13be79b525" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/31/9a/319ab6264f756cf2fb7886360947fe94.m4a?auth_key=1794815908-G8tiH7pv-0-5ac996eb67d9d798cf5d3788cd9ffb76" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjB9Zo</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261020期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-vJ0PsMRzvJ</guid>
       <pubDate>Tue, 20 Oct 2026 12:12:55 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/37/0e/370ec97f3d58021ef949e7c2c02d5ed4.m4a?auth_key=1794775337-bUbdZXRo-0-421a75a969c29f05cabcb9d8f94336ee" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/37/0e/370ec97f3d58021ef949e7c2c02d5ed4.m4a?auth_key=1794815908-MsK95hOW-0-adf7e083c114a4438becfbda341d1081" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMRzvJ</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261019期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-0dGMsn9zWa</guid>
       <pubDate>Mon, 19 Oct 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/55/4c/554c5f04d8c37bdf3e0f8a08d26ba4f9.m4a?auth_key=1794775337-b5mZkD4i-0-08b241c0304caf4e237fd32583d749da" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/55/4c/554c5f04d8c37bdf3e0f8a08d26ba4f9.m4a?auth_key=1794815908-r2rONAsr-0-7134478ac8f9545bbcd9c52886990cf7" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsn9zWa</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261018期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-4o6Qs9Mgvd</guid>
       <pubDate>Sun, 18 Oct 2026 12:12:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/2c/ca/2cca4a0d46f8b20dce84fc555361ca75.m4a?auth_key=1794775337-mb2mAvH4-0-838d97430734903d42a0832b2cb6b1d0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/2c/ca/2cca4a0d46f8b20dce84fc555361ca75.m4a?auth_key=1794815908-4Yy20JNe-0-d24ee963e67d7260813c469f805a3959" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9Mgvd</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261017期：文化经纬线 落魄乞丐如何化解中年危机解锁开挂人生？这位大诗人告诉您</description>
       <guid isPermaLink="false">ttfm-ea8RsgRXbd</guid>
       <pubDate>Sat, 17 Oct 2026 12:12:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/36/d4/36d44406717c496a76c4e73949d691fe.m4a?auth_key=1794775337-y9n9ICqv-0-b9c122d6886489b93a26e5db2fcc67b9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/36/d4/36d44406717c496a76c4e73949d691fe.m4a?auth_key=1794815908-lre6vkHj-0-c41b4cf7f9b0899b833762d641d37869" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgRXbd</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261016期：文化经纬线 跳槽王魏征的成长史</description>
       <guid isPermaLink="false">ttfm-ea8RsgRn3d</guid>
       <pubDate>Fri, 16 Oct 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/0c/8c/0c8c065790de6ef9e637fded551f2c95.m4a?auth_key=1794775337-hEJ6J6bz-0-57d4d81e924b556dafffd99f2898d702" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/0c/8c/0c8c065790de6ef9e637fded551f2c95.m4a?auth_key=1794815908-ErcFtfTv-0-0890e3c3809919da7145faaa32c36bb9" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgRn3d</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261015期：文化经纬线 梁山好汉一共才36人？水浒传的高光时刻都是虚构的吗？</description>
       <guid isPermaLink="false">ttfm-ZdRjs8yGWd</guid>
       <pubDate>Thu, 15 Oct 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/04/24/042444b7cc66df80eb67cbab2ebd2117.m4a?auth_key=1794775337-hZ5DQli1-0-10310244a593e09cc00a02fad02a2728" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/04/24/042444b7cc66df80eb67cbab2ebd2117.m4a?auth_key=1794815908-KZeSRwAV-0-c494804a13c79afd1371d4f931544dd8" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8yGWd</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261014期：文化经纬线 一刮沙尘暴，北京就变成了北宋？得了吧！北宋狂沙你不懂！</description>
       <guid isPermaLink="false">ttfm-ZJ3esKbX0o</guid>
       <pubDate>Wed, 14 Oct 2026 12:12:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/61/73/6173d5381d574118a61a233236a32f9e.m4a?auth_key=1794775337-d8VHaiF0-0-31fa80324f9a26f716b7b85ac08c7e22" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/61/73/6173d5381d574118a61a233236a32f9e.m4a?auth_key=1794815908-31qSuPMw-0-8e0b31a1724764b33bd3a39e74045f48" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKbX0o</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261013期：文化经纬线 明代的徽州丝绢案</description>
       <guid isPermaLink="false">ttfm-Oo5psr6Agd</guid>
       <pubDate>Tue, 13 Oct 2026 12:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/3a/83/3a83d1b7a9443617fedf03fa450aa27e.m4a?auth_key=1794775337-jtgQyzwY-0-d7789a2cb71ba8bd737d1b4ffb247cd0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/3a/83/3a83d1b7a9443617fedf03fa450aa27e.m4a?auth_key=1794815908-gJNzA85u-0-a152f88fbe6432076f096dd3c702d5d7" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr6Agd</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261012期：文化经纬线 豪门风云</description>
       <guid isPermaLink="false">ttfm-xJvKsbDv2d</guid>
       <pubDate>Mon, 12 Oct 2026 12:12:54 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/3d/b0/3db04e2d8026b99d20d9983a1e02bd6f.m4a?auth_key=1794775337-qnI4BchK-0-d9b48bdc89475dfa79ef60e04b3e231e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/3d/b0/3db04e2d8026b99d20d9983a1e02bd6f.m4a?auth_key=1794815908-0C7o1Q2E-0-d6bad73938e8ede044bfc1601ec801d4" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbDv2d</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261011期：文化经纬线 豪门风云</description>
       <guid isPermaLink="false">ttfm-MJmvse562d</guid>
       <pubDate>Sun, 11 Oct 2026 12:12:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/f8/06/f80689b7c1193ff9d2614fb43f031307.m4a?auth_key=1794775337-vTY0Yn31-0-55f80ef79edcfdf9eb33bd49ee6fec65" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/f8/06/f80689b7c1193ff9d2614fb43f031307.m4a?auth_key=1794815908-lxLd9W4a-0-e8591996f7758bed5ad3790114095e44" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvse562d</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261010期：贾宝玉也不全是虚构，宋代就有个活的！</description>
       <guid isPermaLink="false">ttfm-zJeWsWYkYo</guid>
       <pubDate>Sat, 10 Oct 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/61/a8/61a8353d413697d2072bfee4bc5e9b4b.m4a?auth_key=1794775337-XxNS8l7B-0-bbef20ffc8c06903feef48940bceb2f7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/61/a8/61a8353d413697d2072bfee4bc5e9b4b.m4a?auth_key=1794815908-cZK1wHxt-0-a1ff0f3bdc4610f477b0fb29c106f398" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsWYkYo</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261009期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-7oZbsWM9po</guid>
       <pubDate>Fri, 09 Oct 2026 12:13:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/3f/54/3f54b3be6ecd30aa251f340bb82ed8d5.m4a?auth_key=1794775337-so8qSQhl-0-9350e300c018e788566cd2a0291cbfb3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/3f/54/3f54b3be6ecd30aa251f340bb82ed8d5.m4a?auth_key=1794815908-CRUOumVV-0-4c6b5f68e51382c86fe12bb76c77d888" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsWM9po</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261008期：文化经纬线 中外传奇故事 除了北洋，大清剩下的三支水师怎么就不给力呢？</description>
       <guid isPermaLink="false">ttfm-5aOXs15vWJ</guid>
       <pubDate>Thu, 08 Oct 2026 12:12:55 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/e9/d5/e9d57bca142e3218149edaeef9ecf3f0.m4a?auth_key=1794775337-aBXjqUJK-0-865f70c05883ca93e70a1e8ef5a882ea" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/e9/d5/e9d57bca142e3218149edaeef9ecf3f0.m4a?auth_key=1794815908-aQamLfw9-0-ab4860e1734099f40da896ef6139708d" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs15vWJ</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261007期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-pdpvsGbRZa</guid>
       <pubDate>Wed, 07 Oct 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/e2/c4/e2c4e5610fb39db570686f3cbc624757.m4a?auth_key=1794775337-J4RdfnZ5-0-4ffa24a7cc460b99cefacb3e181086f8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/e2/c4/e2c4e5610fb39db570686f3cbc624757.m4a?auth_key=1794815908-5EA4sxXd-0-259b22df6eb8266ecceda4df8da30bfe" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGbRZa</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261006期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-4o6Qs9M42d</guid>
       <pubDate>Tue, 06 Oct 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/8f/ea/8feae40eb1ef9d0d43fed5717b381ea3.m4a?auth_key=1794775337-33ZsW1hg-0-634d30fd8781be47d5f441b4d26fefd3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/8f/ea/8feae40eb1ef9d0d43fed5717b381ea3.m4a?auth_key=1794815908-U9PpPkcx-0-afeb12ed32d59227f663272c683b19bc" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9M42d</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261005期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-goqZsGG5ka</guid>
       <pubDate>Mon, 05 Oct 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/f9/09/f909a023a637cf38124b4a07c45237c7.m4a?auth_key=1794775337-0X7mrcbT-0-2c03d8d956b3713878130305c4c4aafe" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/f9/09/f909a023a637cf38124b4a07c45237c7.m4a?auth_key=1794815908-G5ijf6ev-0-baf26eaf908bdf705d14899e42f9389b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsGG5ka</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261004期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MJmvseevEd</guid>
       <pubDate>Sun, 04 Oct 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/bc/59/bc592f2dbef404de24ffcb6257cd0fa7.m4a?auth_key=1794775337-9ueRM07a-0-90826c9574912806396e240ad8f2b1b6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/bc/59/bc592f2dbef404de24ffcb6257cd0fa7.m4a?auth_key=1794815908-30JOMB5b-0-5f3d2f11667f143d67c7adb732987fb3" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseevEd</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20261003期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-zJeWsWWAko</guid>
       <pubDate>Sat, 03 Oct 2026 12:13:54 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/d3/53/d353293cd4fcc9f7719cce17e8c26b77.m4a?auth_key=1794775337-abILcRZ4-0-5d5558e3a6c3190efa524411cff9d926" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/d3/53/d353293cd4fcc9f7719cce17e8c26b77.m4a?auth_key=1794815908-wUcfBQ9N-0-a1910f05b402f63f108747245c4f15d7" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsWWAko</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20261002期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-6oDvsBBkqJ</guid>
       <pubDate>Fri, 02 Oct 2026 12:12:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/d1/91/d19116973b4d11c6e95eefa283ebb580.m4a?auth_key=1794775337-CJRE6lxR-0-1709f3072e451cbe668d796f1874fd75" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/d1/91/d19116973b4d11c6e95eefa283ebb580.m4a?auth_key=1794815908-5J1xjAnS-0-73994e63547aa333074cb65de8df221c" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsBBkqJ</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20261001期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PorqsvvkEd</guid>
       <pubDate>Thu, 01 Oct 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/f6/a7/f6a7a369e471c0116c37945532b2039e.m4a?auth_key=1794775337-KVp6q3ZC-0-c87707b59107d0cab61ea5b11953a1d8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/f6/a7/f6a7a369e471c0116c37945532b2039e.m4a?auth_key=1794815908-uzXNV5bQ-0-3fa31644591191d9135e689bbd9ecd00" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvvkEd</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20260930期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBsOOgbJ</guid>
       <pubDate>Wed, 30 Sep 2026 12:13:25 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/68/d8/68d85b1aa578dc73d4517af10a66a653.m4a?auth_key=1794775337-mK7BW8Vr-0-da64d67020b5d6544767276eae3cdee3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/68/d8/68d85b1aa578dc73d4517af10a66a653.m4a?auth_key=1794815908-tchoG0ch-0-92563ca769174fe5ec57ee4da98c260f" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOOgbJ</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20260929期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eaVrsAA2Va</guid>
       <pubDate>Tue, 29 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/d9/55/d95509e636bc38fd3cb139af68bff129.m4a?auth_key=1794775337-QUpj8VZW-0-1c71091d3d88ca456eae65817a4edcb4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/d9/55/d95509e636bc38fd3cb139af68bff129.m4a?auth_key=1794815908-vu1Nd1zs-0-86514d49e023fa037b473dd31334daa0" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAA2Va</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20260928期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-VJLvspp2Do</guid>
       <pubDate>Mon, 28 Sep 2026 12:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/f7/36/f7369e2afd414823790337a8fb767186.m4a?auth_key=1794775337-qraQD4jq-0-1c7a2885558ce43ceb7c533742814d45" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/f7/36/f7369e2afd414823790337a8fb767186.m4a?auth_key=1794815908-xmTu8qak-0-656988b4673d355be4bd9f6675daea80" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspp2Do</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20260927期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Oo5psrr5Zd</guid>
       <pubDate>Sun, 27 Sep 2026 12:13:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/39/02/39025cc31220ef6d05dace4520a2d218.m4a?auth_key=1794775337-8iZvvjKK-0-d729d3c56edbdaa64861d380278b05d5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/39/02/39025cc31220ef6d05dace4520a2d218.m4a?auth_key=1794815908-YQBr21Yr-0-04a7adb79e9e02e15ef9a76b5d7fc12b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrr5Zd</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20260926期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-YdY3sxxnka</guid>
       <pubDate>Sat, 26 Sep 2026 12:12:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/5b/26/5b26ee51ab5587bed7c9c9ab3390828a.m4a?auth_key=1794775337-yfs7xl9h-0-5745eac9db3dce6599698d8945180729" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/5b/26/5b26ee51ab5587bed7c9c9ab3390828a.m4a?auth_key=1794815908-Yi1UzgPz-0-3a56b5871d6a8feda9ea02f0fb3df719" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxxnka</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20260925期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-OowlsbblYa</guid>
       <pubDate>Fri, 25 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/08/4b/084b6664c5519fe8aa6745710bdb11ff.m4a?auth_key=1794775337-uVgdixGR-0-84caee627193389d31c1f074055ae8d2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/08/4b/084b6664c5519fe8aa6745710bdb11ff.m4a?auth_key=1794815908-j7WDAyyo-0-0e4d900e5bf89b8c429a2acc087e2ee0" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsbblYa</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20260924期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-vJ0PsMMqXJ</guid>
       <pubDate>Thu, 24 Sep 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/f0/17/f0177618bec4ca1420acd3baa9d54ba9.m4a?auth_key=1794775337-3d3zcOE0-0-d8d1e7e96c3d6765a38ecc2aa0b99779" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/f0/17/f0177618bec4ca1420acd3baa9d54ba9.m4a?auth_key=1794815908-taULraYj-0-efad0890d4db308ccc6baddd3bbe51c5" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMMqXJ</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20260923期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MJmvseejgd</guid>
       <pubDate>Wed, 23 Sep 2026 12:13:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/14/a3/14a3580699ec8180094efbf790f589a4.m4a?auth_key=1794775337-87quz9aB-0-f62306f67e0ebf164142993680e78969" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/14/a3/14a3580699ec8180094efbf790f589a4.m4a?auth_key=1794815908-oQr0bvfl-0-334413cbad00e17d9ab59c94b29ec9c3" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseejgd</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260922期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBsOePgJ</guid>
       <pubDate>Tue, 22 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/14/d9/14d963ecc3793a0b039e7690d44ad75f.m4a?auth_key=1794775337-V3cPP1p5-0-f7bf9ac44507661bbab8efd2ae689241" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/14/d9/14d963ecc3793a0b039e7690d44ad75f.m4a?auth_key=1794815908-zDPMLLYp-0-8c0811f6f79de20f0bc244cfc5377720" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOePgJ</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260921期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Lo7Psp53Ea</guid>
       <pubDate>Mon, 21 Sep 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/6a/47/6a47be9e5a5f826e9949bdf09860cf91.m4a?auth_key=1794775337-22Nu2u0d-0-aa32fa8d2da4846040447ecac601b145" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/6a/47/6a47be9e5a5f826e9949bdf09860cf91.m4a?auth_key=1794815908-9hOARi5T-0-8444ab1352804651be23981c8cae1097" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7Psp53Ea</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260920期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-VJLvspj0Go</guid>
       <pubDate>Sun, 20 Sep 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/8f/0b/8f0b7f4b170eea8fbdc99a152f99e171.m4a?auth_key=1794775337-ccM85PRe-0-1de076cf1f1889da8715fed1312ca807" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/8f/0b/8f0b7f4b170eea8fbdc99a152f99e171.m4a?auth_key=1794815908-ZXl9UvHd-0-dcd416ae0966d0194bc9d4914ab96165" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspj0Go</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260919期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Oo5psrBKld</guid>
       <pubDate>Sat, 19 Sep 2026 12:13:51 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/32/ab/32ab31b794202eed626db718aee72c7f.m4a?auth_key=1794775337-GhI1NaVE-0-5a36b363014da21f8698b8f20b6a2d0e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/32/ab/32ab31b794202eed626db718aee72c7f.m4a?auth_key=1794815908-Vf34sHdC-0-ba3ea1c1d628ceb575a5134796c5ea60" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrBKld</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260918期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-raEvsAj2gJ</guid>
       <pubDate>Fri, 18 Sep 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/b7/fe/b7febd1c483da70762563f2045abf942.m4a?auth_key=1794775337-eTxijzhv-0-e850abe056a7afd9a7de545b0e875de1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/b7/fe/b7febd1c483da70762563f2045abf942.m4a?auth_key=1794815908-t3DL5TQa-0-194cf95fb49a2c060dfd50a965d40ee4" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAj2gJ</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260917期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-6JW8s2lprd</guid>
       <pubDate>Thu, 17 Sep 2026 12:13:31 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/bd/50/bd50206eaecaf15878bccf67ccc1d84a.m4a?auth_key=1794775337-Zmb9yon2-0-8e7d0fdb7a57433e203adb0cf709897f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/bd/50/bd50206eaecaf15878bccf67ccc1d84a.m4a?auth_key=1794815908-EhhytVsH-0-85c813a27ec2e7def42d2db2714a042a" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2lprd</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260916期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-vdz8sOmKLa</guid>
       <pubDate>Wed, 16 Sep 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/01/75/01757283154127854c0dad39e4a20ca3.m4a?auth_key=1794775337-2lKlO5dJ-0-0584c25e6f10c8d9dea41216dac45ce2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/01/75/01757283154127854c0dad39e4a20ca3.m4a?auth_key=1794815908-z66mkDMS-0-719ecccb50b162cbc618233794a1cd09" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOmKLa</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260915期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MJmvsewGDd</guid>
       <pubDate>Tue, 15 Sep 2026 12:13:31 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/6d/c9/6dc9e76f9426b425a1b3fcabfb40201a.m4a?auth_key=1794775337-TUCwbUJu-0-af430c9ae9f5cffca4fe17fa2ac76736" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/6d/c9/6dc9e76f9426b425a1b3fcabfb40201a.m4a?auth_key=1794815908-YMy8Xi37-0-50307c62976af6b5bd256026ec140987" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvsewGDd</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260914期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBsOeZwJ</guid>
       <pubDate>Mon, 14 Sep 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/8a/39/8a39d67b674d60da0da973dbbcff119c.m4a?auth_key=1794775337-vpeIxqol-0-a8c6be82b8600cdb2728f51851556c4a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/8a/39/8a39d67b674d60da0da973dbbcff119c.m4a?auth_key=1794815908-Nu621sIU-0-494a3a2d24cdc8d50e269436720c057f" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOeZwJ</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260913期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eaVrsAXO3a</guid>
       <pubDate>Sun, 13 Sep 2026 12:12:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/80/4e/804e55836368962f28b4f6623e0a360b.m4a?auth_key=1794775337-WHXa1thX-0-a8782de21da026167d4e1ee6e70a5164" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/80/4e/804e55836368962f28b4f6623e0a360b.m4a?auth_key=1794815908-mTFRGgPa-0-f79f6d2243a1e56d2c21b6098e96fc71" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAXO3a</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260912期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ydkvsPGYKJ</guid>
       <pubDate>Sat, 12 Sep 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/cf/67/cf670e01ab82d5086c62b291b09f3d4c.m4a?auth_key=1794775337-4oOmNVhi-0-124048be886e0147351726fe90831ccd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/cf/67/cf670e01ab82d5086c62b291b09f3d4c.m4a?auth_key=1794815908-ZbyigXcJ-0-fb01146c989ab96cd7acfd4dcd8466e5" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPGYKJ</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260911期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ea8RsgxNxd</guid>
       <pubDate>Fri, 11 Sep 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/75/7f/757f535d078c9fee696cbe6ae67ad40d.m4a?auth_key=1794775337-F2XyHrJ4-0-6ef47978c02d33e2867a3094ca3e1410" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/75/7f/757f535d078c9fee696cbe6ae67ad40d.m4a?auth_key=1794815908-J6JLH3Jd-0-3dc267baf37896027b42d5206242251c" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgxNxd</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260910期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6qzVd</guid>
       <pubDate>Thu, 10 Sep 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/d8/3e/d83e718129c3dbd8165d058c9260954f.m4a?auth_key=1794775337-orErDhwE-0-7cf690ff73df584571804d1df67c4819" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/d8/3e/d83e718129c3dbd8165d058c9260954f.m4a?auth_key=1794815908-wQlN1lr9-0-3919a9e6e9a137863c8c8fce71f96d98" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6qzVd</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260909期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-gay7s9K6xd</guid>
       <pubDate>Wed, 09 Sep 2026 12:13:11 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/77/ae/77ae4139fb63bc864910deb41895213e.m4a?auth_key=1794775337-Wo5kGj6d-0-854fa380293fc41b9ff0a439194596e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/77/ae/77ae4139fb63bc864910deb41895213e.m4a?auth_key=1794815908-h3cEm1MV-0-bd9df15a715836cf37033ce5ad5d4e60" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9K6xd</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260908期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-VJLvspLWEo</guid>
       <pubDate>Tue, 08 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/0a/ff/0aff610ded65e2416b86889049c73709.m4a?auth_key=1794775337-HAvgS3Be-0-d2df18c4b508f808c4fddeb87d7fb894" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/0a/ff/0aff610ded65e2416b86889049c73709.m4a?auth_key=1794815908-0lxO5tVf-0-08c024319fe3a87aeccfb7a5e8f7558b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspLWEo</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260907期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MJmvseP3Bd</guid>
       <pubDate>Mon, 07 Sep 2026 12:12:57 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/49/58/49587d1a3f66057b4b7e2620e53cc99c.m4a?auth_key=1794775337-M7MivCz3-0-f11a1e4661de73489366a11363f54c51" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/49/58/49587d1a3f66057b4b7e2620e53cc99c.m4a?auth_key=1794815908-ZuWuYBbm-0-dc00aa9987955a6475612fecf3411f08" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseP3Bd</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260906期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PorqsvNOgd</guid>
       <pubDate>Sun, 06 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/09/c3/09c31a1b1ba20d93009474b632a1d733.m4a?auth_key=1794775337-Rddu00eU-0-745ec5d83b226754f5b9f5b06db54fdb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/09/c3/09c31a1b1ba20d93009474b632a1d733.m4a?auth_key=1794815908-G5IJER1K-0-206348182f03c50f3a86bbf5edaec8a5" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvNOgd</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260905期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBsOM0DJ</guid>
       <pubDate>Sat, 05 Sep 2026 12:13:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/37/f4/37f43249edea9847f592863300301b10.m4a?auth_key=1794775337-7UyWFD1z-0-e3efa1773775bd419906c321e32fe749" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/37/f4/37f43249edea9847f592863300301b10.m4a?auth_key=1794815908-j6uSsTcQ-0-bfb3529b31600faa327f4c68d3fe7844" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOM0DJ</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260904期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ydkvsPYK3J</guid>
       <pubDate>Fri, 04 Sep 2026 12:13:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/b1/18/b118a0414a3a0d6c3f84ebea995f0995.m4a?auth_key=1794775337-D1seTE6z-0-33f2ef0b9a98c14e65cee86670ffe1b1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/b1/18/b118a0414a3a0d6c3f84ebea995f0995.m4a?auth_key=1794815908-NvNRU5oO-0-834d3b36861dfd5063b4dca30af96f50" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPYK3J</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260903期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-polrsLGXrJ</guid>
       <pubDate>Thu, 03 Sep 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/ba/bb/babb6addf9be650caf98e7042759ffb4.m4a?auth_key=1794775337-wRQiwwVj-0-e4788b88fe81ad40d602f365b0aca130" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/ba/bb/babb6addf9be650caf98e7042759ffb4.m4a?auth_key=1794815908-eBzKSqvX-0-729e2828686e053f502e2dce3cbedb4b" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLGXrJ</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260902期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Lo7PspD69a</guid>
       <pubDate>Wed, 02 Sep 2026 12:13:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/35/f4/35f476bc21b434e920ab58775100e061.m4a?auth_key=1794775337-PojmIOXV-0-67ef3b1b2c30b5a58e337095bd47b07b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/35/f4/35f476bc21b434e920ab58775100e061.m4a?auth_key=1794815908-iFwa95ib-0-c63149aa75cb4340964942b4dd72ec8d" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7PspD69a</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260901期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eaVrsAZEKa</guid>
       <pubDate>Tue, 01 Sep 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/b5/57/b557e34ef0d20f9d382425b7b58bcd9d.m4a?auth_key=1794775337-ZRID8ARh-0-18a7e82aca0bdd3ab0dfcebd2e8c5605" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/b5/57/b557e34ef0d20f9d382425b7b58bcd9d.m4a?auth_key=1794815908-DwHC2pTk-0-e2056e6170eb9039b9d1f3fc76739a37" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAZEKa</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260831期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Oo5psr4R7d</guid>
       <pubDate>Mon, 31 Aug 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/56/33/5633388970f6e46e9d936bb046e3041d.m4a?auth_key=1794775337-kg8I3bL7-0-db7d2424a5810c8d3cc0a26be8f85a20" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/56/33/5633388970f6e46e9d936bb046e3041d.m4a?auth_key=1794815908-0Y69aGYA-0-cb72ec69603e8c24478524b62780b962" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr4R7d</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260830期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MJmvsePwMd</guid>
       <pubDate>Sun, 30 Aug 2026 12:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/6b/e3/6be3cb6461b9aa5df2bce5032131bbe0.m4a?auth_key=1794775337-QnGpaPOs-0-4b8bc518e95f5d302d9abed01a5e0f20" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/6b/e3/6be3cb6461b9aa5df2bce5032131bbe0.m4a?auth_key=1794815908-wcQHaE8b-0-83cd7a93155ba23d7fbe66e8fb1dc630" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvsePwMd</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260829期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-qaN0swR6xd</guid>
       <pubDate>Sat, 29 Aug 2026 12:12:53 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/5e/c2/5ec204bb566313d137e3a2ba1162af9a.m4a?auth_key=1794775337-4ue3NMZF-0-58c9036f1efa52bfafce97284a6c0e72" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/5e/c2/5ec204bb566313d137e3a2ba1162af9a.m4a?auth_key=1794815908-RzqGYLiq-0-d3cae98ed838bbe091d4dd24888c67f6" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swR6xd</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260828期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-kdjgsj6lLo</guid>
       <pubDate>Fri, 28 Aug 2026 12:13:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/e5/69/e5699a13f59276671f9ec86dc330e5e6.m4a?auth_key=1794775337-U5qXXStm-0-5f0394992472bba4e7e768a4285fe677" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/e5/69/e5699a13f59276671f9ec86dc330e5e6.m4a?auth_key=1794815908-kxBl4Ten-0-f69b64a37ab677f4f30e07b3e2e1df4c" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsj6lLo</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260827期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-vJ0PsMDKZJ</guid>
       <pubDate>Thu, 27 Aug 2026 12:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/64/ac/64ac36540571bf89c18acf8ed8c9fd5a.m4a?auth_key=1794775337-tiNjM69U-0-9aa051e572259106dd27874fb3e009ed" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/64/ac/64ac36540571bf89c18acf8ed8c9fd5a.m4a?auth_key=1794815908-GSJNvyEz-0-cc2d85033d90c97e6b2f1e307ad985d0" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMDKZJ</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260826期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZoAws1eYpJ</guid>
       <pubDate>Wed, 26 Aug 2026 12:13:25 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/b2/30/b2306b4fa4a35422d5fb654e2748af57.m4a?auth_key=1794775337-0uoOcpQx-0-805b138921dc36b23c10b518a247821f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/b2/30/b2306b4fa4a35422d5fb654e2748af57.m4a?auth_key=1794815908-Qc4JBLRQ-0-9405b507a080e7e1b1643fc0f4deb9da" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws1eYpJ</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260825期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-xJvKsb3AZd</guid>
       <pubDate>Tue, 25 Aug 2026 12:13:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/28/5f/285f22468d23f8a268047e1a2f4b7f43.m4a?auth_key=1794775337-JIm1TWSy-0-1b46364884fe67c9c368baa5cf84cf92" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/28/5f/285f22468d23f8a268047e1a2f4b7f43.m4a?auth_key=1794815908-LUPP2Bva-0-1299cbd3b0a9da5a0f5968f86a389597" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsb3AZd</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260824期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-qaN0sx2zvd</guid>
       <pubDate>Mon, 24 Aug 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/ed/4d/ed4d105931f3cbedfdd762c1ad66df2b.m4a?auth_key=1794775337-MFdVIuVW-0-7ad30db48802254ec300e6c3f737b846" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/ed/4d/ed4d105931f3cbedfdd762c1ad66df2b.m4a?auth_key=1794815908-FcV71Ays-0-707b3a2f7dd3248dfa9c7170de95c216" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sx2zvd</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260823期：文化经纬线 中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PorqsByg7d</guid>
       <pubDate>Sun, 23 Aug 2026 12:13:54 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/26/f5/26f5fd8fcedf198fb572f04a60352218.m4a?auth_key=1794775337-pOua50jN-0-e727ee5120b2023926607d38f6028f52" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/26/f5/26f5fd8fcedf198fb572f04a60352218.m4a?auth_key=1794815908-m2U2OE5M-0-9b6ae28e7e474925c8c4c105f2379a61" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsByg7d</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260822期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-kdjgsyeDxo</guid>
       <pubDate>Sat, 22 Aug 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/79/15/7915b6f6f43cf3a1eac4c29cda0ee8d5.m4a?auth_key=1794775337-Bah4N5gC-0-f02e7a6b97fc5c2e117fe4dfac9bc2ab" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/79/15/7915b6f6f43cf3a1eac4c29cda0ee8d5.m4a?auth_key=1794815908-rXzvaOKx-0-80321dd99eb3ff87a844a5fa9515dd12" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsyeDxo</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260821期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-OdPXsE9ZGd</guid>
       <pubDate>Fri, 21 Aug 2026 12:13:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/51/f6/51f6a66f1267e33e1e5febf4829a1450.m4a?auth_key=1794775337-xxZmqrga-0-bbdc611768a0964c8e317c4d7884793c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/51/f6/51f6a66f1267e33e1e5febf4829a1450.m4a?auth_key=1794815908-GJxvHiSE-0-25982482ed19edf95978b4659f68dceb" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXsE9ZGd</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260820期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-zJeWsBn02o</guid>
       <pubDate>Thu, 20 Aug 2026 12:12:59 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/4d/d0/4dd0ef891cded26efabf538d7b02a3b4.m4a?auth_key=1794775337-0soLbhbs-0-52945e52d86dfc8474f266e579a710b4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/4d/d0/4dd0ef891cded26efabf538d7b02a3b4.m4a?auth_key=1794815908-J2X7JoX9-0-afbdefc2a52f508b360f87af96b2e7fc" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsBn02o</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260819期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-3aMvsvKR3J</guid>
       <pubDate>Wed, 19 Aug 2026 12:13:31 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/8f/e9/8fe937579b5fce118d6ac20d08bbe5a5.m4a?auth_key=1794775337-CioCW0vy-0-ffb8620905fc3db1b4477bc84f2c9451" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/8f/e9/8fe937579b5fce118d6ac20d08bbe5a5.m4a?auth_key=1794815908-jE4CT6Bz-0-f586a61a35db021ce99a6153838bf189" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvsvKR3J</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260818期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PJQvsk8NRd</guid>
       <pubDate>Tue, 18 Aug 2026 12:13:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/3c/6a/3c6ae4c1fa94031021efcb7fed4c5ada.m4a?auth_key=1794775337-Fzlzak4e-0-be4b4aff35560607ccfe169e7d0682be" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/3c/6a/3c6ae4c1fa94031021efcb7fed4c5ada.m4a?auth_key=1794815908-ddSxG1VD-0-eb9af729e8fef5177b437eb7c2c14922" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsk8NRd</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260817期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Vob5sZNmOd</guid>
       <pubDate>Mon, 17 Aug 2026 12:13:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/3d/03/3d03b89a5bb4a0c703ed20d28774ac08.m4a?auth_key=1794775337-N2QyJdVE-0-a5b91f26748e673e930dd6f6637b2ccf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/3d/03/3d03b89a5bb4a0c703ed20d28774ac08.m4a?auth_key=1794815908-5wf7axSg-0-9cea00d826b7942e8a1d334c78785c7f" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZNmOd</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260816期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Vob5sZNKnd</guid>
       <pubDate>Sun, 16 Aug 2026 12:13:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/36/5f/365fa066fa0e425662afaeae46db768c.m4a?auth_key=1794775337-IFMnAPe5-0-fa0d9f690365e35a92e4c698bf23fac9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/36/5f/365fa066fa0e425662afaeae46db768c.m4a?auth_key=1794815908-mUYHbp2E-0-79ca06e61edda85c50eaf91a48e3a376" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZNKnd</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260815期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-gay7sKnzAd</guid>
       <pubDate>Sat, 15 Aug 2026 12:13:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/7f/32/7f32f40dd628de6d95507e7ba5439024.m4a?auth_key=1794775337-oQQR410H-0-de6de8af7a879bfb26c25930fe92d2d9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/7f/32/7f32f40dd628de6d95507e7ba5439024.m4a?auth_key=1794815908-oyJH7Les-0-283f5775e0301410542209a340955a32" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKnzAd</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260814期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZJ3esNRw1o</guid>
       <pubDate>Fri, 14 Aug 2026 12:12:55 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/ed/1e/ed1e2e76d6ec0a2cafdb620a5c8f21c9.m4a?auth_key=1794775337-cJJ3FnYv-0-cbef56eaf7c0dd3a14cd2e7c191edb00" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/ed/1e/ed1e2e76d6ec0a2cafdb620a5c8f21c9.m4a?auth_key=1794815908-5ENYIuKf-0-a984b5e6a2caa330cbbb4a6ae30a40ef" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNRw1o</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260813期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-raEvsjXDMJ</guid>
       <pubDate>Thu, 13 Aug 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/b9/79/b979d1cc3129e3ea1f1e0179db58cafb.m4a?auth_key=1794775337-4wHhu7z7-0-cba0ed63ea9ca3d8142cf9a88fefc70c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/b9/79/b979d1cc3129e3ea1f1e0179db58cafb.m4a?auth_key=1794815908-cskXHcym-0-9297c90b9efb3957186d27f1cdcf685a" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsjXDMJ</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260812期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-gay7sKVlOd</guid>
       <pubDate>Wed, 12 Aug 2026 12:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/fb/46/fb461ada804dc1d5c592f9c07b53b7ce.m4a?auth_key=1794775337-t76XPzJt-0-343d3f95446705cef87b912db3356e4e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/fb/46/fb461ada804dc1d5c592f9c07b53b7ce.m4a?auth_key=1794815908-n6ARKjgq-0-50813b7501158de1b87effaaf2535336" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKVlOd</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260811期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-vdz8smrXma</guid>
       <pubDate>Tue, 11 Aug 2026 12:12:56 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/67/a9/67a96ae67d8835dfaa60eae7090d830b.m4a?auth_key=1794775337-kEa2ODPj-0-039b7a1c2500f3c53c7912e8f98c558e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/67/a9/67a96ae67d8835dfaa60eae7090d830b.m4a?auth_key=1794815908-6EIYtV6g-0-b7404873fd9e529e3e57e1cacff3c30d" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8smrXma</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260810期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PorqsBQONd</guid>
       <pubDate>Mon, 10 Aug 2026 12:12:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/44/06/4406d8f5d144f93657568abea7325e58.m4a?auth_key=1794775337-gTUZ6y7j-0-3c028b6eacacd1ed634ed4816b618c0c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/44/06/4406d8f5d144f93657568abea7325e58.m4a?auth_key=1794815908-f2g6a6pI-0-9845424a50008fd35641120a6f564fa3" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsBQONd</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260809期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-polrsQDwnJ</guid>
       <pubDate>Sun, 09 Aug 2026 12:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/49/3c/493c188e502b44fb757ae20730e9e0f7.m4a?auth_key=1794775337-Xhn1l9JC-0-28c86c161b1f53bf6adf556919e53dab" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/49/3c/493c188e502b44fb757ae20730e9e0f7.m4a?auth_key=1794815908-pbXfD7wp-0-8cde2b017767f9fdeec699f66c8563e4" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQDwnJ</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260808期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Vob5sZ9VVd</guid>
       <pubDate>Sat, 08 Aug 2026 12:13:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/ca/ee/caeead59f09f9e67a685567a5826174b.m4a?auth_key=1794775337-14KI6NJS-0-f8e97d0bc5cfee47b062160fc2c3157c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/ca/ee/caeead59f09f9e67a685567a5826174b.m4a?auth_key=1794815908-VFpNDTAE-0-ca67768f41f90db2a20d799b84eb31c0" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZ9VVd</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260807期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-PJQvskNDvd</guid>
       <pubDate>Fri, 07 Aug 2026 12:12:53 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/c8/73/c87365801452a3e1af74e8d82d7a1d3d.m4a?auth_key=1794775337-fMGQNXeH-0-6a3198cb61bd9c7fe9164c2df138767b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/c8/73/c87365801452a3e1af74e8d82d7a1d3d.m4a?auth_key=1794815908-02rRjBd2-0-192903d879527d78dda3550856e6f758" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvskNDvd</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260806期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ZJ3esNV9Lo</guid>
       <pubDate>Thu, 06 Aug 2026 12:13:10 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/0c/8f/0c8fbabd1e009b0bce86bd2fee421379.m4a?auth_key=1794775337-NBJJTFiL-0-8074251fe5f718ab550a6f30bd0b8e93" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/0c/8f/0c8fbabd1e009b0bce86bd2fee421379.m4a?auth_key=1794815908-kcTwVqYV-0-bac226ec22a073e054244d434352d083" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNV9Lo</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260805期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Ka2PsqxELd</guid>
       <pubDate>Wed, 05 Aug 2026 12:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/2f/bc/2fbc18c8b4c43b4492c66dabd0a90606.m4a?auth_key=1794775337-9wWcjD7H-0-67d75cb6445dc3a466504db42a223bd4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/2f/bc/2fbc18c8b4c43b4492c66dabd0a90606.m4a?auth_key=1794815908-XOovnriz-0-2b32ed2551a063a541c419ffa9c97e70" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2PsqxELd</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260804期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-Rd1ZsERRBo</guid>
       <pubDate>Tue, 04 Aug 2026 12:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/2c/09/2c0936c9ea4b34987961424b6fea153d.m4a?auth_key=1794775337-DhGDuMQV-0-aa4b2701adefda63335f4ca7d80d3d97" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/2c/09/2c0936c9ea4b34987961424b6fea153d.m4a?auth_key=1794815908-VR8B5rUi-0-c8d18e9a4c9a4a8ac9351bc15f30cbfe" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsERRBo</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260803期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-xJvKsxgx9d</guid>
       <pubDate>Mon, 03 Aug 2026 12:12:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/3b/f2/3bf26c60e1493750f30359e61fb07dc3.m4a?auth_key=1794775337-McsntWEh-0-5a6b2ffe790425e738de7a7f3097bee2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0803/3b/f2/3bf26c60e1493750f30359e61fb07dc3.m4a?auth_key=1794815908-2xpkqeh6-0-866b9b2dbd9bc08b0c5e4bd919d36aa6" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsxgx9d</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260802期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-MaXAs30QYJ</guid>
       <pubDate>Sun, 02 Aug 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/5f/50/5f50e20e10bf27037824634d163d15bb.m4a?auth_key=1794775337-XdblkH3y-0-25b11d2b5c3793a8e033a3d03dc24af4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0802/5f/50/5f50e20e10bf27037824634d163d15bb.m4a?auth_key=1794815908-sXQPHddD-0-dc629a4c94cc903853306b43278f2dd7" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs30QYJ</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260801期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-polrsQD7eJ</guid>
       <pubDate>Sat, 01 Aug 2026 12:13:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/8b/7c/8b7c33d92e5d5c0edff1a2368f7acc51.m4a?auth_key=1794775337-3SGjFPK0-0-4ba22a8b1de0f763e38b3d90eb11c203" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0801/8b/7c/8b7c33d92e5d5c0edff1a2368f7acc51.m4a?auth_key=1794815908-r36hwb9e-0-0ee67252059d3201b742d5476b536c5d" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQD7eJ</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260731期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-eoxBse2X9J</guid>
       <pubDate>Fri, 31 Jul 2026 12:13:09 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/a2/f7/a2f79f39c4a4f8e8f2b98d91ad928089.m4a?auth_key=1794775337-mNJn2hPQ-0-3a8863e08b3c502b72b78ecc56a992e5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0731/a2/f7/a2f79f39c4a4f8e8f2b98d91ad928089.m4a?auth_key=1794815908-83E8fIJz-0-b56e687920c92cd5af46548b2135fca4" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBse2X9J</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260730期：听天下-中外传奇故事</description>
       <guid isPermaLink="false">ttfm-ydkvsGWgKJ</guid>
       <pubDate>Thu, 30 Jul 2026 12:12:52 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/16/bf/16bfe2fb85d6f3dc5ba1f2b32c886d28.m4a?auth_key=1794775337-ER0D6wp8-0-161250a990d72ea450a5747cfc3a6878" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0730/16/bf/16bfe2fb85d6f3dc5ba1f2b32c886d28.m4a?auth_key=1794815908-B4kJ7rgV-0-8e1e87148ab87a0285369e48b07d40a8" type="audio/mp4" length="0"/>
       <itunes:duration>00:59:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsGWgKJ</link>
-    </item>
-    <item>
-      <title>20260729期：听天下-中外传奇故事</title>
-      <description>20260729期：听天下-中外传奇故事</description>
-      <guid isPermaLink="false">ttfm-polrsQ5vQJ</guid>
-      <pubDate>Wed, 29 Jul 2026 12:12:53 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0729/ce/ab/ceab0ea07d667160473576bf350cf392.m4a?auth_key=1794775337-WbyuwuTO-0-0ffdc69b9a75f22cf1c56c9f96e0ae9c" type="audio/mp4" length="0"/>
-      <itunes:duration>00:59:14</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/polrsQ5vQJ</link>
     </item>
   </channel>
 </rss>
