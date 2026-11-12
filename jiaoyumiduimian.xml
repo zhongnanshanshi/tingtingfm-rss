@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京城市广播副中心之声FM102.5 / AM1026</itunes:name></itunes:owner>
-    <lastBuildDate>Thu, 12 Nov 2026 04:14:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:55:28 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261112期：教育面对面</title>
+      <description>20261112期：教育面对面</description>
+      <guid isPermaLink="false">ttfm-ea8Rsg7Xmd</guid>
+      <pubDate>Thu, 12 Nov 2026 19:27:42 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1112/ea/27/ea27ab7385ee4f2f3b5355a8c79538d0.m4a?auth_key=1795380927-lJIK4NN0-0-24e5b0120c590c60ecb2bebc2f896b20" type="audio/mp4" length="0"/>
+      <itunes:duration>01:29:58</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsg7Xmd</link>
+    </item>
     <item>
       <title>20261111期：教育面对面</title>
       <description>20261111期：教育面对面</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPD30o</guid>
       <pubDate>Wed, 11 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/5b/21/5b211af55029a868603b2423659f25fb.m4a?auth_key=1795292084-zpoemTS7-0-2f175bbc529ceb8c3bcbf5080f240a53" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/5b/21/5b211af55029a868603b2423659f25fb.m4a?auth_key=1795380927-4mfPHUC7-0-e8e8ddf003d3ea2ed0dd0b4eb91731d3" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPD30o</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261110期：探访100个别人家的孩子——西南政法大学徐若琳：在波动区间里把每一步踩实</description>
       <guid isPermaLink="false">ttfm-VJLvspK41o</guid>
       <pubDate>Tue, 10 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/eb/61/eb618ba311e044e369fd06a5665a5c31.m4a?auth_key=1795292084-IoGnyCgw-0-989ddeace95912c0d0701a68f4c9ae88" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/eb/61/eb618ba311e044e369fd06a5665a5c31.m4a?auth_key=1795380927-WZxEbtcV-0-87194a286109db5945c46a2f6758f99e" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspK41o</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261109期：教育面对面</description>
       <guid isPermaLink="false">ttfm-polrsLW9xJ</guid>
       <pubDate>Mon, 09 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/49/32/4932200b7fabf7ac29a97b988afd1547.m4a?auth_key=1795292084-79JgRlrd-0-e247ee0b8879170741f7a59035af5730" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/49/32/4932200b7fabf7ac29a97b988afd1547.m4a?auth_key=1795380927-LEKjEvrg-0-ed4f68fbeec4160ff604ca9ed4fda105" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLW9xJ</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261108期：把“做中学”写进课表——拔尖创新人才怎么在真实问题中成长（精编版）</description>
       <guid isPermaLink="false">ttfm-zJeWsWk3Do</guid>
       <pubDate>Sun, 08 Nov 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/5a/d3/5ad3c9fcf88521b8321ac3d374bc221f.m4a?auth_key=1795292084-WsYrSTE0-0-4ba4aea67b441521507f3e52d37913ae" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/5a/d3/5ad3c9fcf88521b8321ac3d374bc221f.m4a?auth_key=1795380927-jvRLeglg-0-d39640dae893b0caf7f51ffc5db8c9b6" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsWk3Do</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261107期：教育面对面</description>
       <guid isPermaLink="false">ttfm-eaVrsAkv1a</guid>
       <pubDate>Sat, 07 Nov 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/2b/82/2b828602d743944bc818770e98ab77b6.m4a?auth_key=1795292084-lhIhclU4-0-8b6cb350a4237136b348258eb5d21c55" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/2b/82/2b828602d743944bc818770e98ab77b6.m4a?auth_key=1795380927-7D2QsB0P-0-dc38edb315cf4327e4ca273fdf62f371" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAkv1a</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261106期：挑大学·选专业·看就业|首师大新增专业全解读</description>
       <guid isPermaLink="false">ttfm-2d9esKv3md</guid>
       <pubDate>Fri, 06 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/8b/6b/8b6bdef5b4bca1311e44cf14e9e0acd9.m4a?auth_key=1795292084-1XWL2e01-0-5fc7f90bafd21c4b88001a9625a4c281" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/8b/6b/8b6bdef5b4bca1311e44cf14e9e0acd9.m4a?auth_key=1795380927-p1lBxcq0-0-a3404ca09e6d8e9471e621f83246a9f2" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esKv3md</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261105期：教育面对面</description>
       <guid isPermaLink="false">ttfm-ZJ3esKRVro</guid>
       <pubDate>Thu, 05 Nov 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/73/75/73757f6c8cd675d8c280a1b9e6301003.m4a?auth_key=1795292084-W9yasnXp-0-c16541679526b470fd4cb3054b6fa0a4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/73/75/73757f6c8cd675d8c280a1b9e6301003.m4a?auth_key=1795380927-WlcdbDUz-0-a68e7d40943000990ad63b6607be9e5d" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKRVro</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261104期：把“做中学”写进课表——拔尖创新人才怎么在真实问题中成长</description>
       <guid isPermaLink="false">ttfm-Vob5sYNZGd</guid>
       <pubDate>Wed, 04 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/8e/4a/8e4af18ff83b31881f69b245668f9628.m4a?auth_key=1795292084-kaUvk75b-0-582d6b966cdf3e6afd81a31ae97eb951" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/8e/4a/8e4af18ff83b31881f69b245668f9628.m4a?auth_key=1795380927-blDQ4boJ-0-ed22b3f79ae90f6d51468be6944e8eb5" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYNZGd</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261103期：教育面对面</description>
       <guid isPermaLink="false">ttfm-gay7s9nNrd</guid>
       <pubDate>Tue, 03 Nov 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/de/5e/de5e1e685c5266ae62e298afecca4891.m4a?auth_key=1795292084-2ocVsqF7-0-06098d3583ba7b82553857f14c0b6bdf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/de/5e/de5e1e685c5266ae62e298afecca4891.m4a?auth_key=1795380927-DNFeRjJ1-0-1154d0d8c2585e07eb28536f1b4bbccc" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9nNrd</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261102期：孩子如何学 AI？北京人工智能教育布局全解读</description>
       <guid isPermaLink="false">ttfm-MaXAs7O4QJ</guid>
       <pubDate>Mon, 02 Nov 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/b8/b4/b8b49130fe2c1146d18d8524eefdca99.m4a?auth_key=1795292084-XAkif2VD-0-1971daa7493de2387eec1cfe4d2cdd8c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/b8/b4/b8b49130fe2c1146d18d8524eefdca99.m4a?auth_key=1795380927-sB3EEBJ2-0-3333d2cc2e5ea2597459366418f4fec0" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7O4QJ</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261101期：教育面对面</description>
       <guid isPermaLink="false">ttfm-9onZsWLjlo</guid>
       <pubDate>Sun, 01 Nov 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/47/53/4753ecfde6d09fc36a3e5572384b898d.m4a?auth_key=1795292084-3Ew3EOx5-0-6a5fadb0d732b37622e8292d76c99f54" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/47/53/4753ecfde6d09fc36a3e5572384b898d.m4a?auth_key=1795380927-SfqlgFRG-0-0c427f110814606c526425a679fe9a98" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWLjlo</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261031期：教育面对面</description>
       <guid isPermaLink="false">ttfm-eoxBsO25rJ</guid>
       <pubDate>Sat, 31 Oct 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/7c/fc/7cfc824bdc7e5e23a0d00d345860b013.m4a?auth_key=1795292084-BF6HVWHR-0-a8e41270ae6256a7df7d6bcb4daac627" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/7c/fc/7cfc824bdc7e5e23a0d00d345860b013.m4a?auth_key=1795380927-RuWCbg6D-0-655b3bc59aa6f6ea2b43e9df4bc8af27" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsO25rJ</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261030期：从“相加”到“相融” 学校美育浸润行动如何落地跨学科学习</description>
       <guid isPermaLink="false">ttfm-QJgAsY0Lpo</guid>
       <pubDate>Fri, 30 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/75/4a/754a2f8bae7c096cd37f78f87db27b05.m4a?auth_key=1795292084-hA89XpK6-0-25a2956c14f25c0ad37a5918e57a2127" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/75/4a/754a2f8bae7c096cd37f78f87db27b05.m4a?auth_key=1795380927-rUXx0VJy-0-96397956e7644e344fab8cee87a6dbca" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsY0Lpo</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261029期：挑大学 选专业 看就业｜北京工商大学：新兴专业与王牌专业一站式解读</description>
       <guid isPermaLink="false">ttfm-ydkvsP9LlJ</guid>
       <pubDate>Thu, 29 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/fa/84/fa8451bc7bf86224834f2f610a1ffa70.m4a?auth_key=1795292084-K5UcCVhd-0-3f24409851b94ad5afeb8eee5b36b162" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/fa/84/fa8451bc7bf86224834f2f610a1ffa70.m4a?auth_key=1795380927-PW1ZfYQ4-0-83934ed04a81a34f8f540b39b2d585e9" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsP9LlJ</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261028期：教育面对面</description>
       <guid isPermaLink="false">ttfm-polrsLDYWJ</guid>
       <pubDate>Wed, 28 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/aa/95/aa95e69aec02069298475d9c1b4b5794.m4a?auth_key=1795292084-yokBGLlm-0-a6d5e1cbe49f69c9f7251b4d52d66005" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/aa/95/aa95e69aec02069298475d9c1b4b5794.m4a?auth_key=1795380927-S7N6QNWO-0-696c9aba7de9362563fea5acbcd292a7" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLDYWJ</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261027期：AI赋能好老师｜教师人工智能素养全覆盖培训启动， 一线课堂发生了什么变化？</description>
       <guid isPermaLink="false">ttfm-Lo7Psp9mNa</guid>
       <pubDate>Tue, 27 Oct 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/7f/68/7f68240c6d6922fbf8eb9b4b52678882.m4a?auth_key=1795292084-pdTyxUkX-0-e7325a3fd8033036d6177e8912fd4d81" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/7f/68/7f68240c6d6922fbf8eb9b4b52678882.m4a?auth_key=1795380927-kexHdstm-0-f11805a9e84a344cc42eab5691183fe5" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:40</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7Psp9mNa</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261026期：教育面对面</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPRW5o</guid>
       <pubDate>Mon, 26 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/73/7e/737ef15313f51154702f3cbc3d6f507b.m4a?auth_key=1795292084-vYEOutG7-0-260f842a3cf277eec9b0e2487635ceb0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/73/7e/737ef15313f51154702f3cbc3d6f507b.m4a?auth_key=1795380927-5fYwnfri-0-611735c832ee27da4a6a3e266cf5145a" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPRW5o</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261025期：红色先驱光耀京华 走近不怕牺牲的潜伏者刘光典</description>
       <guid isPermaLink="false">ttfm-Oo5psrRm0d</guid>
       <pubDate>Sun, 25 Oct 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/86/7f/867f0b575b2cc93e5b17434c376b29d7.m4a?auth_key=1795292084-m5d8xjn6-0-edcdb547f5208ac0d1dd2e65960a467f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/86/7f/867f0b575b2cc93e5b17434c376b29d7.m4a?auth_key=1795380927-kbmlXheZ-0-b503d5f77a0efe1a31b0293b79393b19" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrRm0d</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261024期：挑大学 选专业 看就业｜人工智能教育——北师大师生解读专业前景和高三备考学法</description>
       <guid isPermaLink="false">ttfm-MJmvseZqPd</guid>
       <pubDate>Sat, 24 Oct 2026 19:27:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/f1/72/f172321fe75cef565309d8a545513566.m4a?auth_key=1795292084-TuzOyfiq-0-4cd9440a36e59941b2796ff3f83cca18" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/f1/72/f172321fe75cef565309d8a545513566.m4a?auth_key=1795380927-5tDhePhE-0-f820021507eefc6f4d3dba841ce70ec6" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvseZqPd</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261023期：教育面对面</description>
       <guid isPermaLink="false">ttfm-xo4GsK8bqd</guid>
       <pubDate>Fri, 23 Oct 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/7d/da/7dda6d884b700a68fa9cbbef09862979.m4a?auth_key=1795292084-wff59ME1-0-9a02b499c30b0bf71c6c97d68cad20fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/7d/da/7dda6d884b700a68fa9cbbef09862979.m4a?auth_key=1795380927-rHnbyZua-0-d7a404660609a00fde2b71972440bc8c" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsK8bqd</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261022期：教育面对面</description>
       <guid isPermaLink="false">ttfm-kdjgsjBj4o</guid>
       <pubDate>Thu, 22 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/76/a4/76a4faa45ed88f20f9bc757a09357984.m4a?auth_key=1795292084-14cInlnB-0-abdff00218837cdf8d791879b1f59c41" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/76/a4/76a4faa45ed88f20f9bc757a09357984.m4a?auth_key=1795380927-oDjcb0xu-0-66225d9626ae491073d69f5ada00679b" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjBj4o</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261021期：挑大学 选专业 看就业｜人工智能教育——北师大师生解读专业前景和高三备考学法</description>
       <guid isPermaLink="false">ttfm-MaXAs70NmJ</guid>
       <pubDate>Wed, 21 Oct 2026 19:27:45 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/6e/86/6e866874ff2848bbb4e2e0251d95ad05.m4a?auth_key=1795292084-rpFj27Cp-0-8e9850e3530040bf729727e9888c1d21" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/6e/86/6e866874ff2848bbb4e2e0251d95ad05.m4a?auth_key=1795380927-P1SMLEEy-0-36ec0465e79b963eaa606e150366fd04" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs70NmJ</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261020期：如何让高中英语成为优势学科？</description>
       <guid isPermaLink="false">ttfm-PorqsvQl1d</guid>
       <pubDate>Tue, 20 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/41/e3/41e3ef40713a99a8d2de3916cd5ded0c.m4a?auth_key=1795292084-rr3FpquS-0-ed49cca3e98617ac743383e99b17e0af" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/41/e3/41e3ef40713a99a8d2de3916cd5ded0c.m4a?auth_key=1795380927-Y23TMFd2-0-5585000470766a10572c1ecd2ccd075f" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:40</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvQl1d</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261019期：红色先驱光耀京华 走近英勇斗争的热血先锋马骏</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6xyXd</guid>
       <pubDate>Mon, 19 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/5c/26/5c2670fb06dbc793ffb27c5c4d098073.m4a?auth_key=1795292084-OOFAcmY2-0-9942eaa0ab14f9876d02f6e4de234c20" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/5c/26/5c2670fb06dbc793ffb27c5c4d098073.m4a?auth_key=1795380927-9l4Em1Ta-0-7e6bc0a4508ff218a2e6fec8fff78c17" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6xyXd</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261018期：教育面对面</description>
       <guid isPermaLink="false">ttfm-ZdRjs8ykmd</guid>
       <pubDate>Sun, 18 Oct 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/9f/16/9f16457e79ff5e11b465c95c19f778b1.m4a?auth_key=1795292084-rn3AgMYT-0-40ce55e523b9879cf5e07288a20e4811" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/9f/16/9f16457e79ff5e11b465c95c19f778b1.m4a?auth_key=1795380927-1Sg69XS5-0-03eca74c7d5c3d3f7d0320f0f173308a" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8ykmd</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261017期：量子信息科学×全球治理创新人才班——人大师生带你“看懂专业、学对方法”(精编版)</description>
       <guid isPermaLink="false">ttfm-VJLvspwkNo</guid>
       <pubDate>Sat, 17 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/bb/64/bb6472e75381ffa27c63adcbe0015528.m4a?auth_key=1795292084-Mtwlan0F-0-ae2e825da93373c51e53fb872e79b298" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/bb/64/bb6472e75381ffa27c63adcbe0015528.m4a?auth_key=1795380927-kwslXBSI-0-971f3f15b35ff343b34df51d8557a788" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspwkNo</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261016期：赢在规划 | 高三一轮复习到底应该如何做才能让效果最大化？</description>
       <guid isPermaLink="false">ttfm-vdz8sOeBLa</guid>
       <pubDate>Fri, 16 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/10/c7/10c73cd354992b953bed569a819c1806.m4a?auth_key=1795292084-zsfC2nMQ-0-89e4e5c505ec67f3e8b36d5089fa3180" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/10/c7/10c73cd354992b953bed569a819c1806.m4a?auth_key=1795380927-EkVb08OE-0-408e33f2e0ba6c2a9b93254049c53874" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOeBLa</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261015期：教育面对面</description>
       <guid isPermaLink="false">ttfm-ZJ3esKbewo</guid>
       <pubDate>Thu, 15 Oct 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/91/d6/91d6cb8dd53c5d8539ff9a37e3407169.m4a?auth_key=1795292084-rAVEp5QM-0-adfb2c09a0c849ca4426816205b454e4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/91/d6/91d6cb8dd53c5d8539ff9a37e3407169.m4a?auth_key=1795380927-KTntVwki-0-56e8dca122fbf2f5ee1e4f84c8f879f7" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKbewo</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261014期：2027年全国研招报名正式启动｜ 北京考区报考政策解读与冲刺备考指南</description>
       <guid isPermaLink="false">ttfm-ndKes1ZKva</guid>
       <pubDate>Wed, 14 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/ec/70/ec708e425ec82d6cdb65e0900dfbbf90.m4a?auth_key=1795292084-KIWw0RrL-0-fec5284782b937a289bbb561c77dcd77" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/ec/70/ec708e425ec82d6cdb65e0900dfbbf90.m4a?auth_key=1795380927-a6UOIc74-0-0c1d72cd9b44c12366f10b2edd0dfd90" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes1ZKva</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261013期：量子信息科学×全球治理创新人才班——人大师生带你“看懂专业、学对方法”</description>
       <guid isPermaLink="false">ttfm-gay7s9b5bd</guid>
       <pubDate>Tue, 13 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/cb/a0/cba0d28351e407ec289aad2eea77fdab.m4a?auth_key=1795292084-HuzIK0xF-0-9c31fecb4ea997fd5ca060f3dcffe643" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/cb/a0/cba0d28351e407ec289aad2eea77fdab.m4a?auth_key=1795380927-LOJ35uIn-0-3e81e4d0c3d5a09645daf6580c2e38dc" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9b5bd</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261012期：探访100个别人家的孩子——北大元培方子辰：在无边界探索中校准成长坐标</description>
       <guid isPermaLink="false">ttfm-qaN0swnY9d</guid>
       <pubDate>Mon, 12 Oct 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/cc/59/cc59c4b46ab5179dfbb80ce4059baab4.m4a?auth_key=1795292084-fffG0vfq-0-14ef551a84942d77ea18aadd3f65bb14" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/cc/59/cc59c4b46ab5179dfbb80ce4059baab4.m4a?auth_key=1795380927-setYDo7u-0-a93af97ae88fb9ae381324f064211733" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:01</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swnY9d</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261011期：教育面对面</description>
       <guid isPermaLink="false">ttfm-kdjgsjwMEo</guid>
       <pubDate>Sun, 11 Oct 2026 19:27:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/6a/f5/6af5f74619fd33f71a274e2c5693d251.m4a?auth_key=1795292084-PRrOvQUA-0-87cf5b27bc545db993be41d6f1b9121c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/6a/f5/6af5f74619fd33f71a274e2c5693d251.m4a?auth_key=1795380927-k0AbPbUq-0-3430900e24c8ec75b5653491f670742f" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjwMEo</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261010期：教育面对面</description>
       <guid isPermaLink="false">ttfm-vJ0PsMY7eJ</guid>
       <pubDate>Sat, 10 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/f3/6f/f36ff681e546811bce3c779ef7b5047c.m4a?auth_key=1795292084-234GuJZ1-0-daf68f9e4bade3495af1dc41a674204e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/f3/6f/f36ff681e546811bce3c779ef7b5047c.m4a?auth_key=1795380927-9quB4MqK-0-9004e0c374bb2bceff7a37455afd3453" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMY7eJ</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20261009期：《从“写家史”到 “懂中国”：燕园杯里的青少年历史素养课》</description>
       <guid isPermaLink="false">ttfm-5aOXs155NJ</guid>
       <pubDate>Fri, 09 Oct 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/97/f2/97f2949ad733425b6013cdb5d222d0ab.m4a?auth_key=1795292084-fWLdx5zk-0-dfe2e4cbbb5e7a4cbec3594eba7eacbc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/97/f2/97f2949ad733425b6013cdb5d222d0ab.m4a?auth_key=1795380927-XWkUuUNk-0-30b5ddecc345e01dbd7f149bfd0332d4" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs155NJ</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20261008期：教育面对面</description>
       <guid isPermaLink="false">ttfm-PorqsvKYpd</guid>
       <pubDate>Thu, 08 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/ba/b7/bab7e3406e2bbdd7cada83b74bc15d20.m4a?auth_key=1795292084-rhpMp5vX-0-e4a467e21934c8d47a5b7c56a552b0e6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/ba/b7/bab7e3406e2bbdd7cada83b74bc15d20.m4a?auth_key=1795380927-7JpH4mEA-0-a81c603c3ffc93a6ed3e3c213f3bd525" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvKYpd</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20261007期：教育面对面</description>
       <guid isPermaLink="false">ttfm-eaVrsA09ka</guid>
       <pubDate>Wed, 07 Oct 2026 19:26:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/c5/b3/c5b3e60f5a35b17b1518373ce28cc8f1.m4a?auth_key=1795292084-XiMimoh4-0-2d08fa8000786c278f37dc9f7765fb24" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/c5/b3/c5b3e60f5a35b17b1518373ce28cc8f1.m4a?auth_key=1795380927-dsGxakB7-0-834f2bd1fc928b884e6a4c208e152004" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsA09ka</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20261006期：教育面对面</description>
       <guid isPermaLink="false">ttfm-OdPXszg39d</guid>
       <pubDate>Tue, 06 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/18/d9/18d96878f58426d8bb5d0e260a9a00e6.m4a?auth_key=1795292084-sFxYAXpM-0-3cd0e2c5c39eb4fa1b421535f68b2dd8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/18/d9/18d96878f58426d8bb5d0e260a9a00e6.m4a?auth_key=1795380927-TnVTxw6L-0-0c67ba2c0d6336c0c163828158ba0c8e" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszg39d</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20261005期：礼赞祖国育新人 首善育人敬师恩·走近北京建筑大学附属实验中学彭曼</description>
       <guid isPermaLink="false">ttfm-gay7s9b6Pd</guid>
       <pubDate>Mon, 05 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/df/aa/dfaaeb3560c6b3f692dc140061c70617.m4a?auth_key=1795292084-6oanFwqM-0-da92ff334d7d3dea25178051b328bc91" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/df/aa/dfaaeb3560c6b3f692dc140061c70617.m4a?auth_key=1795380927-KsdOHSmE-0-e72f11ca28fbdea62aa366fe12d0b7b2" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9b6Pd</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20261004期：教育面对面</description>
       <guid isPermaLink="false">ttfm-vJ0PsMMN1J</guid>
       <pubDate>Sun, 04 Oct 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/d8/20/d8200070e45df9f8c33501ab12e8bf46.m4a?auth_key=1795292084-oKl5Wlaw-0-ad50db3ab64288af701945f5db505a39" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/d8/20/d8200070e45df9f8c33501ab12e8bf46.m4a?auth_key=1795380927-C5iGvGEG-0-4ef24aa7b1d990662ce6fbb5eb2c29a5" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMMN1J</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20261003期：教育面对面</description>
       <guid isPermaLink="false">ttfm-goqZsGGK2a</guid>
       <pubDate>Sat, 03 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/f9/11/f9118c4f9508e077b5dc073f60724223.m4a?auth_key=1795292084-n9FAzaKa-0-7643b9be1cd4eb7bd7cfa18aa675cf34" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/f9/11/f9118c4f9508e077b5dc073f60724223.m4a?auth_key=1795380927-pG1ayZ6O-0-9889e08279eb042787afa755439f7074" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsGGK2a</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20261002期：教育面对面</description>
       <guid isPermaLink="false">ttfm-pdpvsGGD0a</guid>
       <pubDate>Fri, 02 Oct 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/93/db/93db714c1e4b926f3c3f6ceb352fb1db.m4a?auth_key=1795292084-K8Hvw2cB-0-856bf7c36b669e24ab724c896c95b6eb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/93/db/93db714c1e4b926f3c3f6ceb352fb1db.m4a?auth_key=1795380927-OfWHiJta-0-773db3073d6b5dc86355dea29f9ab729" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGGD0a</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20261001期：教育面对面</description>
       <guid isPermaLink="false">ttfm-QJgAsYY6Go</guid>
       <pubDate>Thu, 01 Oct 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/55/a3/55a346d6584fe1dd80f379ae7f8033a3.m4a?auth_key=1795292084-1WplEI86-0-b7c4ef280a50e5d5d3ed2205719d418c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/55/a3/55a346d6584fe1dd80f379ae7f8033a3.m4a?auth_key=1795380927-TA3m8i3n-0-731bf8616f3d16a90c5269d1d9ebaadf" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYY6Go</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20260930期：尊师重教首善育人·北师大二附中姚文：跨越太行山路，做少年成长的“搭台人”</description>
       <guid isPermaLink="false">ttfm-ydkvsPPZ9J</guid>
       <pubDate>Wed, 30 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/9e/ab/9eab66da37a5693ddb8afff2673244ca.m4a?auth_key=1795292084-LesVbrls-0-ad9436a6b05868705a8b7f05436de369" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/9e/ab/9eab66da37a5693ddb8afff2673244ca.m4a?auth_key=1795380927-WTkJqbF5-0-18727bb7047e11c1b1ee7f3109632281" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPPZ9J</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20260929期：教育面对面</description>
       <guid isPermaLink="false">ttfm-polrsLL6NJ</guid>
       <pubDate>Tue, 29 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/00/80/008018238c20aa8c27ca37b9b581f6df.m4a?auth_key=1795292084-8X1YWaTk-0-c16dfa94b731957c2622e2b88931f5e4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/00/80/008018238c20aa8c27ca37b9b581f6df.m4a?auth_key=1795380927-H0zbTE2o-0-f76ef9252facda48e2fd74226e175e56" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLL6NJ</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260928期：尊师重教首善育人·走近特级校长支梅</description>
       <guid isPermaLink="false">ttfm-ea8RsggwPd</guid>
       <pubDate>Mon, 28 Sep 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/05/23/052373489f8dc2c688a426b34def79d8.m4a?auth_key=1795292084-gRO0nIv0-0-23319db041f234d3075afce9269eecfa" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/05/23/052373489f8dc2c688a426b34def79d8.m4a?auth_key=1795380927-AsD0rjzF-0-94ef7f7726ac89c549f76baa38073353" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:44</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsggwPd</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260927期：京师奖精编报道——走近 “最美教师” 张福锁院士</description>
       <guid isPermaLink="false">ttfm-6JW8s22DXd</guid>
       <pubDate>Sun, 27 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/2d/9f/2d9f1176f224444a658de2eaa49eee9f.m4a?auth_key=1795292084-y0yBNtzt-0-6c350b4c1bcc3e66fc0d4f67f337147a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/2d/9f/2d9f1176f224444a658de2eaa49eee9f.m4a?auth_key=1795380927-LovFYL7R-0-1a1ecd6574dbd2418f250042af1949e4" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s22DXd</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260926期：【教育面对面特别报道】京师奖教师王建祥：做学生身后“隐藏的力量”</description>
       <guid isPermaLink="false">ttfm-gay7s99Vyd</guid>
       <pubDate>Sat, 26 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/b0/fb/b0fb399584971f503926d5bb9521dd76.m4a?auth_key=1795292084-kv3VlJiO-0-fc1011a43a2961ce9aad68a4b30e8637" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/b0/fb/b0fb399584971f503926d5bb9521dd76.m4a?auth_key=1795380927-7YfEdQuc-0-34717a3a72e99f8d9cae438549b42b4f" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s99Vyd</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260925期：京师奖精编报道——王彦伟</description>
       <guid isPermaLink="false">ttfm-xJvKsbbe8d</guid>
       <pubDate>Fri, 25 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/50/e3/50e3d9db2d777e2e7e232fef633ccb9e.m4a?auth_key=1795292084-KCZ91wyD-0-1b4388dd0acca0584222731f7603c07b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/50/e3/50e3d9db2d777e2e7e232fef633ccb9e.m4a?auth_key=1795380927-SMyiZZJE-0-82d2cec68994b3d08897a0117d2d8c88" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbbe8d</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260924期：【教育面对面特别报道】北京建筑大学孟璠磊：扎根红墙沃土 共育时代新人</description>
       <guid isPermaLink="false">ttfm-xo4GsKKz2d</guid>
       <pubDate>Thu, 24 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/ed/d9/edd9475e38b43c9e56ee4a2bbdb1fc8e.m4a?auth_key=1795292084-4d24Yg6w-0-c406e48ca42c3b378579cbacb2290851" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/ed/d9/edd9475e38b43c9e56ee4a2bbdb1fc8e.m4a?auth_key=1795380927-9wjtMjrW-0-a021090bb1ec7d6c68740f9afb6068af" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKKz2d</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260923期：【教育面对面特别报道】京师奖教师王建祥：做学生身后“隐藏的力量”</description>
       <guid isPermaLink="false">ttfm-kdjgsjjlbo</guid>
       <pubDate>Wed, 23 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/4b/cd/4bcd8bdf44d436beafc8d238305a44e0.m4a?auth_key=1795292084-7taKHToF-0-c9305fb7a1837827d23f294e9a6de162" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/4b/cd/4bcd8bdf44d436beafc8d238305a44e0.m4a?auth_key=1795380927-nnnlucmP-0-0446616b36cffc731c4e6847beb22344" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:46</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjjlbo</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260922期：AI进课堂，一线教师的“进化”与“坚守”</description>
       <guid isPermaLink="false">ttfm-MaXAs77xEJ</guid>
       <pubDate>Tue, 22 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/54/14/5414ce08e7933acf660a70614a5333be.m4a?auth_key=1795292084-a3OXmhY4-0-f4e906fe51902e9fb03a0d777826ea47" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/54/14/5414ce08e7933acf660a70614a5333be.m4a?auth_key=1795380927-vsQSYu32-0-2b4ccec4147bd6f246433f42c28131ed" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:46</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs77xEJ</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260921期：红色先驱光耀京华——走近担当使命的领路人邓中夏</description>
       <guid isPermaLink="false">ttfm-ZJ3esKNrvo</guid>
       <pubDate>Mon, 21 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/d2/69/d2691514d99bae44fdee3b2b92ae3fb2.m4a?auth_key=1795292084-KDOTKEZg-0-a050c5c06a423d8801bfac03216740c7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/d2/69/d2691514d99bae44fdee3b2b92ae3fb2.m4a?auth_key=1795380927-nbogY2E5-0-17d7e284995561273dbd20ff0dd26110" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:47</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKNrvo</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260920期：周末精编</description>
       <guid isPermaLink="false">ttfm-raEvsAj73J</guid>
       <pubDate>Sun, 20 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/51/29/5129a3fbfd111e75b8d1ceb26ebb6d16.m4a?auth_key=1795292084-1tm5knrg-0-b81d39694c04b669b5164308ad120646" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/51/29/5129a3fbfd111e75b8d1ceb26ebb6d16.m4a?auth_key=1795380927-vSdFD20K-0-bec2818a54f28619bfb8ebfded813e15" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAj73J</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260919期：【教育面对面特别报道】特级校长蔡瑞山: 让每一所学校都找到向上的力量</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPEk2o</guid>
       <pubDate>Sat, 19 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/cf/05/cf05e522d4614ff437a9d21c8e08a0c7.m4a?auth_key=1795292084-SGdfCixU-0-d8753431d1205b084cdee5c21696a827" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/cf/05/cf05e522d4614ff437a9d21c8e08a0c7.m4a?auth_key=1795380927-66kciSk7-0-2e377ddc747a97c31684405dc2e8049d" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPEk2o</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260918期：服贸会正式发布“京娃”系列智能体——0—6岁家庭的实用指南</description>
       <guid isPermaLink="false">ttfm-ZdRjs89G0d</guid>
       <pubDate>Fri, 18 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/08/39/083946b08dfb984c487b0df480968f52.m4a?auth_key=1795292084-mLlkD8dM-0-75b5383a35fb3b799b7bca4e2b61d74d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/08/39/083946b08dfb984c487b0df480968f52.m4a?auth_key=1795380927-Av1r7xko-0-adb490e61de512abfaee67087ac98d92" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs89G0d</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260917期：走近 “最美教师” 张福锁院士</description>
       <guid isPermaLink="false">ttfm-vdz8sOmVea</guid>
       <pubDate>Thu, 17 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/63/b0/63b02df2b669a11dfcb4b3bc82309e92.m4a?auth_key=1795292084-pdTpTUuG-0-efc36b68f0b1865ad0839a5a11d00ac6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/63/b0/63b02df2b669a11dfcb4b3bc82309e92.m4a?auth_key=1795380927-99W0lv74-0-957eb03dbf1ed30cbf907a9e0cd1a7f8" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOmVea</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260916期：AI进课堂，边界在哪里？《北京市教育领域人工智能应用指南2026》发布</description>
       <guid isPermaLink="false">ttfm-YdY3sx3B2a</guid>
       <pubDate>Wed, 16 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/95/34/9534944bad92019a273efb43a21a1566.m4a?auth_key=1795292084-K1L8uveU-0-6f6ba193098ff3c0277167083b868ff2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/95/34/9534944bad92019a273efb43a21a1566.m4a?auth_key=1795380927-rLgeM5bc-0-344ee1697e00e4313825bf946f2b4c58" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sx3B2a</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260915期：走近 “京师奖” 获奖教育工作者 王彦伟、张述林</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPE8lo</guid>
       <pubDate>Tue, 15 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/d9/87/d987f075b7d120478336ad59deaa52b6.m4a?auth_key=1795292084-OBiaCVAB-0-c083507f4139094913e8a558cd8e6d94" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/d9/87/d987f075b7d120478336ad59deaa52b6.m4a?auth_key=1795380927-xa7AJK52-0-1a63045323c672fc902b7ddb0b84de23" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPE8lo</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260914期：【教育面对面教师节特别报道】特级校长蔡瑞山: 让每一所学校都找到向上的力量</description>
       <guid isPermaLink="false">ttfm-ydkvsPGBDJ</guid>
       <pubDate>Mon, 14 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/cb/31/cb31227ee6cad054bff7cf34735f303b.m4a?auth_key=1795292084-ADzpnNxm-0-416e956218eb61328ba737219430b305" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/cb/31/cb31227ee6cad054bff7cf34735f303b.m4a?auth_key=1795380927-mrHTTmRH-0-b9e627e913e703e009578e730ff150cb" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPGBDJ</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260913期：尊师重教，首善育人|教育面对面教师节特别报道：专访“京师奖”提名教师索玲</description>
       <guid isPermaLink="false">ttfm-QdBWs0vbEo</guid>
       <pubDate>Sun, 13 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/b3/94/b39499a68572da661c03ba0fb8aa4eed.m4a?auth_key=1795292084-wEnWoZQj-0-a462bd8a6d2a52e4c630b4b59f3ed63e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/b3/94/b39499a68572da661c03ba0fb8aa4eed.m4a?auth_key=1795380927-j3nVA7j1-0-4399c356220b1cde81266c9e0e9c94a2" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs0vbEo</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260912期：周末精编</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6qqld</guid>
       <pubDate>Sat, 12 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/a8/7e/a87ed6cf8520652cb4ad0354903b3196.m4a?auth_key=1795292084-I2kMkZcJ-0-ab6e2b8539fd1a71a040600d45972ddd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/a8/7e/a87ed6cf8520652cb4ad0354903b3196.m4a?auth_key=1795380927-cOwK4mOL-0-96e390562e38af495fd193e69cc88c0a" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6qqld</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260911期：新教材来了，“教研+一线”拆解“大语文”怎么学</description>
       <guid isPermaLink="false">ttfm-Vob5sYZ7Wd</guid>
       <pubDate>Fri, 11 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/20/fe/20fe0b8e54a3c9626f6d5dffe0cd8623.m4a?auth_key=1795292084-unaua9H3-0-96911e8eb51262d7401ddfa70eaa41b1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/20/fe/20fe0b8e54a3c9626f6d5dffe0cd8623.m4a?auth_key=1795380927-Pp5GkS6m-0-4e4def74d1aef0c9bfe9824c7ff57985" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYZ7Wd</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260910期：尊师重教，首善育人|教育面对面教师节特别报道：专访“京师奖”提名教师索玲</description>
       <guid isPermaLink="false">ttfm-Oo5psrBYed</guid>
       <pubDate>Thu, 10 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/96/61/9661a1f2e2382743eb41bfd3b84130c7.m4a?auth_key=1795292084-rxk2iMWd-0-a85dbc9d347977c30ed96d23a75f4c64" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/96/61/9661a1f2e2382743eb41bfd3b84130c7.m4a?auth_key=1795380927-Xg3nRWx0-0-ec6a5ea3cbcdae00ac3a6814d62d3799" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrBYed</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260909期：纪念缅怀伟人逝世50周年-城市读书会《毛泽东选集》第一卷</description>
       <guid isPermaLink="false">ttfm-ZJ3esKNkZo</guid>
       <pubDate>Wed, 09 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/c6/00/c6005cbbd00ea341d3250859f950acc5.m4a?auth_key=1795292084-Y0UmZlAo-0-f219d09eabd70bb96aa7e96521e715f7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/c6/00/c6005cbbd00ea341d3250859f950acc5.m4a?auth_key=1795380927-kQ7darCQ-0-ca28419429ab9adce1b6bd07d86c6b0c" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKNkZo</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260908期：赢在规划|新学期学能提升与学习系统构建</description>
       <guid isPermaLink="false">ttfm-ndKes18R7a</guid>
       <pubDate>Tue, 08 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/73/11/731158fe754f7daaa97c5679bb1bdb55.m4a?auth_key=1795292084-BTx0Top5-0-821e1d2e03a61e3cbf8f80f5e18e27b4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/73/11/731158fe754f7daaa97c5679bb1bdb55.m4a?auth_key=1795380927-gdCYf5wm-0-ab6fb74791af4e24188206c7782ff4ae" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes18R7a</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260907期：初中英语新学期提升计划</description>
       <guid isPermaLink="false">ttfm-kdjgsj6LBo</guid>
       <pubDate>Mon, 07 Sep 2026 19:26:48 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/64/6c/646c46844c4b1d6d119ce4c9c85bc949.m4a?auth_key=1795292084-1dl5l1AN-0-c299cf95a7e7be30d7e9fb37a77d27f2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/64/6c/646c46844c4b1d6d119ce4c9c85bc949.m4a?auth_key=1795380927-NCu8nn9i-0-65babecefb669f0c1bbddef12a02226f" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsj6LBo</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260906期：周末精编</description>
       <guid isPermaLink="false">ttfm-vJ0PsMDnGJ</guid>
       <pubDate>Sun, 06 Sep 2026 19:26:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/0a/94/0a94ce6d8e217e36180f7c99843e3a59.m4a?auth_key=1795292084-nk6HmSlk-0-c17b209bee225ad20f12f339d36d365e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/0a/94/0a94ce6d8e217e36180f7c99843e3a59.m4a?auth_key=1795380927-10YvYKB6-0-28b7bac7676afb65b5f9dc8a2b900bb6" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMDnGJ</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260905期：周末精编</description>
       <guid isPermaLink="false">ttfm-polrsLGYlJ</guid>
       <pubDate>Sat, 05 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/8c/62/8c62a83d66f20332397cf5deaaf02299.m4a?auth_key=1795292084-FHlBfpWh-0-6f21a4a95a91e24eda3c86ead5224dc8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/8c/62/8c62a83d66f20332397cf5deaaf02299.m4a?auth_key=1795380927-L4T92Cfw-0-7ba1bf6fa8e3ef01fef3f722ac22bdb6" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLGYlJ</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260904期：健康第一，科创育人|教育面对面开学季报道聚焦科技教育“做中学”育人新实践</description>
       <guid isPermaLink="false">ttfm-pdpvsGN9Ga</guid>
       <pubDate>Fri, 04 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/49/94/4994d809456efd0347705b7469ae0876.m4a?auth_key=1795292084-QF9cTiIM-0-560d567a52b456b7f1fed234e53e5289" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/49/94/4994d809456efd0347705b7469ae0876.m4a?auth_key=1795380927-UXZteXgr-0-f448227cc73f5ec08eae88b81ad11947" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGN9Ga</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260903期：红色先驱光耀京华 走近不负人民血沃幽燕白乙化</description>
       <guid isPermaLink="false">ttfm-3aMvs1rg4J</guid>
       <pubDate>Thu, 03 Sep 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/54/32/54323bad623640fc1b179a82e52a53d1.m4a?auth_key=1795292084-MN4IFtBR-0-c2b57c794d74edd286dd3c9d60f310ff" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/54/32/54323bad623640fc1b179a82e52a53d1.m4a?auth_key=1795380927-7liizGSu-0-03d03ca1fac008711baf7846d986fe57" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:54</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs1rg4J</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260902期：第十四届“桃李杯”书写舞蹈育人新答卷</description>
       <guid isPermaLink="false">ttfm-ydkvsPYVVJ</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/36/86/368636f11e05d8bbfc215f432145f00f.m4a?auth_key=1795292084-lqj1LKMP-0-11ce462119b8959752a1974142865bb4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/36/86/368636f11e05d8bbfc215f432145f00f.m4a?auth_key=1795380927-qaS4uPNN-0-7e8218f1798740d25922f53274786a6b" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPYVVJ</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260901期：健康第一，身心共育 | 教育面对面开学季报道· 解码“大健康教育”核心理念</description>
       <guid isPermaLink="false">ttfm-ea8RsgEMzd</guid>
       <pubDate>Tue, 01 Sep 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/8a/43/8a43731f5c5046ee01bd7ff262dc8c80.m4a?auth_key=1795292084-JJpNmSY7-0-bd2290a0aec8b95c197cf785fbadb092" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/8a/43/8a43731f5c5046ee01bd7ff262dc8c80.m4a?auth_key=1795380927-32acWMuv-0-a2db345d9f4fbc90e4913169c4590f6f" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgEMzd</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260831期：开学在即，如何做好小初衔接？</description>
       <guid isPermaLink="false">ttfm-YdY3sxlwWa</guid>
       <pubDate>Mon, 31 Aug 2026 19:27:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/48/76/4876c246127db7cc40653ddda9aac141.m4a?auth_key=1795292084-ZoBzptrg-0-cabe0fff809c8e32cbb787e3cd654430" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/48/76/4876c246127db7cc40653ddda9aac141.m4a?auth_key=1795380927-hx2NfNIb-0-56d7456b27bb7d326bc8e48d0e584066" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxlwWa</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260830期：探访100个别人家的孩子——北外附中肖雯瑄：“非典型学霸”的成长密码</description>
       <guid isPermaLink="false">ttfm-6JW8s2A2kd</guid>
       <pubDate>Sun, 30 Aug 2026 19:27:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/da/b8/dab8df107a7a858f19afbee73ac60e40.m4a?auth_key=1795292084-YUN70EAB-0-c0787cee3061cb8d641dd8509d0e88fa" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/da/b8/dab8df107a7a858f19afbee73ac60e40.m4a?auth_key=1795380927-rqd1r2oS-0-070fb25c31fa32f305ace9ecef801370" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2A2kd</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260829期：探访100个别人家的孩子——八十中刘珈西：向阳生长的乐天派</description>
       <guid isPermaLink="false">ttfm-MaXAs7yN2J</guid>
       <pubDate>Sat, 29 Aug 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/80/58/805831d9df18fc7ccd185f50cc540fb4.m4a?auth_key=1795292084-ElbD7Sfk-0-190c4bc0483eda8ac0a86f1654ac84fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/80/58/805831d9df18fc7ccd185f50cc540fb4.m4a?auth_key=1795380927-DNWZSffk-0-c5b30060cf5a4809a28e9d4e13efc9a1" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7yN2J</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260828期：赢在规划·高中全学段聚焦——详解多元升学前置布局</description>
       <guid isPermaLink="false">ttfm-xJvKsbeABd</guid>
       <pubDate>Fri, 28 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/7a/ea/7aeaf43be120594a134808f7413f719c.m4a?auth_key=1795292084-KJPNE9wy-0-81512df7c8fb9ad7028be46a014a9dc5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/7a/ea/7aeaf43be120594a134808f7413f719c.m4a?auth_key=1795380927-9xp50E71-0-32c568d08e57943510d8c8b791566264" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbeABd</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260827期：突破语文瓶颈，打开语文学习新思路</description>
       <guid isPermaLink="false">ttfm-zJeWsW9jro</guid>
       <pubDate>Thu, 27 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/b6/02/b60279e4796fe7c7843bb397f671a732.m4a?auth_key=1795292084-h5uIL8xu-0-4f344fa3f5abb18c103952b47ed58f2e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/b6/02/b60279e4796fe7c7843bb397f671a732.m4a?auth_key=1795380927-haPpRxgU-0-2390e24102b7eee355f2048eead179be" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsW9jro</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260826期：开学在即，如何做好幼小衔接？</description>
       <guid isPermaLink="false">ttfm-kdjgsjNAwo</guid>
       <pubDate>Wed, 26 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/35/a7/35a713acc753cebe0ad022c778150314.m4a?auth_key=1795292084-DYAtJI0H-0-e755700b237ac4c1c095d38f1ebb3828" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/35/a7/35a713acc753cebe0ad022c778150314.m4a?auth_key=1795380927-yziFwl0u-0-8e1e0776ca2c0854c4af0c2ac8dca75b" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjNAwo</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260825期：不要做题家，只要“动手派”！</description>
       <guid isPermaLink="false">ttfm-QJgAsYeego</guid>
       <pubDate>Tue, 25 Aug 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/2a/5e/2a5e0442acb2e6c68e6ca02122a07cfe.m4a?auth_key=1795292084-ucOs95oP-0-20bcb5d1483acc6a065e4cc3447d2ebd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/2a/5e/2a5e0442acb2e6c68e6ca02122a07cfe.m4a?auth_key=1795380927-e5gtkhYR-0-242f225b8343f5135216a06afddaa7b8" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYeego</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260824期：从“看实验”到“做中学” 躬身实践探真知</description>
       <guid isPermaLink="false">ttfm-3aMvs1pz9J</guid>
       <pubDate>Mon, 24 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/b2/fc/b2fcf3e2b5ca24fb27f3910163b8b1ac.m4a?auth_key=1795292084-MrOLo1Aq-0-cc84f06d80d84cad5670cb82437ac4e9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/b2/fc/b2fcf3e2b5ca24fb27f3910163b8b1ac.m4a?auth_key=1795380927-EJyvSg6r-0-d68dd8a2ababd81ad22b7b374d365961" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs1pz9J</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260823期：周末精编</description>
       <guid isPermaLink="false">ttfm-MaXAs31Z7J</guid>
       <pubDate>Sun, 23 Aug 2026 19:27:40 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/db/f1/dbf12ac7a72dba2ed70225de1d3dc8ef.m4a?auth_key=1795292084-075n0kcw-0-e8d919fb499ba559949df2fee7957b09" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/db/f1/dbf12ac7a72dba2ed70225de1d3dc8ef.m4a?auth_key=1795380927-DcRoSSyN-0-f0f4c2e2dc5c06f1baa3172bdf6d6644" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs31Z7J</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260822期：周末精编</description>
       <guid isPermaLink="false">ttfm-pdpvsw5Dka</guid>
       <pubDate>Sat, 22 Aug 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/25/76/25767ca9bf847f2c6593f9e4839f20af.m4a?auth_key=1795292084-NMNJNFM4-0-e6524757fc5b20093ce3a7be19f1328b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/25/76/25767ca9bf847f2c6593f9e4839f20af.m4a?auth_key=1795380927-8B1wjqDE-0-3ce957864eced51b40c7792cb9f2009d" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsw5Dka</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260821期：踩准高三每一步 全年备考有章法</description>
       <guid isPermaLink="false">ttfm-PorqsByr2d</guid>
       <pubDate>Fri, 21 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/23/8a/238ab0ffd87528d5caec002cdc1ee48b.m4a?auth_key=1795292084-Tunw3Oc5-0-0aab7463352ccaa30752363096ae11dd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/23/8a/238ab0ffd87528d5caec002cdc1ee48b.m4a?auth_key=1795380927-vmELbLyI-0-6d2198d707a9deb42113b10db0da4217" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsByr2d</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260820期：科学调适：告别暑期综合征</description>
       <guid isPermaLink="false">ttfm-eaVrsX81Ba</guid>
       <pubDate>Thu, 20 Aug 2026 19:27:45 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/71/0f/710f6680acd6658018cf3d6825a4c607.m4a?auth_key=1795292084-c1QI9Rxy-0-95a39273f516dc1a76ec070877c6efe8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/71/0f/710f6680acd6658018cf3d6825a4c607.m4a?auth_key=1795380927-IyNWtLaS-0-94b02b961088ef4633ff3ed3281749c3" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsX81Ba</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260819期：9月入托倒计时，普惠托育衔接全攻略</description>
       <guid isPermaLink="false">ttfm-5aOXsy27kJ</guid>
       <pubDate>Wed, 19 Aug 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/0c/8e/0c8e771420580394969f18e260415708.m4a?auth_key=1795292084-JYHVcgRV-0-0ad36b70f70f12934715ceb394569367" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/0c/8e/0c8e771420580394969f18e260415708.m4a?auth_key=1795380927-FC0ze0iD-0-f4a48db0853fb01912f1f386fe510bf4" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy27kJ</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260818期：职面未来: 秋招季毕业生如何突围? 家长如何助力?</description>
       <guid isPermaLink="false">ttfm-Ka2Psq7Z5d</guid>
       <pubDate>Tue, 18 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/24/12/2412b24e9648fe45cb8889e00eb33d47.m4a?auth_key=1795292084-I6oZKHNz-0-b8716dfb1c47143c3f0906feb5730da3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/24/12/2412b24e9648fe45cb8889e00eb33d47.m4a?auth_key=1795380927-0QrtCpFZ-0-b5a8e24870ad8bf473d64b68da39f5ba" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Psq7Z5d</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260817期：惩戒细则来了，新“戒尺”解决新问题</description>
       <guid isPermaLink="false">ttfm-OowlsNXP9a</guid>
       <pubDate>Mon, 17 Aug 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/22/b8/22b8a266143a0f43c38609e87e89531d.m4a?auth_key=1795292084-d3afDRdQ-0-bcd38bcdd8f4790747a11702cf8b321c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/22/b8/22b8a266143a0f43c38609e87e89531d.m4a?auth_key=1795380927-1UskI9mC-0-bc98f6193b7540da52cccba431e81ecd" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNXP9a</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260816期：精编重播-赢在规划系列节目 | 从“初二分水岭”到“初三冲刺战”的全景规划</description>
       <guid isPermaLink="false">ttfm-4o6QsDYDDd</guid>
       <pubDate>Sun, 16 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/da/1a/da1acc50f070bb51d2990cb391fb5890.m4a?auth_key=1795292084-zZSuYNr2-0-1e03236210f5730cb7732d5acaac5632" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/da/1a/da1acc50f070bb51d2990cb391fb5890.m4a?auth_key=1795380927-VzFri7jX-0-943283ef988900fd195c752e245a121a" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6QsDYDDd</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260815期：100 个别人家的孩子——八十中任俊瑜：家校托举下的自主成长之路</description>
       <guid isPermaLink="false">ttfm-raEvsjXr4J</guid>
       <pubDate>Sat, 15 Aug 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/a7/ae/a7ae7f62d71ba8d61d4481eb401c8f81.m4a?auth_key=1795292084-siiJAOcg-0-02b1cb0a6dc3b9441d7caf51f7a68a94" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/a7/ae/a7ae7f62d71ba8d61d4481eb401c8f81.m4a?auth_key=1795380927-93WbKJSv-0-c0af64f8a3a3ff2e0406183f33a5e6bf" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsjXr4J</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260814期：赢在规划|赢在规划-从初二到初三的全景规划</description>
       <guid isPermaLink="false">ttfm-ndKesBpmPa</guid>
       <pubDate>Fri, 14 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/27/08/270891a25b453b7ae96d49af6ca4edbf.m4a?auth_key=1795292084-h5gpxyq6-0-3c4aba0c66d4e117a94ffe9a5bfadf53" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/27/08/270891a25b453b7ae96d49af6ca4edbf.m4a?auth_key=1795380927-4hfszCbV-0-f1fc51d0c6d22a23b9c22e101a1a1622" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKesBpmPa</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260813期：教育是有意思的-如何在假期学会陪孩子玩</description>
       <guid isPermaLink="false">ttfm-gay7sKn4yd</guid>
       <pubDate>Thu, 13 Aug 2026 19:27:43 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/4d/62/4d625d71622774817376c050fd7d3291.m4a?auth_key=1795292084-cmfuMe1O-0-1d417bb76ff0b2f95553eb33cb2e0b8f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/4d/62/4d625d71622774817376c050fd7d3291.m4a?auth_key=1795380927-dgTIADnd-0-bf6581af5aeaea47a2eea240b08df166" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKn4yd</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260812期：从中学生人形机器人足球赛前瞻AI教育新动向</description>
       <guid isPermaLink="false">ttfm-0dGMsM9w2a</guid>
       <pubDate>Wed, 12 Aug 2026 19:27:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/d8/0b/d80b20bcaee821255bad3169ace0a71b.m4a?auth_key=1795292084-7tZtCXUt-0-7288f45161969642c53a7cfecf5ab037" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/d8/0b/d80b20bcaee821255bad3169ace0a71b.m4a?auth_key=1795380927-DBtde0Md-0-9198ee5704a0f5372438aa3fcf564181" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsM9w2a</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260811期：赢在规划|高中选科</description>
       <guid isPermaLink="false">ttfm-OowlsNzE7a</guid>
       <pubDate>Tue, 11 Aug 2026 19:27:41 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/38/52/3852e029ae80db3017f8de2f0cc25f7c.m4a?auth_key=1795292084-lj81jTl7-0-bfb29f4b41ee76df3e10666dc276b849" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/38/52/3852e029ae80db3017f8de2f0cc25f7c.m4a?auth_key=1795380927-1H68XEMz-0-7d67b5201e1fc066ba233619bfd06eef" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsNzE7a</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260810期：戏韵传文脉 美育润心灵</description>
       <guid isPermaLink="false">ttfm-7oZbs9nV4o</guid>
       <pubDate>Mon, 10 Aug 2026 19:27:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/40/e7/40e70fb2ce842f76a1932d13f344ac8b.m4a?auth_key=1795292084-wIzBgQ7l-0-976377490438eb39d535a0638c7c55bf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/40/e7/40e70fb2ce842f76a1932d13f344ac8b.m4a?auth_key=1795380927-y7rb0f9c-0-9f68f2cae695b0ea8eec01a2d230779b" type="audio/mp4" length="0"/>
       <itunes:duration>01:30:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbs9nV4o</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260809期：赢在规划 | 启航：新学年暑假黄金期如何抢占先机【重播版】</description>
       <guid isPermaLink="false">ttfm-ydkvsG9leJ</guid>
       <pubDate>Sun, 09 Aug 2026 19:26:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/a3/3e/a33edc2eb5794595a024d8410c05085a.m4a?auth_key=1795292084-Icv687BP-0-452a9caca5c3ce03d7fd75283c3d6139" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/a3/3e/a33edc2eb5794595a024d8410c05085a.m4a?auth_key=1795380927-FQ1yMK9d-0-13709dd7c8369a9e66dfb9f00dcd0d19" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsG9leJ</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260808期：精编重播-高分之外的抉择：一个少年的“第二次呼吸”</description>
       <guid isPermaLink="false">ttfm-5aOXsy4lOJ</guid>
       <pubDate>Sat, 08 Aug 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/09/14/0914ca9cb8f2d2885b9e544781072b51.m4a?auth_key=1795292084-Fsw9XDp8-0-bdf89d7c2f4eacaa6dfd659b9b978467" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/09/14/0914ca9cb8f2d2885b9e544781072b51.m4a?auth_key=1795380927-Ss9Oltkz-0-8bf12b6b656ba77aeefc53adfa2d04c5" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy4lOJ</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260807期：探访100个别人家的孩子——八十中徐畅：向内生长的坚韧者</description>
       <guid isPermaLink="false">ttfm-4o6QsDqP5d</guid>
       <pubDate>Fri, 07 Aug 2026 19:27:38 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/9a/6a/9a6ac916c1b39d45fa59579b2f0a77b2.m4a?auth_key=1795292084-2r4NyDi8-0-49ea5e1b4151a1175c1e68a72b38ef80" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/9a/6a/9a6ac916c1b39d45fa59579b2f0a77b2.m4a?auth_key=1795380927-3VzdbhcO-0-308908e4418603f91dcea237228b0216" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6QsDqP5d</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260806期：赢在规划系列节目 | 从“双菲”看选科智慧：高中如何选科</description>
       <guid isPermaLink="false">ttfm-Vob5sZ9Bed</guid>
       <pubDate>Thu, 06 Aug 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/d0/2b/d02b2b981070e24207569fcf5136304b.m4a?auth_key=1795292084-GQrsC0TN-0-2933916aea304d40763c198b27e67ea1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/d0/2b/d02b2b981070e24207569fcf5136304b.m4a?auth_key=1795380927-579iXQHz-0-e548178fb87e97bdd4486dd410bdedfe" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sZ9Bed</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260805期：告别假期“鸡飞狗跳”，开启家庭“内在力量”</description>
       <guid isPermaLink="false">ttfm-Oo5psBRV2d</guid>
       <pubDate>Wed, 05 Aug 2026 19:27:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/65/62/65627758630c55b8e4ba0d9390f12ff6.m4a?auth_key=1795292084-ixblHHpG-0-fc0bd4e5aa3621e10f6c96a50357ab6f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0805/65/62/65627758630c55b8e4ba0d9390f12ff6.m4a?auth_key=1795380927-VozrcVmd-0-87e19502bfc525485ac956c9079a0868" type="audio/mp4" length="0"/>
       <itunes:duration>01:29:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psBRV2d</link>
-    </item>
-    <item>
-      <title>20260804期：探访100个别人家的孩子 北京五中李宗桓</title>
-      <description>20260804期：探访100个别人家的孩子 北京五中李宗桓</description>
-      <guid isPermaLink="false">ttfm-ZJ3esNVRNo</guid>
-      <pubDate>Tue, 04 Aug 2026 19:27:37 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0804/ac/72/ac72d5b120bb2fc6dfdd765aa9842502.m4a?auth_key=1795292084-vK7xuS72-0-8c02971a86e3b6d066702739a4a4415c" type="audio/mp4" length="0"/>
-      <itunes:duration>01:30:08</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNVRNo</link>
     </item>
   </channel>
 </rss>
