@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京交通广播FM103.9</itunes:name></itunes:owner>
-    <lastBuildDate>Sat, 14 Nov 2026 04:41:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:51:14 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261114期：玻璃膜的隔热有衰减吗？</title>
+      <description>20261114期：玻璃膜的隔热有衰减吗？</description>
+      <guid isPermaLink="false">ttfm-6oDvsB9xyJ</guid>
+      <pubDate>Sat, 14 Nov 2026 15:13:48 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1114/fb/fc/fbfcea3c62f0c9c396aa5118b63da2b7.m4a?auth_key=1795506673-YTn5xp1Y-0-13c64593620b63905db9c51be0df2d5f" type="audio/mp4" length="0"/>
+      <itunes:duration>01:00:05</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsB9xyJ</link>
+    </item>
     <item>
       <title>20261113期：上汽奥迪的车机更新要多久？</title>
       <description>20261113期：上汽奥迪的车机更新要多久？</description>
       <guid isPermaLink="false">ttfm-xJvKsbPyYd</guid>
       <pubDate>Fri, 13 Nov 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1113/2e/c0/2ec0083953105a3fd971f8173b8ecb99.m4a?auth_key=1795466471-aDSqo8Zt-0-353f01e1eef3030d35283fbba92b65f3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1113/2e/c0/2ec0083953105a3fd971f8173b8ecb99.m4a?auth_key=1795506673-oTPSMd6u-0-7c02e1b72305d9446cbb96acab93d9a3" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbPyYd</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261112期：退保必须要去线下营业厅吗？</description>
       <guid isPermaLink="false">ttfm-pdpvsGO8Ea</guid>
       <pubDate>Thu, 12 Nov 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1112/27/04/27046e16a36a3578206b335c95d6225d.m4a?auth_key=1795466471-oxYT85QY-0-f5f9cfc9c139b5e7be58954d013135c8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1112/27/04/27046e16a36a3578206b335c95d6225d.m4a?auth_key=1795506673-y1w7zXS8-0-04b35dffd96ba3409cb17ea07d44fc3e" type="audio/mp4" length="0"/>
       <itunes:duration>00:58:18</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGO8Ea</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261111期：进口大众的变速箱油多久更换？</description>
       <guid isPermaLink="false">ttfm-kdjgsjgxlo</guid>
       <pubDate>Wed, 11 Nov 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/c1/02/c102c85195c6c5decee6daf462e52009.m4a?auth_key=1795466471-Sa22c1rh-0-3f4906817627836f0e7f95140085cbb4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/c1/02/c102c85195c6c5decee6daf462e52009.m4a?auth_key=1795506673-JRuiM4SH-0-fa20161fe538cef18ed167726bbc482a" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjgxlo</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261110期：70岁以后是每年都要体检证明吗?</description>
       <guid isPermaLink="false">ttfm-OdPXsz8ZRd</guid>
       <pubDate>Tue, 10 Nov 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/5d/eb/5deb930a83ca97b18fab7d793d5db10b.m4a?auth_key=1795466471-3HZuovUw-0-bf1458c684a5e710502233256c15fa9a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/5d/eb/5deb930a83ca97b18fab7d793d5db10b.m4a?auth_key=1795506673-js64jLCp-0-bc1c6058bd749c9be05b240b818dba46" type="audio/mp4" length="0"/>
       <itunes:duration>01:02:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXsz8ZRd</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261109期：格瑞维亚的后排电视能投屏吗？</description>
       <guid isPermaLink="false">ttfm-0dGMsnX7ja</guid>
       <pubDate>Mon, 09 Nov 2026 15:13:03 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/25/9b/259bd220f75ffbdedf44f6b6b3fd8328.m4a?auth_key=1795466471-renj0GLJ-0-8fe903430a41d6cddd194b362c718215" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/25/9b/259bd220f75ffbdedf44f6b6b3fd8328.m4a?auth_key=1795506673-xABrYZts-0-b26c78ce129dbe0c014be2ec9fe2a126" type="audio/mp4" length="0"/>
       <itunes:duration>00:57:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnX7ja</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261108期：双层玻璃怎样更换？</description>
       <guid isPermaLink="false">ttfm-raEvsAXbXJ</guid>
       <pubDate>Sun, 08 Nov 2026 15:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/49/9c/499cecb4b8788eb3c592d66bedf4ef0b.m4a?auth_key=1795466471-RH9JQwjm-0-c76026cb2cfe381c6e4fc4a863ed7878" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/49/9c/499cecb4b8788eb3c592d66bedf4ef0b.m4a?auth_key=1795506673-q3twMbqd-0-561bab7bf80e0c1dcad8d81677f7fb88" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAXbXJ</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261107期：车内顶棚能用蒸汽清洗吗？</description>
       <guid isPermaLink="false">ttfm-6JW8s21vWd</guid>
       <pubDate>Sat, 07 Nov 2026 15:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/7c/39/7c390bd173f4e01ef566e8ca3907ca88.m4a?auth_key=1795466471-GfOzTzOl-0-8c544c643655a75d002564bf5100ea0b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/7c/39/7c390bd173f4e01ef566e8ca3907ca88.m4a?auth_key=1795506673-PBpFvLoa-0-e8907a314e51263df7a681da64b60584" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s21vWd</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261106期：上汽奥迪的电车最长续航？</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPD6Lo</guid>
       <pubDate>Fri, 06 Nov 2026 15:13:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/ba/bb/babbd67ac22ca54c856e33f54f95bc83.m4a?auth_key=1795466471-vzhU93VQ-0-f2a710461c71a031b095c3a64b4deced" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/ba/bb/babbd67ac22ca54c856e33f54f95bc83.m4a?auth_key=1795506673-tepi5pcR-0-d612b2c38bda82aa2c9932d9e586a53e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:03</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPD6Lo</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261105期：保险断保几天，折扣就没有了？</description>
       <guid isPermaLink="false">ttfm-9onZsWL4Wo</guid>
       <pubDate>Thu, 05 Nov 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/3c/dd/3cdd3c6863587003af7156f573e322d3.m4a?auth_key=1795466471-uWJf0YD1-0-26d1f87676ed0b5bf55e1329a1808662" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/3c/dd/3cdd3c6863587003af7156f573e322d3.m4a?auth_key=1795506673-CXkukTMm-0-03e372f415e0c7320285e609b7596cee" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWL4Wo</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261104期：奥迪后风挡加热丝断裂能补吗？</description>
       <guid isPermaLink="false">ttfm-qaN0swmRzd</guid>
       <pubDate>Wed, 04 Nov 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/46/40/4640f3d8f4b7a9b5e017c3b729177f1c.m4a?auth_key=1795466471-GbQa2vnv-0-8b6da6b13b662dad0b823144e756f162" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/46/40/4640f3d8f4b7a9b5e017c3b729177f1c.m4a?auth_key=1795506673-t27XQjRY-0-ea9296b69575e6bb36aabeea1a5f12cf" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swmRzd</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261103期：奶奶的指标可以给孙子吗？</description>
       <guid isPermaLink="false">ttfm-kdjgsjg9Go</guid>
       <pubDate>Tue, 03 Nov 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/4b/60/4b60989d6ca21b016dcf508c35511f36.m4a?auth_key=1795466471-0rULvwp2-0-b04dc39293fd3fa3a2d15c8040d9fb09" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/4b/60/4b60989d6ca21b016dcf508c35511f36.m4a?auth_key=1795506673-EnE3MIz8-0-4c0570a55c2420fc7a27d95c75f4e5bc" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjg9Go</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261102期：霸道的差速器油更换周期？</description>
       <guid isPermaLink="false">ttfm-ydkvsPN3VJ</guid>
       <pubDate>Mon, 02 Nov 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/0d/b5/0db599d76f91bbb97fccabb634ee33aa.m4a?auth_key=1795466471-pWhnRpdM-0-44d2bbda491f9b05ff1e4c6efd4a6d2d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/0d/b5/0db599d76f91bbb97fccabb634ee33aa.m4a?auth_key=1795506673-OcOrxKmY-0-1aea6e1a452a79e94e44eca7a3650bb9" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPN3VJ</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261101期：大众的防冻液多久更换一次？</description>
       <guid isPermaLink="false">ttfm-0dGMsnXzEa</guid>
       <pubDate>Sun, 01 Nov 2026 15:13:45 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/9a/95/9a952ca1cc45961640d918f1a3016daa.m4a?auth_key=1795466471-g62zApCC-0-c476a29b868c664922b1614abe0a2c58" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/9a/95/9a952ca1cc45961640d918f1a3016daa.m4a?auth_key=1795506673-hgQH38XD-0-23df9fb8740a560564988f3f76fb5687" type="audio/mp4" length="0"/>
       <itunes:duration>00:58:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnXzEa</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261031期：天窗能贴膜吗？</description>
       <guid isPermaLink="false">ttfm-4o6Qs9qBVd</guid>
       <pubDate>Sat, 31 Oct 2026 15:13:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/da/68/da68a9e8de217d2aeed71970f3e0474d.m4a?auth_key=1795466471-qAgEZbSI-0-dbad12150b638d40ce042147800454f2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/da/68/da68a9e8de217d2aeed71970f3e0474d.m4a?auth_key=1795506673-BUaS3ivh-0-6f3a5b89ad0950b127c5233b3c293d45" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9qBVd</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261030期：红旗天工系的车机多久升级一次？</description>
       <guid isPermaLink="false">ttfm-6JW8s2Mjwd</guid>
       <pubDate>Fri, 30 Oct 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/4a/81/4a81571bb90fb0ead76d10a4a49fc5cb.m4a?auth_key=1795466471-kACZT1D6-0-d8e94c18ff350f07be41fed0fc8efb1c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/4a/81/4a81571bb90fb0ead76d10a4a49fc5cb.m4a?auth_key=1795506673-0bIl7pOo-0-804ba101815986392148681b3b3edcd7" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2Mjwd</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261029期：外地保险能在北京理赔吗？</description>
       <guid isPermaLink="false">ttfm-ZdRjs8lV2d</guid>
       <pubDate>Thu, 29 Oct 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/ed/58/ed58cca1138b989bf6be4fe0d487d35d.m4a?auth_key=1795466471-n92QKus0-0-e5a96fd08e86ca1b36a9102458217cd2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/ed/58/ed58cca1138b989bf6be4fe0d487d35d.m4a?auth_key=1795506673-8xYRCkHh-0-95b7abad18b826f8fb3ea49b4ad578bc" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8lV2d</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261028期：奥迪车门多少钱一个？</description>
       <guid isPermaLink="false">ttfm-vdz8sOrLla</guid>
       <pubDate>Wed, 28 Oct 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/98/18/981846b8b9501e5f97a709043eb93a9e.m4a?auth_key=1795466471-qtSQchhq-0-1d16943bf3d10887721902283211fdf5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/98/18/981846b8b9501e5f97a709043eb93a9e.m4a?auth_key=1795506673-HSZ2OX79-0-5c9c6c35386f386fe266e1a4e7e40c21" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOrLla</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261027期：车牌补领必须要本人到场吗？</description>
       <guid isPermaLink="false">ttfm-YdY3sxqbQa</guid>
       <pubDate>Tue, 27 Oct 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/9f/38/9f38650d4d546a11e14b4163c448ec80.m4a?auth_key=1795466471-gLeKSac7-0-ca173b72ba4e827b44a59fb225099b00" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/9f/38/9f38650d4d546a11e14b4163c448ec80.m4a?auth_key=1795506673-0kKwN53n-0-523f95604a987b16091c3e164649463c" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxqbQa</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261026期：丰田车的保养周期是多少天？</description>
       <guid isPermaLink="false">ttfm-QJgAsY0Nbo</guid>
       <pubDate>Mon, 26 Oct 2026 15:13:24 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/cf/17/cf17e353151609de41a7a275e1dd4de1.m4a?auth_key=1795466471-VMC5TvQH-0-74f1d01b0c1c9c2f85261be086f8b256" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/cf/17/cf17e353151609de41a7a275e1dd4de1.m4a?auth_key=1795506673-EsOkDe2J-0-b45eac3e9349709676d360b89fdbcd96" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsY0Nbo</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261025期：新能源车为什么不能再外面修理？</description>
       <guid isPermaLink="false">ttfm-PJQvsWNxRd</guid>
       <pubDate>Sun, 25 Oct 2026 15:13:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/af/21/af218d2e83b2936fa92fc8be9af65243.m4a?auth_key=1795466471-ojGTwukW-0-db5ccdfb010e22ddaa6ca5b375e7835d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/af/21/af218d2e83b2936fa92fc8be9af65243.m4a?auth_key=1795506673-KKweHOX4-0-aa5f8bc885317910cf433497b6572df1" type="audio/mp4" length="0"/>
       <itunes:duration>00:57:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWNxRd</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261024期：玻璃膜的透光性怎么才能检测？</description>
       <guid isPermaLink="false">ttfm-5aOXs14xYJ</guid>
       <pubDate>Sat, 24 Oct 2026 15:13:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/25/35/2535096ec6a0b1e8318c324f8df761a2.m4a?auth_key=1795466471-6DWMGJaE-0-7d1b947ee25c2beeeb401051f34f821d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/25/35/2535096ec6a0b1e8318c324f8df761a2.m4a?auth_key=1795506673-UaeNGGka-0-25e4c78c94634406107dbf6039d1f2bf" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs14xYJ</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261023期：大灯的寿命取决于什么？</description>
       <guid isPermaLink="false">ttfm-ea8Rsg37gd</guid>
       <pubDate>Fri, 23 Oct 2026 15:13:03 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/46/8a/468a1bf3c0b446dcbb8eaffba7afd677.m4a?auth_key=1795466471-SYyRAGae-0-7fa6430e1a81d90272349cc6ab1a867d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/46/8a/468a1bf3c0b446dcbb8eaffba7afd677.m4a?auth_key=1795506673-NGc4WiLW-0-67db2457912d5c270cfc2d8fcb5ec46a" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsg37gd</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261022期：交强险的医保赔偿范围？</description>
       <guid isPermaLink="false">ttfm-3aMvs1AvNJ</guid>
       <pubDate>Thu, 22 Oct 2026 15:12:33 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/7c/1e/7c1ed47bd775977a7352f4ced74c95c9.m4a?auth_key=1795466471-VVND0UVc-0-c58d8e73f8ab5474cc70e6ae3acf9ee0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/7c/1e/7c1ed47bd775977a7352f4ced74c95c9.m4a?auth_key=1795506673-7kD5qvGt-0-bcd20794682fc0c572b1642edf3a9cba" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs1AvNJ</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261021期：天气凉了，汽车还会自燃吗？</description>
       <guid isPermaLink="false">ttfm-vdz8sOrPza</guid>
       <pubDate>Wed, 21 Oct 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/87/db/87db7d0d7d6b9b281f1482ed50eaecdd.m4a?auth_key=1795466471-6MmDXeEp-0-ba15a5431efe55330e2c629774c3a64d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/87/db/87db7d0d7d6b9b281f1482ed50eaecdd.m4a?auth_key=1795506673-8XHxkfbs-0-dcadcbb42d5b8aeb3d59023a5a4e7f7b" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOrPza</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261020期：新车的临时牌照应该哪里办理？</description>
       <guid isPermaLink="false">ttfm-ZJ3esKVlpo</guid>
       <pubDate>Tue, 20 Oct 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/21/55/215567a0e44802852ffa52ec9d1f187c.m4a?auth_key=1795466471-dZvNZu1t-0-58b482d1e608a367aa3b99c7ec0c6fad" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/21/55/215567a0e44802852ffa52ec9d1f187c.m4a?auth_key=1795506673-haZ9gMuZ-0-31be5e661d0de9536ea68328f9d69b19" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKVlpo</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261019期：油车怎么选才能适合自己？</description>
       <guid isPermaLink="false">ttfm-qaN0sw1jkd</guid>
       <pubDate>Mon, 19 Oct 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/8a/c3/8ac37dc23faadff2687b7a197db4ad90.m4a?auth_key=1795466471-dEVzUkLw-0-228fa83481797e52c0ecb3b38e197852" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/8a/c3/8ac37dc23faadff2687b7a197db4ad90.m4a?auth_key=1795506673-iVevdje9-0-236b6d20530a3ef93c46533c6fc6cf28" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sw1jkd</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261018期：四轮定位的数据，怎么样才是标准的？</description>
       <guid isPermaLink="false">ttfm-kdjgsjweDo</guid>
       <pubDate>Sun, 18 Oct 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/05/42/05423f0397567f11c35f899cdd51ab92.m4a?auth_key=1795466471-7WRXC0rz-0-4dfb7e7144067e7455985f3bb0f80145" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/05/42/05423f0397567f11c35f899cdd51ab92.m4a?auth_key=1795506673-4WaS9GTx-0-f40ea6c2295b79dbab5e88d62712ebcc" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjweDo</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261017期：老车的玻璃膜多久需要更换？</description>
       <guid isPermaLink="false">ttfm-ZoAws1Mj4J</guid>
       <pubDate>Sat, 17 Oct 2026 15:13:26 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/cc/bf/ccbf6f4a81467888dd720d0133c3732c.m4a?auth_key=1795466471-p6KEe3AF-0-de2a7f89717542798d65013235eb996a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/cc/bf/ccbf6f4a81467888dd720d0133c3732c.m4a?auth_key=1795506673-hYUalZ5g-0-8cb51f1288b23aabe5845589253aa214" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws1Mj4J</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261016期：EA888发动机是更省油吗？</description>
       <guid isPermaLink="false">ttfm-pdpvsGbvBa</guid>
       <pubDate>Fri, 16 Oct 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/f8/a0/f8a034e3ae527d0808e2fe88c8aa848a.m4a?auth_key=1795466471-S3k40LBA-0-b862bd8581c346edba88daf79c854f7b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/f8/a0/f8a034e3ae527d0808e2fe88c8aa848a.m4a?auth_key=1795506673-ZFWqzb5R-0-00eced60e5d2fcfb7d58a146aafa616a" type="audio/mp4" length="0"/>
       <itunes:duration>00:57:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGbvBa</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261015期：车险断保，会影响后面的保险吗</description>
       <guid isPermaLink="false">ttfm-9onZsWr6Vo</guid>
       <pubDate>Thu, 15 Oct 2026 15:12:31 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/f9/53/f953f21d33bfdf639d9ca8a2943a9acd.m4a?auth_key=1795466471-CiF5sXTE-0-a7660627c0c64727bec7463fb2442b41" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/f9/53/f953f21d33bfdf639d9ca8a2943a9acd.m4a?auth_key=1795506673-C3nD2kQ1-0-2facf347d9bf978656191f56f1e4f08d" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWr6Vo</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261014期：汽车的脚垫怎么选才能满足相关功能？</description>
       <guid isPermaLink="false">ttfm-QJgAsYl35o</guid>
       <pubDate>Wed, 14 Oct 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/d2/aa/d2aa7b6332bdd7b04afd3af0cb8736a3.m4a?auth_key=1795466471-8iLdQoWv-0-46c5e5f8dc9bb3cc2815fdcef2d03851" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/d2/aa/d2aa7b6332bdd7b04afd3af0cb8736a3.m4a?auth_key=1795506673-DC88FACw-0-650775996530ba276390a2a21d5e0f6f" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYl35o</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261013期：小客车变更的公证有指定的公证处吗？</description>
       <guid isPermaLink="false">ttfm-MJmvse5Opd</guid>
       <pubDate>Tue, 13 Oct 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/73/1f/731f8aa813047d9ed55b7a17bc85e7a4.m4a?auth_key=1795466471-yPZFlTKQ-0-8e75b8d91973c1ce044f320e5640ae25" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/73/1f/731f8aa813047d9ed55b7a17bc85e7a4.m4a?auth_key=1795506673-T7EeoLJk-0-df098256d7da114355975f5ad07fcee1" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvse5Opd</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261012期：荣放的四驱和两驱车有什么区别？</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6w11d</guid>
       <pubDate>Mon, 12 Oct 2026 15:12:33 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/99/a0/99a082c2dfe87d18b6ce4a809cd59cef.m4a?auth_key=1795466471-3FAvIqyJ-0-15e35a36c1e81d582a6054a50378156f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/99/a0/99a082c2dfe87d18b6ce4a809cd59cef.m4a?auth_key=1795506673-zmuz4GhR-0-e773776b77e0ce32eac8fafca66189a2" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6w11d</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20261011期：在用车的轮胎怎样检查是否偏磨？</description>
       <guid isPermaLink="false">ttfm-Vob5sYmr7d</guid>
       <pubDate>Sun, 11 Oct 2026 15:13:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/56/3c/563c7bb728c4414e64abad8cbbfca291.m4a?auth_key=1795466471-mgde1NXE-0-d1170b6bd051c77843e3208bedcf9ec7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/56/3c/563c7bb728c4414e64abad8cbbfca291.m4a?auth_key=1795506673-5gIw6Oo1-0-ad49ae236c465f1e4eb322f3916302d4" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYmr7d</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20261010期：汽车玻璃膜能防止晒黑吗？</description>
       <guid isPermaLink="false">ttfm-Oo5psr6pEd</guid>
       <pubDate>Sat, 10 Oct 2026 15:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/82/7b/827bd47895ac87123d1a29a3b5d38857.m4a?auth_key=1795466471-tXbJSeGz-0-f1d3328b113f8e137d436d38e282dd28" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/82/7b/827bd47895ac87123d1a29a3b5d38857.m4a?auth_key=1795506673-SJkZ3Oqb-0-063ebbd613e79eb6e1cb1c2d2996e716" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr6pEd</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20261009期：奥迪新油车，哪些是带智能驾驶的？</description>
       <guid isPermaLink="false">ttfm-VJLvspwpzo</guid>
       <pubDate>Fri, 09 Oct 2026 15:12:58 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/38/08/3808ddd2cda804609d6e0de2d24dca72.m4a?auth_key=1795466471-ehiXzSKb-0-c1427e2d18a7db2b6926144504df4ecf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/38/08/3808ddd2cda804609d6e0de2d24dca72.m4a?auth_key=1795506673-4jyZ9FLD-0-87005532ec5922127289356f4aa95440" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspwpzo</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20261008期：保险的免费服务会随时变化吗？</description>
       <guid isPermaLink="false">ttfm-4o6Qs9MeWd</guid>
       <pubDate>Thu, 08 Oct 2026 15:13:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/d5/df/d5dfde9a80c4286cff37581e656a638d.m4a?auth_key=1795466471-Fq66BH2J-0-20ff229e2cbffc42ccb1e24f4898aa95" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/d5/df/d5dfde9a80c4286cff37581e656a638d.m4a?auth_key=1795506673-8WWl50yQ-0-b2f454744763a0370938e456284bff4c" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9MeWd</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20261007期：四缸车更换机油到底是多少升？</description>
       <guid isPermaLink="false">ttfm-6JW8s2Yyzd</guid>
       <pubDate>Wed, 07 Oct 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/10/07/1007599dfa6315288bf5fa63feb5d121.m4a?auth_key=1795466471-3pyVn6I7-0-b501db50ce8ad5e6444a3d34ab09fbfa" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/10/07/1007599dfa6315288bf5fa63feb5d121.m4a?auth_key=1795506673-wJUW4KLX-0-370953a1777be63c768155e744953034" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2Yyzd</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20261006期：新车的临时牌照去哪里办理？</description>
       <guid isPermaLink="false">ttfm-ZdRjs8yNpd</guid>
       <pubDate>Tue, 06 Oct 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/ec/1d/ec1d4de82ae29c0c127dd12d60c27f31.m4a?auth_key=1795466471-2kFMAnC6-0-d0eaffa92b98b2bb81d48e476d2f7b69" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/ec/1d/ec1d4de82ae29c0c127dd12d60c27f31.m4a?auth_key=1795506673-p5YCgcCr-0-dcb88d3f65416b06430c52f18114a1b6" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8yNpd</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20261005期：四驱车的维修会比两驱的贵吗？</description>
       <guid isPermaLink="false">ttfm-3aMvs11m2J</guid>
       <pubDate>Mon, 05 Oct 2026 15:13:02 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/9a/c3/9ac392bbc2d77d592d4693982d33eaba.m4a?auth_key=1795466471-ZXGdWueR-0-71a0c64b7fb781c74d53a32c10d120dc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/9a/c3/9ac392bbc2d77d592d4693982d33eaba.m4a?auth_key=1795506673-cwKJ6hB2-0-afb16d4adf9554e451040ee2c433bb83" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs11m2J</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20261004期：平时怎么检测轮胎偏磨？</description>
       <guid isPermaLink="false">ttfm-ydkvsPPR3J</guid>
       <pubDate>Sun, 04 Oct 2026 15:12:49 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/54/84/54847a1fed34260cefdde6ae3d51990c.m4a?auth_key=1795466471-zWTCY5yr-0-d03718d53112c032d85e586921373756" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/54/84/54847a1fed34260cefdde6ae3d51990c.m4a?auth_key=1795506673-TGJtjPFl-0-fb43929ba8f274b08e63606207da2057" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPPR3J</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20261003期：时间长了，玻璃膜会衰减吗？</description>
       <guid isPermaLink="false">ttfm-vdz8sOOBpa</guid>
       <pubDate>Sat, 03 Oct 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/b7/25/b725b08c902ee5bcf7a72f21988d4e12.m4a?auth_key=1795466471-A2NK8xli-0-bde5133ee9e3c37da067402a653edd5a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/b7/25/b725b08c902ee5bcf7a72f21988d4e12.m4a?auth_key=1795506673-9sJEIKvA-0-7645bad6974381f46620e49c0670a96a" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOOBpa</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20261002期：车灯的寿命取决于什么因素？</description>
       <guid isPermaLink="false">ttfm-4o6Qs99Erd</guid>
       <pubDate>Fri, 02 Oct 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/0e/c0/0ec0c7c7d8a4772754600f6a18f3f31e.m4a?auth_key=1795466471-rFhM8m0r-0-ea0cf4ae209b7ca343914e48d8fd984b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/0e/c0/0ec0c7c7d8a4772754600f6a18f3f31e.m4a?auth_key=1795506673-7cYNfuWn-0-fc8c216285df703bce3900727c1ea782" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:23</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs99Erd</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20261001期：外地发生事故可以在当地维修吗？</description>
       <guid isPermaLink="false">ttfm-6JW8s22O6d</guid>
       <pubDate>Thu, 01 Oct 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/73/b7/73b713f4001fba8033c3867c438da7af.m4a?auth_key=1795466471-cp3mCEJQ-0-40185a3bd6f45a57772bb5c716c2483f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/73/b7/73b713f4001fba8033c3867c438da7af.m4a?auth_key=1795506673-fxjqdLOR-0-a6ef9939ba777bed07d86946d64e8ac2" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s22O6d</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20260930期：奥迪车的底盘胶套能单独更换？</description>
       <guid isPermaLink="false">ttfm-ZdRjs887Gd</guid>
       <pubDate>Wed, 30 Sep 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/59/13/59133863d607d330c6b89f9ae75c5be9.m4a?auth_key=1795466471-J7IPh10S-0-5781b0b9f68cb581a4476bdc3fd951ab" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/59/13/59133863d607d330c6b89f9ae75c5be9.m4a?auth_key=1795506673-SjpQcGim-0-5e44956cc1e8f5ef49535992773b0362" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs887Gd</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20260929期：沃尔沃XC40是要上新款吗？</description>
       <guid isPermaLink="false">ttfm-0dGMsnnb0a</guid>
       <pubDate>Tue, 29 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/c5/78/c5786ce0621affce89cb263b8111970e.m4a?auth_key=1795466471-shD6boqc-0-43ea2dfd5968dde7ad58d27f8a960ed5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/c5/78/c5786ce0621affce89cb263b8111970e.m4a?auth_key=1795506673-Xr2698Xs-0-ec560b940a9da33798073905936327c2" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:24</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnnb0a</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20260928期：混动的MPV综合续航能多少公里？</description>
       <guid isPermaLink="false">ttfm-PorqsvvxKd</guid>
       <pubDate>Mon, 28 Sep 2026 15:13:05 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/86/85/868576c7f02f3bbcb6ef30d91d26fa5f.m4a?auth_key=1795466471-9ZQNfgwm-0-a24a414fdf1eee13ccaebbaf154922b9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/86/85/868576c7f02f3bbcb6ef30d91d26fa5f.m4a?auth_key=1795506673-9Bz1tlly-0-dcab71b186b277b00a78748739ac5d54" type="audio/mp4" length="0"/>
       <itunes:duration>00:58:40</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsvvxKd</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20260927期：燃烧室的积碳应该如何清理</description>
       <guid isPermaLink="false">ttfm-eoxBsOOk5J</guid>
       <pubDate>Sun, 27 Sep 2026 15:13:48 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/b8/a7/b8a7fc25ab96abf73175590b5dfc510b.m4a?auth_key=1795466471-HT7vRfwU-0-7ba7aab5eb1ea976f603c1a9272a2e69" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/b8/a7/b8a7fc25ab96abf73175590b5dfc510b.m4a?auth_key=1795506673-T8jZ8i9O-0-0722bc2fea78609b8e0eb2d2972c8518" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBsOOk5J</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260926期：清洗内饰的药液是酸性还是碱性？</description>
       <guid isPermaLink="false">ttfm-PJQvsWW02d</guid>
       <pubDate>Sat, 26 Sep 2026 15:13:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/a8/34/a83420a1fb045a31f1a88befdbd886b3.m4a?auth_key=1795466471-9QhGx16w-0-047bcdd72d42995989358966f89a7485" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/a8/34/a83420a1fb045a31f1a88befdbd886b3.m4a?auth_key=1795506673-gsElDlL9-0-c799e1ce175fe2b8c9335ff93247b084" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:08</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWW02d</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260925期：大众车的尾灯都是LED的吗？</description>
       <guid isPermaLink="false">ttfm-OdPXszzppd</guid>
       <pubDate>Fri, 25 Sep 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/62/21/6221fe100f973fa2faba4ec603feb3bb.m4a?auth_key=1795466471-EWWKk09r-0-275ba9dc1c1b1c8e23a6d779d95b805c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/62/21/6221fe100f973fa2faba4ec603feb3bb.m4a?auth_key=1795506673-gj4dYrur-0-87f1211d5f6cb2df74c3847bf4ee595e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:09</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszzppd</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260924期：和外地车碰撞，必须得叫交警吗？</description>
       <guid isPermaLink="false">ttfm-ea8RsggmXd</guid>
       <pubDate>Thu, 24 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/ef/47/ef47745fcc5e0188fa01f01b8a0a205e.m4a?auth_key=1795466471-42trl7v3-0-cf3fb908e7f4228ae508da87e525be13" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/ef/47/ef47745fcc5e0188fa01f01b8a0a205e.m4a?auth_key=1795506673-2Z78c4c5-0-8cb38147adb3f846c28b045eff446618" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsggmXd</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260923期：天窗一般多久清洗一次？</description>
       <guid isPermaLink="false">ttfm-Vob5sYYQBd</guid>
       <pubDate>Wed, 23 Sep 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/08/cd/08cd86fe245a66dd5f103f56a5e2d8ca.m4a?auth_key=1795466471-y3NLT5B8-0-ab155f73143e645d971f8f30e65eef91" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/08/cd/08cd86fe245a66dd5f103f56a5e2d8ca.m4a?auth_key=1795506673-cyJIw2fi-0-2a5e6eb8d3a53a9dbcb722052e8518b6" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:10</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYYQBd</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260922期：沃尔沃新电车都是电车制造平台吗？</description>
       <guid isPermaLink="false">ttfm-Oo5psrrWYd</guid>
       <pubDate>Tue, 22 Sep 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/86/aa/86aafb9da26b4d3c72cb81718b61fd87.m4a?auth_key=1795466471-gEXeKLMs-0-c2cdc92df1ca683bd184a619ad117b0a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/86/aa/86aafb9da26b4d3c72cb81718b61fd87.m4a?auth_key=1795506673-rUfv7X7V-0-4039cdc977a707df194709dfb6ae7aff" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrrWYd</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260921期：钥匙被洗衣机洗了还能用吗？</description>
       <guid isPermaLink="false">ttfm-goqZsG1Xra</guid>
       <pubDate>Mon, 21 Sep 2026 15:13:01 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/9b/96/9b961bcdfc0ba75eb744f37a4a4b7979.m4a?auth_key=1795466471-OvH4GQvK-0-1d8b2a357b3a8ce72e7ffe23d4266162" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/9b/96/9b961bcdfc0ba75eb744f37a4a4b7979.m4a?auth_key=1795506673-N4qARwy6-0-227287876a30529643c16f1da497090f" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsG1Xra</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260920期：油性防冻液更换得清洗几次？</description>
       <guid isPermaLink="false">ttfm-YdY3sx3Rja</guid>
       <pubDate>Sun, 20 Sep 2026 15:12:50 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/48/a2/48a28dfa61e0fdeee5e0caccd677f181.m4a?auth_key=1795466471-bO8QrXxg-0-85a6f192a7d66458835be764b43e4d17" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/48/a2/48a28dfa61e0fdeee5e0caccd677f181.m4a?auth_key=1795506673-Prn1mZDJ-0-59f046a071bb1773c9159d7d1dd53993" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sx3Rja</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260919期：车内饰大概多久清洗一次？</description>
       <guid isPermaLink="false">ttfm-7oZbsW9Glo</guid>
       <pubDate>Sat, 19 Sep 2026 15:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/b0/ee/b0eecd24dfa5dd4992b7ea19199c37c7.m4a?auth_key=1795466471-dOJ70Mbr-0-18ab1a2e89d8668320d2ff1dc340319e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/b0/ee/b0eecd24dfa5dd4992b7ea19199c37c7.m4a?auth_key=1795506673-miVKwmF3-0-12314cbdc3f92dcbaa7b6292e116e28e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:06</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsW9Glo</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260918期：上汽奥迪所有的车都能自动关门吗？</description>
       <guid isPermaLink="false">ttfm-kdjgsjyp1o</guid>
       <pubDate>Fri, 18 Sep 2026 15:13:03 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/98/68/986883ea5bfe5c4d82b9ca58fc7280a4.m4a?auth_key=1795466471-NIC5lCLK-0-aa4be7b0859d6cea7411ee954c78c636" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/98/68/986883ea5bfe5c4d82b9ca58fc7280a4.m4a?auth_key=1795506673-MWLDGoQR-0-3674ad9062741201e89c4f07636c26ae" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjyp1o</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260917期：交强险理赔，还会涨价吗？</description>
       <guid isPermaLink="false">ttfm-QdBWs0v1Bo</guid>
       <pubDate>Thu, 17 Sep 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/18/3f/183f770c42f1ad5f98a9f297fe393027.m4a?auth_key=1795466471-iQN5okee-0-94d0d2748cf9f85e4ff26738db5728b4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/18/3f/183f770c42f1ad5f98a9f297fe393027.m4a?auth_key=1795506673-lAyPRJp0-0-5d9598509d859fc4af2f6343b1cbb462" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs0v1Bo</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260916期：老车值得整备收藏吗？</description>
       <guid isPermaLink="false">ttfm-zJeWsWB1Bo</guid>
       <pubDate>Wed, 16 Sep 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/b2/74/b274af72dd9379437aad4508139452bc.m4a?auth_key=1795466471-8v11hbov-0-1723d7783f15b4f97f645d453f3d66b9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/b2/74/b274af72dd9379437aad4508139452bc.m4a?auth_key=1795506673-Zxuizhnp-0-1af2f208211a13962d95e71b178c3334" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/zJeWsWB1Bo</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260915期：沃尔沃老车机能更新到最新样本吗？</description>
       <guid isPermaLink="false">ttfm-eaVrsAX5La</guid>
       <pubDate>Tue, 15 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/02/5c/025c2242b2eed4170b9476ffaf2ed52e.m4a?auth_key=1795466471-BBI0QhIh-0-68d0253d247a4aaa58cd2f5e998aaf0c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/02/5c/025c2242b2eed4170b9476ffaf2ed52e.m4a?auth_key=1795506673-qObi9FZk-0-d90a5c52c3bedde9619fb950da267e15" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAX5La</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260914期：丰田车的电池寿命有多久？</description>
       <guid isPermaLink="false">ttfm-gay7s9KEed</guid>
       <pubDate>Mon, 14 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/43/26/4326890e570f14a7d38eec83ae3bd966.m4a?auth_key=1795466471-bK0ftmzP-0-c33d48ed1f5e0e3f814b93f3d9b0d847" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/43/26/4326890e570f14a7d38eec83ae3bd966.m4a?auth_key=1795506673-RDjg8MI0-0-b2d5ee5ccfbae9d7fd5f27ec03adc000" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9KEed</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260913期：火花塞的寿命有多少公里？</description>
       <guid isPermaLink="false">ttfm-0dGMsnM9Ka</guid>
       <pubDate>Sun, 13 Sep 2026 15:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/eb/fb/ebfb00d6b91f418b40dee2eaf02bf427.m4a?auth_key=1795466471-qCHVkMDg-0-06f973b0c864c94f6861cbbbd7a7182c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/eb/fb/ebfb00d6b91f418b40dee2eaf02bf427.m4a?auth_key=1795506673-q5h11nQS-0-27b473c042306da4d55918bf5379468e" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnM9Ka</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260912期：玻璃膜有自己的寿命吗？</description>
       <guid isPermaLink="false">ttfm-MJmvsewwLd</guid>
       <pubDate>Sat, 12 Sep 2026 15:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/c8/2e/c82edc8151e88d32676dfaa7af6af0ff.m4a?auth_key=1795466471-SbyxyNO3-0-7951b16495f7d6463efa4c83280132e3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/c8/2e/c82edc8151e88d32676dfaa7af6af0ff.m4a?auth_key=1795506673-AxHDqbJZ-0-38956b0eb5a4a47bc241d03a9809bf6e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MJmvsewwLd</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260911期：上汽的EX7车门会自动关闭吗？</description>
       <guid isPermaLink="false">ttfm-YdY3sx3ZRa</guid>
       <pubDate>Fri, 11 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/ca/16/ca161ce8e288faa94f89f98234c27012.m4a?auth_key=1795466471-yON6jHs0-0-0db0638bad0887d1b86e197ecb7b907f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/ca/16/ca161ce8e288faa94f89f98234c27012.m4a?auth_key=1795506673-jlKmxW62-0-fc76d5b8fc62804cb32e66030cc39de7" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sx3ZRa</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260910期：交强险的三者最多赔偿多少线？</description>
       <guid isPermaLink="false">ttfm-6oDvsBy4eJ</guid>
       <pubDate>Thu, 10 Sep 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/c5/1c/c51c8a1d7b05278e4a0503c690a2593a.m4a?auth_key=1795466471-hejXQZk8-0-15d6451d73345e9a2ed55508e4091fe5" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/c5/1c/c51c8a1d7b05278e4a0503c690a2593a.m4a?auth_key=1795506673-PV1nIEb8-0-a4ff9e262a01bf6a6ffd911ba5bd9c2a" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsBy4eJ</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260909期：水箱轻微漏水需要更换吗？</description>
       <guid isPermaLink="false">ttfm-goqZsG1Mma</guid>
       <pubDate>Wed, 09 Sep 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/77/7b/777b54826b9b8ecf37f6f995c0573c3c.m4a?auth_key=1795466471-1Egupa0T-0-6292c768f0502a28db46d429b2a5f6c8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/77/7b/777b54826b9b8ecf37f6f995c0573c3c.m4a?auth_key=1795506673-wRAKN7aR-0-b491115aaa644bfc1e221e5befdbec40" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZsG1Mma</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260908期：什么因素影响家庭摇号结果？</description>
       <guid isPermaLink="false">ttfm-QJgAsYBA3o</guid>
       <pubDate>Tue, 08 Sep 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/d5/60/d56029ba3a156df0385bda273d89bf9d.m4a?auth_key=1795466471-sgBoaD3n-0-0331ed926e406c9084f5a6809d76fe62" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/d5/60/d56029ba3a156df0385bda273d89bf9d.m4a?auth_key=1795506673-xOYKDWJC-0-319e66e64e006454182a4d21faed1ffa" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYBA3o</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260907期：新格瑞维亚亮点分析？</description>
       <guid isPermaLink="false">ttfm-Vob5sYKzDd</guid>
       <pubDate>Mon, 07 Sep 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/c7/31/c73136129401fcd200c259315ce2c4e4.m4a?auth_key=1795466471-GsZh91NH-0-325f80529e760b61fea18936b456aa78" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/c7/31/c73136129401fcd200c259315ce2c4e4.m4a?auth_key=1795506673-u2AHauDU-0-245c1c1d23f2ca3b7bec30e16171c3b0" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:53</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYKzDd</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260906期：大众的纵置发动机的优缺点？</description>
       <guid isPermaLink="false">ttfm-VJLvspLVwo</guid>
       <pubDate>Sun, 06 Sep 2026 15:13:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/05/49/05497fbddb03d026a3c1cb190b3c2926.m4a?auth_key=1795466471-3gW3B0st-0-d22107df2ade12592f4ef0743e457dec" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/05/49/05497fbddb03d026a3c1cb190b3c2926.m4a?auth_key=1795506673-X6lNroHs-0-a963ba3ec5de392a56b4048adf7819b7" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspLVwo</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260905期：玻璃能刷膜隔热吗？</description>
       <guid isPermaLink="false">ttfm-VJLvspLARo</guid>
       <pubDate>Sat, 05 Sep 2026 15:13:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/5a/1a/5a1a53506534aa3d59c44fe97293f0a0.m4a?auth_key=1795466471-idAkBjZb-0-61f3a43788019460cc4a9b700ee5b2e7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/5a/1a/5a1a53506534aa3d59c44fe97293f0a0.m4a?auth_key=1795506673-BNhbTJ9H-0-7275d74e72c4c71908e2bcd3f0ab87ef" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvspLARo</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260904期：红旗车的车机多久需要升级一次？</description>
       <guid isPermaLink="false">ttfm-4o6Qs9vbpd</guid>
       <pubDate>Fri, 04 Sep 2026 15:12:32 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/cf/b4/cfb4c4322df03f1794870bb906ecc4a2.m4a?auth_key=1795466471-imfDptrF-0-6d68be9f0952e88ea8cd98c0c50d74e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/cf/b4/cfb4c4322df03f1794870bb906ecc4a2.m4a?auth_key=1795506673-vltiovxQ-0-c6761dd8b7937ca978f8ea22e94e143d" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9vbpd</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260903期：摩托车目前能上什么保险？</description>
       <guid isPermaLink="false">ttfm-6JW8s2AXAd</guid>
       <pubDate>Thu, 03 Sep 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/11/75/1175aad43b6921e65dffa512bc78576d.m4a?auth_key=1795466471-Z3ZwVkA9-0-86cc32375eebb3c0cb1fc7a8f646f459" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/11/75/1175aad43b6921e65dffa512bc78576d.m4a?auth_key=1795506673-rTVOcJFj-0-2bbc609c71f84a4672a49bcb3b6231ba" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:36</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2AXAd</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260902期：奥迪A8有几个空调滤芯？</description>
       <guid isPermaLink="false">ttfm-ZdRjs81L4d</guid>
       <pubDate>Wed, 02 Sep 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/42/51/4251b66b9c8a8c042d93812ab20b2fbd.m4a?auth_key=1795466471-rKcID8nS-0-e27612181917276417caaf3740775ecf" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/42/51/4251b66b9c8a8c042d93812ab20b2fbd.m4a?auth_key=1795506673-qihLevDW-0-7ca5e5113faa25ad986af25564d851b5" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:19</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs81L4d</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260901期：车辆外迁都可以在哪里办理？</description>
       <guid isPermaLink="false">ttfm-xo4GsKxgyd</guid>
       <pubDate>Tue, 01 Sep 2026 15:12:39 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/19/0a/190a57f9883f9e83d908353d0551baf2.m4a?auth_key=1795466471-uJR0F1R7-0-b03acf24495ce2b13d61e0b0cadd7095" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/19/0a/190a57f9883f9e83d908353d0551baf2.m4a?auth_key=1795506673-0cwwwOaC-0-8bbdae564f270b2c3035f5e532be034f" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKxgyd</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260831期：丰田的越野车涉水深度有多少？</description>
       <guid isPermaLink="false">ttfm-pdpvsGNO3a</guid>
       <pubDate>Mon, 31 Aug 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/79/84/79844a0ccc9b796a118142da43f9a865.m4a?auth_key=1795466471-rnmV9QH8-0-66d28accb934cbea67536e83886be65d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/79/84/79844a0ccc9b796a118142da43f9a865.m4a?auth_key=1795506673-ACY0iIZv-0-ac68a4b2e7e2fcfb5ded354d97520345" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGNO3a</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260830期：进口大众辉腾压缩机更换要多少钱？</description>
       <guid isPermaLink="false">ttfm-eaVrsAZAQa</guid>
       <pubDate>Sun, 30 Aug 2026 15:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/c0/ad/c0ad84fd058d760134b7fc9c495bbe62.m4a?auth_key=1795466471-7vnNLsBf-0-bb40b357675aafe82f7c75be43ea7ef0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/c0/ad/c0ad84fd058d760134b7fc9c495bbe62.m4a?auth_key=1795506673-cP1rNtax-0-94df5a733a2f23fd77d40517568e2252" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAZAQa</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260829期：天窗用贴太阳膜吗？</description>
       <guid isPermaLink="false">ttfm-eaVrsAZNVa</guid>
       <pubDate>Sat, 29 Aug 2026 15:13:44 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/74/83/7483844e7861266c1985cedcec4d6f06.m4a?auth_key=1795466471-SxicIgVB-0-c7d3710a4b14bbaf70d04b219a7f8261" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/74/83/7483844e7861266c1985cedcec4d6f06.m4a?auth_key=1795506673-da2Zz82W-0-5b9d63b2d02af3dbbbb118f45a7da19d" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsAZNVa</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260828期：奥迪A6什么时候能上智驾系统？</description>
       <guid isPermaLink="false">ttfm-0dGMsngmka</guid>
       <pubDate>Fri, 28 Aug 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/2d/de/2ddea74a678510fabf7bf711588c32ac.m4a?auth_key=1795466471-8TkvLKkm-0-0348fbcfa822c1f321754556ef49659a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/2d/de/2ddea74a678510fabf7bf711588c32ac.m4a?auth_key=1795506673-4ZvBqYeJ-0-21cfb6ce4d0e98a7d0b9744b3cccab48" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsngmka</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260827期：免费救援有什么里程的限制呢？</description>
       <guid isPermaLink="false">ttfm-4o6Qs9vNRd</guid>
       <pubDate>Thu, 27 Aug 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/3d/67/3d67a11f589bd74e88745f287b152a15.m4a?auth_key=1795466471-dWYvcvo5-0-9014f5bd22c18672dd71c4c152c8d5cd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/3d/67/3d67a11f589bd74e88745f287b152a15.m4a?auth_key=1795506673-ZfrsUB70-0-19636426afbd077f06274a6498a26fc3" type="audio/mp4" length="0"/>
       <itunes:duration>00:57:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9vNRd</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260826期：火花塞的更换标准是什么？</description>
       <guid isPermaLink="false">ttfm-0dGMsnEgya</guid>
       <pubDate>Wed, 26 Aug 2026 15:13:29 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/9e/2f/9e2fdb6e7b752f4c0ad8aea4ec717b2c.m4a?auth_key=1795466471-0jLIaqnU-0-bf65fa15f605e95e0ec1f1b47be7003a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/9e/2f/9e2fdb6e7b752f4c0ad8aea4ec717b2c.m4a?auth_key=1795506673-fkFFtTCQ-0-6e5787be65251411fb8310a49d418903" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsnEgya</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260825期：外迁到外地的车还能回北京吗？</description>
       <guid isPermaLink="false">ttfm-Vob5sY7nNd</guid>
       <pubDate>Tue, 25 Aug 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/1c/6e/1c6ee0965bbf4a52d5ece3b838420259.m4a?auth_key=1795466471-4KH7D7Zo-0-309951de3b4df6e090ccac56003f1c90" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/1c/6e/1c6ee0965bbf4a52d5ece3b838420259.m4a?auth_key=1795506673-p2PAheGG-0-5af1dbe89efb1b3439417d21bf26e65e" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sY7nNd</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260824期：别克的双发动机最长续航有多少？</description>
       <guid isPermaLink="false">ttfm-eaVrsX8MKa</guid>
       <pubDate>Mon, 24 Aug 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/14/48/144828e4d1ea420e7558ee6b1ea4fb66.m4a?auth_key=1795466471-nbQtq1OO-0-ce1eb6b8fb11c6d843f2ee467b9eb84e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/14/48/144828e4d1ea420e7558ee6b1ea4fb66.m4a?auth_key=1795506673-sOJZTA52-0-cd41047b5f0bb9f66abdb309d70fe4bc" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eaVrsX8MKa</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260823期：凯宴用什么型号的机油？</description>
       <guid isPermaLink="false">ttfm-VJLvsjg05o</guid>
       <pubDate>Sun, 23 Aug 2026 15:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/7f/ea/7fea39417b621fac380994cb2cdbc73a.m4a?auth_key=1795466471-d31FE1HY-0-1e09cde3bcb86f05d5571c51e036c570" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/7f/ea/7fea39417b621fac380994cb2cdbc73a.m4a?auth_key=1795506673-I1r7BkzJ-0-ccb731eee3fcc684fa30f7c631c2d71f" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/VJLvsjg05o</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260822期：天窗能贴什么太阳膜？</description>
       <guid isPermaLink="false">ttfm-vdz8smY4ra</guid>
       <pubDate>Sat, 22 Aug 2026 15:13:47 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/f1/e7/f1e7169bfb38aabdc301294f107c5581.m4a?auth_key=1795466471-Pf8Uglp0-0-a447018598a0529856d412387686d0a3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/f1/e7/f1e7169bfb38aabdc301294f107c5581.m4a?auth_key=1795506673-rl8E3ST6-0-9c27b42716ea7e3369ed0f358dbdf544" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8smY4ra</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260821期：奥迪矩阵大灯能频繁开启吗？</description>
       <guid isPermaLink="false">ttfm-ZJ3esNEg6o</guid>
       <pubDate>Fri, 21 Aug 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/fb/2a/fb2a1c476baf810932908458f1513a17.m4a?auth_key=1795466471-RWNdxtaX-0-d471a24b8597eb109fc1013260a8fc55" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/fb/2a/fb2a1c476baf810932908458f1513a17.m4a?auth_key=1795506673-cNRs2YeV-0-3ee6de1c7647d6a2f7580c1aedbe6984" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNEg6o</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260820期：推定车辆全损的条件是什么？</description>
       <guid isPermaLink="false">ttfm-Rd1ZsE5wbo</guid>
       <pubDate>Thu, 20 Aug 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/0d/47/0d470d9c92c8ef4450370d608d649c2f.m4a?auth_key=1795466471-jZXH3SE0-0-3fd97a13d94680174066761794b3b2ea" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/0d/47/0d470d9c92c8ef4450370d608d649c2f.m4a?auth_key=1795506673-eG2oWyOl-0-ad6dc832de07591f724ec2bbdaa00a1d" type="audio/mp4" length="0"/>
       <itunes:duration>01:02:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsE5wbo</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260819期：汽油泵的基本寿命是多少？</description>
       <guid isPermaLink="false">ttfm-vdz8smY2Da</guid>
       <pubDate>Wed, 19 Aug 2026 15:12:34 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/11/fc/11fc99384161d9bc04a837c33994bac5.m4a?auth_key=1795466471-YAYQHVve-0-d55a96b006872fd282d5ab95778a0946" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/11/fc/11fc99384161d9bc04a837c33994bac5.m4a?auth_key=1795506673-25fsVZ6G-0-132a091ba72d37636972446eda3c3a64" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8smY2Da</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260818期：夫妻是外地户口，能变更车牌吗？</description>
       <guid isPermaLink="false">ttfm-ZJ3esNr98o</guid>
       <pubDate>Tue, 18 Aug 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/62/c7/62c7615ae9f482686f8e92b238b86541.m4a?auth_key=1795466471-jqt9ORUW-0-0bffe14bbe03563877e07acd4a752be8" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/62/c7/62c7615ae9f482686f8e92b238b86541.m4a?auth_key=1795506673-uNhxcTLj-0-4d713283224a41f9f5392bd7b66ceb64" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNr98o</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260817期：丰田的混动系统质保多长时间？</description>
       <guid isPermaLink="false">ttfm-vJ0Ps0vnkJ</guid>
       <pubDate>Mon, 17 Aug 2026 15:13:04 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/f0/b2/f0b29cce1890bd8fdc0bfdff98c21cbe.m4a?auth_key=1795466471-L7oaz6Wa-0-bea66f90f18015b8f2958d2ef3c66664" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/f0/b2/f0b29cce1890bd8fdc0bfdff98c21cbe.m4a?auth_key=1795506673-BgY93SbY-0-1d76af8aca65a726f0d12f860d7455e1" type="audio/mp4" length="0"/>
       <itunes:duration>00:55:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0Ps0vnkJ</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260816期：换轮胎用做四轮定位吗？</description>
       <guid isPermaLink="false">ttfm-goqZs1L8qa</guid>
       <pubDate>Sun, 16 Aug 2026 15:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/c1/a0/c1a004d5dcd9662771a488964051c481.m4a?auth_key=1795466471-FaOHNoHg-0-ed19195bd8dd955417ec2d52066cb09e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/c1/a0/c1a004d5dcd9662771a488964051c481.m4a?auth_key=1795506673-6i6rbo5p-0-ec9b8b40b16e1b5315704cc8de28d08a" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZs1L8qa</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260815期：天窗能贴膜吗？怎样隔热？</description>
       <guid isPermaLink="false">ttfm-9onZsXLk4o</guid>
       <pubDate>Sat, 15 Aug 2026 15:13:42 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/e8/f9/e8f951e30b55e6a411547f3f07c723c6.m4a?auth_key=1795466471-JVI9gklh-0-48e47ff582f1a19d2b195817a97d4923" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/e8/f9/e8f951e30b55e6a411547f3f07c723c6.m4a?auth_key=1795506673-gElAsP8b-0-7be58c548e68a252ab7a2ae93ee238e6" type="audio/mp4" length="0"/>
       <itunes:duration>00:56:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsXLk4o</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260814期：奥迪新SUV已经上市？</description>
       <guid isPermaLink="false">ttfm-QJgAskbMAo</guid>
       <pubDate>Fri, 14 Aug 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/8b/95/8b9511830a557f873219829d19869645.m4a?auth_key=1795466471-yOPRaef5-0-fa6019340dd6c3cf1f589a1251fa0887" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/8b/95/8b9511830a557f873219829d19869645.m4a?auth_key=1795506673-hgY1Kcfg-0-e0eca08d5c64990e5c402378c15813ce" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAskbMAo</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260813期：什么是泡水车？</description>
       <guid isPermaLink="false">ttfm-ZoAwsDRmLJ</guid>
       <pubDate>Thu, 13 Aug 2026 15:12:33 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/28/71/28717ad443686a6877216041d56957dc.m4a?auth_key=1795466471-0iZMXopP-0-ca488420d59df11afadf9062fd8ae0e7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/28/71/28717ad443686a6877216041d56957dc.m4a?auth_key=1795506673-odMnK9gG-0-ce2e9989ce0e35a792cc7e63426db08b" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAwsDRmLJ</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260812期：底盘整备光换胶套可以吗？</description>
       <guid isPermaLink="false">ttfm-5aOXsy4QRJ</guid>
       <pubDate>Wed, 12 Aug 2026 15:13:27 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/38/6f/386feea417d23cc80144c10d20f0fbe1.m4a?auth_key=1795466471-385d1QzN-0-9d02b2f00f596a425e60bca0fac25128" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/38/6f/386feea417d23cc80144c10d20f0fbe1.m4a?auth_key=1795506673-0HLF0dhT-0-dd8c2329a8b7e091859cef232c84ca0e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXsy4QRJ</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260811期：指标转移分几种情况？</description>
       <guid isPermaLink="false">ttfm-eoxBse2YpJ</guid>
       <pubDate>Tue, 11 Aug 2026 15:12:35 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/08/57/0857eb67a5a73606419bd5f726ea4a04.m4a?auth_key=1795466471-i0hppZA9-0-23dbd0e5c9372aff0c9bf37fcf2f53fb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/08/57/0857eb67a5a73606419bd5f726ea4a04.m4a?auth_key=1795506673-1W7jE8w9-0-0291435f1561f49d88dd1ca5f228141e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/eoxBse2YpJ</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260810期：车辆公里数大还用原厂机油吗？</description>
       <guid isPermaLink="false">ttfm-6JW8slM5Vd</guid>
       <pubDate>Mon, 10 Aug 2026 15:13:03 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/06/c9/06c965d891d0c23321778dc213d927ef.m4a?auth_key=1795466471-vwrtdZcD-0-b3a5819176085e5ca57014260e64da88" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/06/c9/06c965d891d0c23321778dc213d927ef.m4a?auth_key=1795506673-AcsirxDz-0-849c4f03ef5e4c83047223e8216742f3" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8slM5Vd</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260809期：奥迪车的玻璃升降器怎么换？</description>
       <guid isPermaLink="false">ttfm-gay7sKV1qd</guid>
       <pubDate>Sun, 09 Aug 2026 15:13:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/11/45/11454cff00fd79a83c078e1eef7ff4d8.m4a?auth_key=1795466471-eprJJjk4-0-a016f26c76ce2bea733e005b77212224" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0809/11/45/11454cff00fd79a83c078e1eef7ff4d8.m4a?auth_key=1795506673-YKoj6fCs-0-2f2cd547582f1ca48f4f42304882d7b4" type="audio/mp4" length="0"/>
       <itunes:duration>00:57:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKV1qd</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260808期：天窗能贴膜吗？</description>
       <guid isPermaLink="false">ttfm-Oo5psBR2Yd</guid>
       <pubDate>Sat, 08 Aug 2026 15:13:28 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/62/38/62382c392cbce18040b86c0c469a1570.m4a?auth_key=1795466471-X60dZ3Hd-0-fe1d825b4d72701aabd2d14a3239519e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0808/62/38/62382c392cbce18040b86c0c469a1570.m4a?auth_key=1795506673-tz4ncuaY-0-9d44be01a92ec006163a3b9fe7c1b215" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psBR2Yd</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260807期：大众电车是统一设计平台吗？</description>
       <guid isPermaLink="false">ttfm-goqZs17zva</guid>
       <pubDate>Fri, 07 Aug 2026 15:13:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/45/45/4545721b0cec451d33dd4176fdae1c00.m4a?auth_key=1795466471-YXORmJcp-0-970eda0dec96f67dc9fb6cb9d160db0f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0807/45/45/4545721b0cec451d33dd4176fdae1c00.m4a?auth_key=1795506673-UObTZcM3-0-3205ecad8371281594b8db7cb76b5b3e" type="audio/mp4" length="0"/>
       <itunes:duration>01:00:12</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZs17zva</link>
-    </item>
-    <item>
-      <title>20260806期：车辆进入无人区，怎么救援？</title>
-      <description>20260806期：车辆进入无人区，怎么救援？</description>
-      <guid isPermaLink="false">ttfm-qaN0sx1P8d</guid>
-      <pubDate>Thu, 06 Aug 2026 15:13:30 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0806/e4/85/e485757854f85c23ce74ae05c0ea1bc0.m4a?auth_key=1795466471-kk7apwlV-0-96786025df6f7de6835d1178e101425d" type="audio/mp4" length="0"/>
-      <itunes:duration>01:00:12</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0sx1P8d</link>
     </item>
   </channel>
 </rss>
