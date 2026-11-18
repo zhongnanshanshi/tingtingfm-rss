@@ -11,14 +11,23 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>北京新闻广播FM94.5/AM828</itunes:name></itunes:owner>
-    <lastBuildDate>Wed, 18 Nov 2026 05:54:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:46:37 +0800</lastBuildDate>
     <generator>tingtingfm-rss</generator>
+    <item>
+      <title>20261118期：文化范儿</title>
+      <description>20261118期：文化范儿</description>
+      <guid isPermaLink="false">ttfm-5aOXs1e5yJ</guid>
+      <pubDate>Wed, 18 Nov 2026 15:01:17 +0800</pubDate>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1118/59/83/598367be6fc11d304f018cfef1acd803.m4a?auth_key=1795855596-PakbmhpY-0-9ce40a6d9ecb0c48183bd46f2369acbd" type="audio/mp4" length="0"/>
+      <itunes:duration>00:34:51</itunes:duration>
+      <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs1e5yJ</link>
+    </item>
     <item>
       <title>20261117期：《走啊，去寻萤》——你见过真正的萤火虫吗？</title>
       <description>20261117期：《走啊，去寻萤》——你见过真正的萤火虫吗？</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6rmjd</guid>
       <pubDate>Tue, 17 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1117/8b/74/8b7498eb63673b350991ce631f122e9f.m4a?auth_key=1795816457-DD5r9bh1-0-97c76469a74feebc22591c7159eedc58" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1117/8b/74/8b7498eb63673b350991ce631f122e9f.m4a?auth_key=1795855596-Ctc0exQk-0-0825e18ba40fdaf7e3ef884c1654f6d5" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:11</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6rmjd</link>
     </item>
@@ -27,7 +36,7 @@
       <description>20261116期：《漫步哥本哈根》——褪去网红打卡滤镜，看见童话之城真实的生活美学</description>
       <guid isPermaLink="false">ttfm-ndKes19Nwa</guid>
       <pubDate>Mon, 16 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1116/d9/cd/d9cd192fafa18b413dfbfd5bec069e77.m4a?auth_key=1795816457-6IZ7omC3-0-b26752fd7cb1fbcf51c11fbbcb41c774" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1116/d9/cd/d9cd192fafa18b413dfbfd5bec069e77.m4a?auth_key=1795855596-GPVMMNjR-0-32f8b99a8a924e2a467401e1d9b214be" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes19Nwa</link>
     </item>
@@ -36,7 +45,7 @@
       <description>20261115期：古燕重光：探秘北京考古新发现（下）</description>
       <guid isPermaLink="false">ttfm-ZdRjs8pArd</guid>
       <pubDate>Sun, 15 Nov 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1115/44/0d/440d5a9608eb1819256a5c4faefff5d7.m4a?auth_key=1795816457-gRpVvLdm-0-4d2deb832c578ce46f6fe029c255cbc6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1115/44/0d/440d5a9608eb1819256a5c4faefff5d7.m4a?auth_key=1795855596-NO93tj3r-0-7dca35efc2992a7951f4d02bdcc20176" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:48</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8pArd</link>
     </item>
@@ -45,7 +54,7 @@
       <description>20261114期：古燕重光：探秘北京考古新发现（上）</description>
       <guid isPermaLink="false">ttfm-xJvKsbjq7d</guid>
       <pubDate>Sat, 14 Nov 2026 15:12:23 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1114/81/7a/817ae4182d5537a83388fe65f2a47869.m4a?auth_key=1795816457-U2uIdnMX-0-6bf500ef962989424811df3920e97050" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1114/81/7a/817ae4182d5537a83388fe65f2a47869.m4a?auth_key=1795855596-P2GVFkwU-0-ce4806f2bfa3e4e29247e330f3265008" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbjq7d</link>
     </item>
@@ -54,7 +63,7 @@
       <description>20261113期：对话国家一级演员常玉红</description>
       <guid isPermaLink="false">ttfm-9onZsWLxno</guid>
       <pubDate>Fri, 13 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1113/e7/cb/e7cbb1a05041d9ccf392706118c068b2.m4a?auth_key=1795816457-GY0LkGyG-0-e21d8c21e7ae67708ab3e9b731e5441f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1113/e7/cb/e7cbb1a05041d9ccf392706118c068b2.m4a?auth_key=1795855596-Kt1rT0TQ-0-346cbba86406e82da27a624666f49505" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/9onZsWLxno</link>
     </item>
@@ -63,7 +72,7 @@
       <description>20261112期：文化范儿</description>
       <guid isPermaLink="false">ttfm-QJgAsYb9vo</guid>
       <pubDate>Thu, 12 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1112/f7/dd/f7ddd57752804846008451dabbbe2b6f.m4a?auth_key=1795816457-icqrnXZP-0-676bfbbed406068990c075a3d92c2458" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1112/f7/dd/f7ddd57752804846008451dabbbe2b6f.m4a?auth_key=1795855596-XVrDufwn-0-e8dbe00195fd42ddb1cc7f76cbea00c9" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYb9vo</link>
     </item>
@@ -72,7 +81,7 @@
       <description>20261111期：文化范儿</description>
       <guid isPermaLink="false">ttfm-ZoAws1RxAJ</guid>
       <pubDate>Wed, 11 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/a6/67/a667461027f8d0ee213ab6ee36176476.m4a?auth_key=1795816457-OhNdiggX-0-b692dd29ccc5452d213d47df80d6ca0e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1111/a6/67/a667461027f8d0ee213ab6ee36176476.m4a?auth_key=1795855596-z6hipZiN-0-86bd640bc1637a6fb12466e537c58965" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws1RxAJ</link>
     </item>
@@ -81,7 +90,7 @@
       <description>20261110期：凸凹《浮生六记》——京西烟火，温暖苍茫大地（下）</description>
       <guid isPermaLink="false">ttfm-polrsLWwRJ</guid>
       <pubDate>Tue, 10 Nov 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/22/6c/226c57c2f525aefbf6edad5b3de0a79c.m4a?auth_key=1795816457-is1dM7wa-0-5c2637aa98b3122476234d29eae4386c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1110/22/6c/226c57c2f525aefbf6edad5b3de0a79c.m4a?auth_key=1795855596-Iahb1JST-0-b0f84548f1ffcd908acdef8606504662" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/polrsLWwRJ</link>
     </item>
@@ -90,7 +99,7 @@
       <description>20261109期：凸凹《浮生六记》——京西烟火，温暖苍茫大地（上）</description>
       <guid isPermaLink="false">ttfm-ea8Rsg79ed</guid>
       <pubDate>Mon, 09 Nov 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/ba/48/ba4848d35802e75cf9286373acfbf749.m4a?auth_key=1795816457-7oqERdpg-0-b705b9fd7a176b280ed266ecf7836591" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1109/ba/48/ba4848d35802e75cf9286373acfbf749.m4a?auth_key=1795855596-LkiAXi1v-0-90abdb35624212be6fd557cb2cb73402" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsg79ed</link>
     </item>
@@ -99,7 +108,7 @@
       <description>20261108期：共此灯烛光——谈《溥心畬与张大千》特展（下）</description>
       <guid isPermaLink="false">ttfm-6JW8s21mYd</guid>
       <pubDate>Sun, 08 Nov 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/a6/bb/a6bb3a99946ccfa918b59431a80e25e0.m4a?auth_key=1795816457-k3IiuKed-0-74e5d6f442cef9cf740c15f3cf460cba" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1108/a6/bb/a6bb3a99946ccfa918b59431a80e25e0.m4a?auth_key=1795855596-hktOkUfC-0-368f9cfcb9b11a021fb55aa59fd526f8" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:32</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s21mYd</link>
     </item>
@@ -108,7 +117,7 @@
       <description>20261107期：共此灯烛光——谈《溥心畬与张大千》特展（上）</description>
       <guid isPermaLink="false">ttfm-ZdRjs8jBzd</guid>
       <pubDate>Sat, 07 Nov 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/7b/60/7b60f950c94c8dbe33c9168750dd458e.m4a?auth_key=1795816457-gxRvYXxt-0-6ed5178b7049638e87f88792d74b0996" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1107/7b/60/7b60f950c94c8dbe33c9168750dd458e.m4a?auth_key=1795855596-3wupq4tB-0-c2efcba5ae6302d75fdd926695f4efe4" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:36</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8jBzd</link>
     </item>
@@ -117,7 +126,7 @@
       <description>20261106期：对话曹氏风筝第三代传承人张蕾</description>
       <guid isPermaLink="false">ttfm-Oo5psrpMvd</guid>
       <pubDate>Fri, 06 Nov 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/59/19/591912f4b815fb9a3868604c8735b35e.m4a?auth_key=1795816457-pcgyUe8M-0-d1dad6e5a416ec216eb5ee654c579fc0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1106/59/19/591912f4b815fb9a3868604c8735b35e.m4a?auth_key=1795855596-UEiQab9g-0-fdfc048dc50926192f6947aa6d676d1c" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:02</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psrpMvd</link>
     </item>
@@ -126,7 +135,7 @@
       <description>20261105期：文化范儿</description>
       <guid isPermaLink="false">ttfm-xo4GsKb8xd</guid>
       <pubDate>Thu, 05 Nov 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/6d/3a/6d3a3c3bf85f401dd1128b7b000c407d.m4a?auth_key=1795816457-COJSdbbE-0-5d4649239e8cc3ea356be271d9746549" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1105/6d/3a/6d3a3c3bf85f401dd1128b7b000c407d.m4a?auth_key=1795855596-xI5jCyPl-0-da5956e214af92b1811fe2943f58a368" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:13</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKb8xd</link>
     </item>
@@ -135,7 +144,7 @@
       <description>20261104期：文化范儿</description>
       <guid isPermaLink="false">ttfm-6JW8s21Agd</guid>
       <pubDate>Wed, 04 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/3f/d5/3fd55a269c31ee6f46974ee441ccbdc9.m4a?auth_key=1795816457-AdGWnmA6-0-5e90be0d738467d125511b18cf98d0bc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1104/3f/d5/3fd55a269c31ee6f46974ee441ccbdc9.m4a?auth_key=1795855596-RQhgweIW-0-d972670773f4720c7c6aaa17adfeb3cf" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s21Agd</link>
     </item>
@@ -144,7 +153,7 @@
       <description>20261103期：《物种之眼：达尔文传》——全面触摸达尔文非凡的生命旅程（下）</description>
       <guid isPermaLink="false">ttfm-MaXAs7OQpJ</guid>
       <pubDate>Tue, 03 Nov 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/a9/3a/a93aff39a8e5ab04f310ecbf7bb419ca.m4a?auth_key=1795816457-qQVuX9Bm-0-a3ea597a5490db31ee7223f8e4ac5c51" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1103/a9/3a/a93aff39a8e5ab04f310ecbf7bb419ca.m4a?auth_key=1795855596-6rO6un9u-0-cd459a0a9218dbfbc6ebcbe5953bf459" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs7OQpJ</link>
     </item>
@@ -153,7 +162,7 @@
       <description>20261102期：《物种之眼：达尔文传》——全面触摸达尔文非凡的生命旅程（上）</description>
       <guid isPermaLink="false">ttfm-5aOXs1jDEJ</guid>
       <pubDate>Mon, 02 Nov 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/2a/5a/2a5a12c819c1ce3766a1574418c8bab1.m4a?auth_key=1795816457-PtKe9mV3-0-3ad3605702903a70f79f91d2ae6d289a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1102/2a/5a/2a5a12c819c1ce3766a1574418c8bab1.m4a?auth_key=1795855596-fa5PFkg9-0-48802a3bcee0353864e2b1e8ca719233" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:53</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/5aOXs1jDEJ</link>
     </item>
@@ -162,7 +171,7 @@
       <description>20261101期：白塔寺旁本草香</description>
       <guid isPermaLink="false">ttfm-raEvsAXMeJ</guid>
       <pubDate>Sun, 01 Nov 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/a8/d6/a8d623dc99a6778e511c05a74726a37e.m4a?auth_key=1795816457-8gkcS2gf-0-a2a73de8f6c05bde57e4e1b899ffee3b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1101/a8/d6/a8d623dc99a6778e511c05a74726a37e.m4a?auth_key=1795855596-oSAuIHeE-0-87f9150d921d531a1f9b500ad783b0b4" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:36</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAXMeJ</link>
     </item>
@@ -171,7 +180,7 @@
       <description>20261031期：白塔丹柿，秋日读懂京城博物馆文创</description>
       <guid isPermaLink="false">ttfm-Vob5sY9bld</guid>
       <pubDate>Sat, 31 Oct 2026 15:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/fb/ed/fbed9a83346bbb97652eecfaee4cecd2.m4a?auth_key=1795816457-E9I7Kz0Z-0-3814f3471b5235dc3b3964ff7abafdfb" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1031/fb/ed/fbed9a83346bbb97652eecfaee4cecd2.m4a?auth_key=1795855596-KkYpVUqE-0-76f2f8d91dee5a2ae68c0625a8d54a8a" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:37</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sY9bld</link>
     </item>
@@ -180,7 +189,7 @@
       <description>20261030期：著名作曲家孟文豪——一把吉他开启的音乐人生</description>
       <guid isPermaLink="false">ttfm-ZdRjs8lvwd</guid>
       <pubDate>Fri, 30 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/4a/48/4a48d261f1578ec72f7910ad643dce20.m4a?auth_key=1795816457-TmTIx86o-0-af36297be22693ac6ba01a62b0930132" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1030/4a/48/4a48d261f1578ec72f7910ad643dce20.m4a?auth_key=1795855596-JHADtIvS-0-e1526cf851d6aace7f9871e7062d6a24" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:54</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs8lvwd</link>
     </item>
@@ -189,7 +198,7 @@
       <description>20261029期：当我们写这个时代的情义时，我们在写什么？（下）</description>
       <guid isPermaLink="false">ttfm-vdz8sOrpRa</guid>
       <pubDate>Thu, 29 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/78/5b/785b456e5fd83870abc771a713a05ca3.m4a?auth_key=1795816457-Fpis7E9B-0-e10954744f3b854eb9406c69b2df54ef" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1029/78/5b/785b456e5fd83870abc771a713a05ca3.m4a?auth_key=1795855596-3BuIEIOG-0-3f57686d7c0ccdec78c70307538d26ec" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOrpRa</link>
     </item>
@@ -198,7 +207,7 @@
       <description>20261028期：当我们写这个时代的情义时，我们在写什么？（上）</description>
       <guid isPermaLink="false">ttfm-ea8Rsg3Q5d</guid>
       <pubDate>Wed, 28 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/43/48/4348bc93412cde8a7a3ddb8f0efb9153.m4a?auth_key=1795816457-P6Jjx87c-0-ca6930aa77e1c03361c45890be03a610" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1028/43/48/4348bc93412cde8a7a3ddb8f0efb9153.m4a?auth_key=1795855596-4CKxxbGZ-0-ba2b4ad6c567cb7d7c23e8039f05a597" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:07</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8Rsg3Q5d</link>
     </item>
@@ -207,7 +216,7 @@
       <description>20261027期：《人杰》——李清照是怎么炼成的？（下）</description>
       <guid isPermaLink="false">ttfm-Rd1ZsPRZEo</guid>
       <pubDate>Tue, 27 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/9e/6c/9e6cd22333dbd26a1f82c35989c8b501.m4a?auth_key=1795816457-t6JHvcQB-0-a618e7cfa31e3fc83840fef2dad86d44" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1027/9e/6c/9e6cd22333dbd26a1f82c35989c8b501.m4a?auth_key=1795855596-WpNKqhcq-0-18f47955fd53809df6074583809df382" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Rd1ZsPRZEo</link>
     </item>
@@ -216,7 +225,7 @@
       <description>20261026期：《人杰》——李清照是怎么炼成的？（上）</description>
       <guid isPermaLink="false">ttfm-ZoAws126DJ</guid>
       <pubDate>Mon, 26 Oct 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/8f/30/8f30720f3a0ad85eac03f3a6d952ba52.m4a?auth_key=1795816457-bAa04aOx-0-23ba06d20a4be870a2f05c0575844a83" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1026/8f/30/8f30720f3a0ad85eac03f3a6d952ba52.m4a?auth_key=1795855596-YTkurA0O-0-997311fd54597aa62a6a7588cab3f20f" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZoAws126DJ</link>
     </item>
@@ -225,7 +234,7 @@
       <description>20261025期：万里西行，重识玄奘（下）</description>
       <guid isPermaLink="false">ttfm-QdBWs043ro</guid>
       <pubDate>Sun, 25 Oct 2026 15:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/72/7c/727c5f04902ed39aa15d73f47d74d1aa.m4a?auth_key=1795816457-KaNqUF1N-0-01d8ba8d4f93893ce0d68fa3fc12adc6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1025/72/7c/727c5f04902ed39aa15d73f47d74d1aa.m4a?auth_key=1795855596-I0xT24uN-0-1ccdaf876bb92c3145f157d91a3bb0f8" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs043ro</link>
     </item>
@@ -234,7 +243,7 @@
       <description>20261024期：万里西行，重识玄奘（上）</description>
       <guid isPermaLink="false">ttfm-pdpvsGgWya</guid>
       <pubDate>Sat, 24 Oct 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/8b/75/8b75f49b4b192d904c60c761fae6a2ca.m4a?auth_key=1795816457-QWcws2sC-0-869a4ea664c5f6cbf05259eae0b4ecb6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1024/8b/75/8b75f49b4b192d904c60c761fae6a2ca.m4a?auth_key=1795855596-hNHipGw3-0-8defbd15506a07d436639bf1ec3d4655" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGgWya</link>
     </item>
@@ -243,7 +252,7 @@
       <description>20261023期：图像叙事 重构鲁迅经典—纪念鲁迅逝世90周年特别节目（下）</description>
       <guid isPermaLink="false">ttfm-Vob5sY9NLd</guid>
       <pubDate>Fri, 23 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/61/36/61363a687b04f5e670c0b45f5345cef8.m4a?auth_key=1795816457-xoC8Kklw-0-224b9fedd6c3e2f8e8aa414b9f950af7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1023/61/36/61363a687b04f5e670c0b45f5345cef8.m4a?auth_key=1795855596-OZknanAl-0-7a206de0e56ca2d111b8aa4789af7770" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sY9NLd</link>
     </item>
@@ -252,7 +261,7 @@
       <description>20261022期：图像叙事 重构鲁迅经典—纪念鲁迅逝世90周年特别节目（上）</description>
       <guid isPermaLink="false">ttfm-2d9esKm2Ad</guid>
       <pubDate>Thu, 22 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/70/d3/70d3a71197c2432b7af10e4d8483bc7d.m4a?auth_key=1795816457-T6yi7oSI-0-cc5c0eeee9726b307f18800827d7b4a4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1022/70/d3/70d3a71197c2432b7af10e4d8483bc7d.m4a?auth_key=1795855596-KQPLdB4l-0-c47b3a3152513aaeff0997ed4aca3b3b" type="audio/mp4" length="0"/>
       <itunes:duration>00:39:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esKm2Ad</link>
     </item>
@@ -261,7 +270,7 @@
       <description>20261021期：《不完美传说》——B站百万UP主江无情首部溯源解谜书</description>
       <guid isPermaLink="false">ttfm-ZJ3esKVnQo</guid>
       <pubDate>Wed, 21 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/e7/29/e7298338f036721b30c37719571ec583.m4a?auth_key=1795816457-plZ9HTBL-0-c1aa9d5304cce5b1b13e1369a5f3dbee" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1021/e7/29/e7298338f036721b30c37719571ec583.m4a?auth_key=1795855596-TluAoeJM-0-cef5276a50eabb104ab798d319c3f802" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:22</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKVnQo</link>
     </item>
@@ -270,7 +279,7 @@
       <description>20261020期：文化范儿</description>
       <guid isPermaLink="false">ttfm-Ka2Ps6xGyd</guid>
       <pubDate>Tue, 20 Oct 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/6e/a7/6ea7e5042b43a23a0e3646848368f147.m4a?auth_key=1795816457-g66BTGff-0-135fc853e6b7c5e6ddf742a42c61d0e1" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1020/6e/a7/6ea7e5042b43a23a0e3646848368f147.m4a?auth_key=1795855596-EwW8xkVP-0-b80be100ca9ee1bb4d6a2b84ad35423d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:33</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Ka2Ps6xGyd</link>
     </item>
@@ -279,7 +288,7 @@
       <description>20261019期：纪念鲁迅逝世90周年——从《朝花夕拾》中读懂鲁迅</description>
       <guid isPermaLink="false">ttfm-ndKes17WWa</guid>
       <pubDate>Mon, 19 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/5e/28/5e2891f1e4a5df95166c1c6591558a93.m4a?auth_key=1795816457-GWmGWqKq-0-0585ad423f1816a982e7f0acf3170e73" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1019/5e/28/5e2891f1e4a5df95166c1c6591558a93.m4a?auth_key=1795855596-b4IwqChE-0-1ba0a9074a322b97ab38da360dc19f47" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes17WWa</link>
     </item>
@@ -288,7 +297,7 @@
       <description>20261018期：飞驰中年：对话作家刘阳子（下）</description>
       <guid isPermaLink="false">ttfm-vJ0PsMYGkJ</guid>
       <pubDate>Sun, 18 Oct 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/50/dc/50dc52793a02d2273f706a04b5019bc7.m4a?auth_key=1795816457-zohbEzr4-0-531e7716e015b221dc30fc8d0c0e96a6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1018/50/dc/50dc52793a02d2273f706a04b5019bc7.m4a?auth_key=1795855596-cwAqKire-0-c7ffe6e02b74a7381d69199ef9497c8a" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:14</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsMYGkJ</link>
     </item>
@@ -297,7 +306,7 @@
       <description>20261017期：飞驰中年：对话作家刘阳子（上）</description>
       <guid isPermaLink="false">ttfm-xJvKsbD8Pd</guid>
       <pubDate>Sat, 17 Oct 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/7b/bd/7bbddffadce916e9221d5d1ef155e9cc.m4a?auth_key=1795816457-LcuroO90-0-926b4a50e1a4514309501391bbfeabee" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1017/7b/bd/7bbddffadce916e9221d5d1ef155e9cc.m4a?auth_key=1795855596-Z5hIbuR3-0-04892a3be36ff608ce0a99f4098c62d4" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:17</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbD8Pd</link>
     </item>
@@ -306,7 +315,7 @@
       <description>20261016期：《朝花夕拾》百年纪念版——跨越百年，读懂鲁迅的精神内核（下）</description>
       <guid isPermaLink="false">ttfm-7oZbsWMVDo</guid>
       <pubDate>Fri, 16 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/4b/dc/4bdcf6f31f1adddf6cd631379f000f54.m4a?auth_key=1795816457-AcXtjOYX-0-66dadf03176136f02cf5c2ff2d1be72b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1016/4b/dc/4bdcf6f31f1adddf6cd631379f000f54.m4a?auth_key=1795855596-Av0gc0WL-0-5497760e21ba9b82e9bc850126b8031c" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbsWMVDo</link>
     </item>
@@ -315,7 +324,7 @@
       <description>20261015期：《朝花夕拾》百年纪念版——跨越百年，读懂鲁迅的精神内核（上）</description>
       <guid isPermaLink="false">ttfm-xo4GsKQ9Xd</guid>
       <pubDate>Thu, 15 Oct 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/e4/b3/e4b3c0799fc50223497ac798408ced28.m4a?auth_key=1795816457-BHlrJdog-0-0793d07a6ff832c9e6dd4dcbd7f54258" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1015/e4/b3/e4b3c0799fc50223497ac798408ced28.m4a?auth_key=1795855596-XSr3rDkq-0-f9c864f6bf167eb18476c45d155dd411" type="audio/mp4" length="0"/>
       <itunes:duration>00:33:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKQ9Xd</link>
     </item>
@@ -324,7 +333,7 @@
       <description>20261014期：丰子恺和他的孩子们与猫</description>
       <guid isPermaLink="false">ttfm-kdjgsjwrAo</guid>
       <pubDate>Wed, 14 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/e8/ee/e8ee61cbed28ac8b8046f77d071b40d1.m4a?auth_key=1795816457-yauuadiU-0-c41a3757418f10910675f659a2b3432e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1014/e8/ee/e8ee61cbed28ac8b8046f77d071b40d1.m4a?auth_key=1795855596-D2FK1pYS-0-53b0fba66166650ec6873ff759e9cec5" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:57</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsjwrAo</link>
     </item>
@@ -333,7 +342,7 @@
       <description>20261013期：班固——一个人、一个家族与一个时代（下）</description>
       <guid isPermaLink="false">ttfm-qaN0swn3Xd</guid>
       <pubDate>Tue, 13 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/24/4a/244aeceb38de62afbd8fc068acbf865d.m4a?auth_key=1795816457-2yaBkIug-0-c88bc3eea56f21030833e9af6f32730b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1013/24/4a/244aeceb38de62afbd8fc068acbf865d.m4a?auth_key=1795855596-flbMo74r-0-19e05d7b9384b194c24c67dc72e738e0" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/qaN0swn3Xd</link>
     </item>
@@ -342,7 +351,7 @@
       <description>20261012期：班固——一个人、一个家族与一个时代（上）</description>
       <guid isPermaLink="false">ttfm-Lo7PspvB8a</guid>
       <pubDate>Mon, 12 Oct 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/e8/6b/e86b8a3669c50fc32c95a4d4db9b3f35.m4a?auth_key=1795816457-AgEBZUGw-0-8114765fa05dc0659a3bbd9415c34988" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1012/e8/6b/e86b8a3669c50fc32c95a4d4db9b3f35.m4a?auth_key=1795855596-YNfDtFkB-0-4647c7c93c7500dba7fca25e9f4ff74a" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Lo7PspvB8a</link>
     </item>
@@ -351,7 +360,7 @@
       <description>20261011期：听见游戏的万千世界（下）</description>
       <guid isPermaLink="false">ttfm-2d9esKVw7d</guid>
       <pubDate>Sun, 11 Oct 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/c8/81/c881c9e2e78ea57ca4f9d6bb3edd5d4f.m4a?auth_key=1795816457-6wswOhh0-0-57503f647d123b3e2ee3a3a793f42a31" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1011/c8/81/c881c9e2e78ea57ca4f9d6bb3edd5d4f.m4a?auth_key=1795855596-uKkB4C8n-0-cdba11c602616f384357cd3d4a8e4590" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:38</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esKVw7d</link>
     </item>
@@ -360,7 +369,7 @@
       <description>20261010期：听见游戏的万千世界（上）</description>
       <guid isPermaLink="false">ttfm-vdz8sOeAWa</guid>
       <pubDate>Sat, 10 Oct 2026 15:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/9d/11/9d11c6d0de44336dde6d991192feaac4.m4a?auth_key=1795816457-MxHqZGbs-0-e5b914a028381316cd676d93c720a6ec" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1010/9d/11/9d11c6d0de44336dde6d991192feaac4.m4a?auth_key=1795855596-C36JA6q1-0-1c46dec47d7a1f5d24cd1c62e68ea81f" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOeAWa</link>
     </item>
@@ -369,7 +378,7 @@
       <description>20261009期：「大时代里的小人物」——我们该如何在不确定中安放自己？</description>
       <guid isPermaLink="false">ttfm-ZJ3esKbK3o</guid>
       <pubDate>Fri, 09 Oct 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/a3/81/a381433ba529de5e5791244d01c4e0a1.m4a?auth_key=1795816457-Sc7wMB9i-0-170a56f39bf5ef0b6018a04273441d97" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1009/a3/81/a381433ba529de5e5791244d01c4e0a1.m4a?auth_key=1795855596-c64VUmUC-0-12d673f2550598aa94fd54a201c98563" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:15</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKbK3o</link>
     </item>
@@ -378,7 +387,7 @@
       <description>20261008期：李清照的十二时辰（下）</description>
       <guid isPermaLink="false">ttfm-ndKes1Zzea</guid>
       <pubDate>Thu, 08 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/12/01/1201a970c3e50936c37baac10a2346c5.m4a?auth_key=1795816457-Iv813ULZ-0-bf314da477885d5d0d63215b006f76b7" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1008/12/01/1201a970c3e50936c37baac10a2346c5.m4a?auth_key=1795855596-OtzVsXEr-0-d0d67fa8a28670b6f555a9fc71e41cc8" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKes1Zzea</link>
     </item>
@@ -387,7 +396,7 @@
       <description>20261007期：李清照的十二时辰（上）</description>
       <guid isPermaLink="false">ttfm-gay7s9bjMd</guid>
       <pubDate>Wed, 07 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/9b/d9/9bd9b983752c95644c83cd013a35904a.m4a?auth_key=1795816457-KvioXu5b-0-526a39b6b2bcf78efc8b0f0d905b356f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1007/9b/d9/9bd9b983752c95644c83cd013a35904a.m4a?auth_key=1795855596-KiFW7ZKx-0-1a62d1dc846b68517b28029187ec0be8" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:46</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/gay7s9bjMd</link>
     </item>
@@ -396,7 +405,7 @@
       <description>20261006期：《唐宋之变》——为什么说唐宋之变式中国的第二次近代化（下）</description>
       <guid isPermaLink="false">ttfm-Oo5psr6ORd</guid>
       <pubDate>Tue, 06 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/01/31/01313a3b9866785397f0c5bbf8dccaf6.m4a?auth_key=1795816457-i8efekmi-0-8f79bf15d18b41ab411174ffe6800581" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1006/01/31/01313a3b9866785397f0c5bbf8dccaf6.m4a?auth_key=1795855596-KqnQSUH3-0-57fb6f1bb8292b8cfdad074a54dbea79" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psr6ORd</link>
     </item>
@@ -405,7 +414,7 @@
       <description>20261005期：《唐宋之变》——为什么说唐宋之变式中国的第二次近代化（上）</description>
       <guid isPermaLink="false">ttfm-PJQvsWWRKd</guid>
       <pubDate>Mon, 05 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/a7/9d/a79d4e37216679d6c69c55f503b0fa66.m4a?auth_key=1795816457-AGGFnNM7-0-cebd7b6a40dbb103ffb424dea8a58564" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1005/a7/9d/a79d4e37216679d6c69c55f503b0fa66.m4a?auth_key=1795855596-bpYkBi34-0-baf49328b215f24a4cd813517f04c10d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWWRKd</link>
     </item>
@@ -414,7 +423,7 @@
       <description>20261004期：《给阿嬷的情书，给我们的情书》精编版</description>
       <guid isPermaLink="false">ttfm-OdPXszz16d</guid>
       <pubDate>Sun, 04 Oct 2026 15:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/f9/c9/f9c9383b39ce172b2d27099c80c575e1.m4a?auth_key=1795816457-B6q5JpNw-0-6949d6f013ba81e1739b16d1ba028316" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1004/f9/c9/f9c9383b39ce172b2d27099c80c575e1.m4a?auth_key=1795855596-T17Hto8Q-0-3fa2824485bc4d556692eac134d597da" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszz16d</link>
     </item>
@@ -423,7 +432,7 @@
       <description>20261003期：对话小柯原创音乐剧《西游“渡”记》</description>
       <guid isPermaLink="false">ttfm-4o6Qs99zyd</guid>
       <pubDate>Sat, 03 Oct 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/64/de/64de7b7cd12a4a143e3506341606c9fb.m4a?auth_key=1795816457-MMFRG8Ow-0-dfdcf2f3a07a6146f68f469b79c354ab" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1003/64/de/64de7b7cd12a4a143e3506341606c9fb.m4a?auth_key=1795855596-t7QFiOvd-0-df848eccee4a4d1057ea4c64e0614d8e" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs99zyd</link>
     </item>
@@ -432,7 +441,7 @@
       <description>20261002期：专访演员成泰燊——听热播剧《交锋》背后的故事</description>
       <guid isPermaLink="false">ttfm-raEvsAA9wJ</guid>
       <pubDate>Fri, 02 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/05/df/05dfa6ed078fd07673b543739bcc8f44.m4a?auth_key=1795816457-thpAxneI-0-38bd67283a122d122215405901b57c29" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1002/05/df/05dfa6ed078fd07673b543739bcc8f44.m4a?auth_key=1795855596-UByivbYH-0-1b77d79bbba4f63d3ec1bdb9267621a7" type="audio/mp4" length="0"/>
       <itunes:duration>00:33:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAA9wJ</link>
     </item>
@@ -441,7 +450,7 @@
       <description>20261001期：《回收世界的人》——致敬努力生活的自己（下）</description>
       <guid isPermaLink="false">ttfm-ZdRjs880Yd</guid>
       <pubDate>Thu, 01 Oct 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/a0/df/a0df4beb045f79349b588163ea5e4710.m4a?auth_key=1795816457-ucYu6jX5-0-e2a789613b98a45ab4e4ef03a3c6ebbc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/1001/a0/df/a0df4beb045f79349b588163ea5e4710.m4a?auth_key=1795855596-EWh6SgXM-0-3f34601685fe370d5eec98f571042360" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:21</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs880Yd</link>
     </item>
@@ -450,7 +459,7 @@
       <description>20260930期：《回收世界的人》——致敬努力生活的自己（上）</description>
       <guid isPermaLink="false">ttfm-vdz8sOOMba</guid>
       <pubDate>Wed, 30 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/c2/12/c212c47d05ef95fdc319ccecadccef32.m4a?auth_key=1795816457-Zhc7XpGT-0-448b8aa4fe22337335ee2074f9b6f5df" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0930/c2/12/c212c47d05ef95fdc319ccecadccef32.m4a?auth_key=1795855596-go7KRxIV-0-ae61769eed04f9a36dd3ff34d780b5c3" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOOMba</link>
     </item>
@@ -459,7 +468,7 @@
       <description>20260929期：《钻洞营》——钓鱼城的“无名之辈”（下）</description>
       <guid isPermaLink="false">ttfm-ea8RsgglEd</guid>
       <pubDate>Tue, 29 Sep 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/f8/68/f86898ebbbccdfd87e879e2714401d8d.m4a?auth_key=1795816457-WspFIBP3-0-ed0c3c6e414266773da962b6f1387933" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0929/f8/68/f86898ebbbccdfd87e879e2714401d8d.m4a?auth_key=1795855596-dYmqNghD-0-fb128a91e7386fe6c72895c473a977d8" type="audio/mp4" length="0"/>
       <itunes:duration>00:33:54</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsgglEd</link>
     </item>
@@ -468,7 +477,7 @@
       <description>20260928期：《钻洞营》——钓鱼城的“无名之辈”（上）</description>
       <guid isPermaLink="false">ttfm-QJgAsYY7Bo</guid>
       <pubDate>Mon, 28 Sep 2026 15:02:16 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/28/42/2842a5e481aa4dc24423c0ce9620943a.m4a?auth_key=1795816457-nS0F3aiG-0-85a6b6bd52044330a2a3babdf52c386b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0928/28/42/2842a5e481aa4dc24423c0ce9620943a.m4a?auth_key=1795855596-BnGaKdDK-0-cd86aec33cff47b0eb27473936b93529" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:34</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYY7Bo</link>
     </item>
@@ -477,7 +486,7 @@
       <description>20260927期：北大红楼读书会《在北大红楼回望鲁迅先生》</description>
       <guid isPermaLink="false">ttfm-6oDvsBB9LJ</guid>
       <pubDate>Sun, 27 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/0b/d2/0bd235cf31cbaaccddd3efe4db48597a.m4a?auth_key=1795816457-UZMpihuB-0-295fe3528bf693c6bf11ef532ae1ada3" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0927/0b/d2/0bd235cf31cbaaccddd3efe4db48597a.m4a?auth_key=1795855596-ROVeamFv-0-aee77fb7ac8b54aa0b3f2308407caf90" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsBB9LJ</link>
     </item>
@@ -486,7 +495,7 @@
       <description>20260926期：科普月特别节目《科普点亮生活》</description>
       <guid isPermaLink="false">ttfm-OdPXszzg0d</guid>
       <pubDate>Sat, 26 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/2e/d8/2ed8912864dffc62614a1f3f3bda4522.m4a?auth_key=1795816457-UzqCdIvR-0-fc988c626cf937146a2b9614275a3370" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0926/2e/d8/2ed8912864dffc62614a1f3f3bda4522.m4a?auth_key=1795855596-K3imsins-0-32db441d80aaf1585d6d2d31d1e4bc3d" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:39</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszzg0d</link>
     </item>
@@ -495,7 +504,7 @@
       <description>20260925期：专访著名相声演员李金斗</description>
       <guid isPermaLink="false">ttfm-QdBWs00O2o</guid>
       <pubDate>Fri, 25 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/45/fb/45fb5194ec33440b99f9f55c2bceff76.m4a?auth_key=1795816457-uwQtDRkL-0-563cf9bccad603147c5f8d8e2afa9bfd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0925/45/fb/45fb5194ec33440b99f9f55c2bceff76.m4a?auth_key=1795855596-z7E2OgI2-0-6e15f31391709c39e9a3e6a3504d23c2" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QdBWs00O2o</link>
     </item>
@@ -504,7 +513,7 @@
       <description>20260924期：《铸造天帝》——揭开青铜器纹饰的奥秘（下）</description>
       <guid isPermaLink="false">ttfm-Vob5sYY5Ad</guid>
       <pubDate>Thu, 24 Sep 2026 15:01:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/de/e2/dee2fb1767b02c11dddcd54e8663db18.m4a?auth_key=1795816457-1GBMU8pe-0-838a121c292f08bc49914cd667fe0e18" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0924/de/e2/dee2fb1767b02c11dddcd54e8663db18.m4a?auth_key=1795855596-0YWHW7y4-0-f80abf4e30799a6246d504a005491267" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:40</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYY5Ad</link>
     </item>
@@ -513,7 +522,7 @@
       <description>20260923期：《铸造天帝》——揭开青铜器纹饰的奥秘（上）</description>
       <guid isPermaLink="false">ttfm-2d9esKKY3d</guid>
       <pubDate>Wed, 23 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/ff/a0/ffa00810ecead6a42a51527dc9228068.m4a?auth_key=1795816457-RIL6P4in-0-675dc8f97e2e386ba15c319e975c911b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0923/ff/a0/ffa00810ecead6a42a51527dc9228068.m4a?auth_key=1795855596-x2SmWdGw-0-4efbe744a361303c61d38c7ed2925eb1" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:26</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esKKY3d</link>
     </item>
@@ -522,7 +531,7 @@
       <description>20260922期：《妩媚的忠臣：隋唐变局中的魏征》（下）——打破谏臣的刻板印象，走近真实的魏征</description>
       <guid isPermaLink="false">ttfm-ZJ3esKKPko</guid>
       <pubDate>Tue, 22 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/d1/59/d159ce890f92ab19d6b36a4ef575af44.m4a?auth_key=1795816457-S4FoOA2Q-0-c85457801952d31fa8bdf56ca842f476" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0922/d1/59/d159ce890f92ab19d6b36a4ef575af44.m4a?auth_key=1795855596-gqtHc3vD-0-5f43787809ab462cced8b1e56df4babd" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esKKPko</link>
     </item>
@@ -531,7 +540,7 @@
       <description>20260921期：《妩媚的忠臣：隋唐变局中的魏征》（上）——打破谏臣的刻板印象，走近真实的魏征</description>
       <guid isPermaLink="false">ttfm-xo4GsKVpld</guid>
       <pubDate>Mon, 21 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/64/42/6442ccefeb462595c25ab4bf59317fea.m4a?auth_key=1795816457-VcpXnoFn-0-e092213957a4282538b2e8d00c362e5d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0921/64/42/6442ccefeb462595c25ab4bf59317fea.m4a?auth_key=1795855596-05Uk8vTH-0-57163e351017916ead86d6a9aa4f07f1" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKVpld</link>
     </item>
@@ -540,7 +549,7 @@
       <description>20260920期：一曲燕归巢，山海共同心（下）</description>
       <guid isPermaLink="false">ttfm-OowlsbN6pa</guid>
       <pubDate>Sun, 20 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/c8/f2/c8f29511f4287499fd3bdb645dc635ac.m4a?auth_key=1795816457-GApv7aY3-0-8d92c0c931611212f4275e8457fc0270" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0920/c8/f2/c8f29511f4287499fd3bdb645dc635ac.m4a?auth_key=1795855596-66xzPzcP-0-b413a3eb5b939286c14d6f8ece985e64" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:16</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsbN6pa</link>
     </item>
@@ -549,7 +558,7 @@
       <description>20260919期：一曲燕归巢，山海共同心（上）</description>
       <guid isPermaLink="false">ttfm-6oDvsByD5J</guid>
       <pubDate>Sat, 19 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/75/84/758427ac9a44bb71323089f81800f6b2.m4a?auth_key=1795816457-hVYGRL2V-0-63f4c8332b1ac607a826fdaddee9725b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0919/75/84/758427ac9a44bb71323089f81800f6b2.m4a?auth_key=1795855596-LJno1MEu-0-7a4c4155c43a65e54bc2b72bc8d9e5bc" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:04</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6oDvsByD5J</link>
     </item>
@@ -558,7 +567,7 @@
       <description>20260918期：专访国家京剧院青年演员戴子汐</description>
       <guid isPermaLink="false">ttfm-vJ0PsM0k8J</guid>
       <pubDate>Fri, 18 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/66/a7/66a71520b0b338550d5e906228bf7720.m4a?auth_key=1795816457-iTwwFuTa-0-f6efc9da15a6481f7a5ef9610b5baf59" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0918/66/a7/66a71520b0b338550d5e906228bf7720.m4a?auth_key=1795855596-grGUrVy2-0-a9e7a15ae025829a0d683cf580ebf2bd" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vJ0PsM0k8J</link>
     </item>
@@ -567,7 +576,7 @@
       <description>20260917期：包税人——一条理解民国兴衰的暗线（下）</description>
       <guid isPermaLink="false">ttfm-pdpvsGwYMa</guid>
       <pubDate>Thu, 17 Sep 2026 15:01:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/36/55/3655546975e48b7a3ff4a0c888507fa2.m4a?auth_key=1795816457-Ml1MyTH9-0-1ca3a0542c2c8fc92b4f97b71a1a1eb2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0917/36/55/3655546975e48b7a3ff4a0c888507fa2.m4a?auth_key=1795855596-AXPqtxrk-0-23d67064f7a6901351f9fc27e1c77f45" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:29</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/pdpvsGwYMa</link>
     </item>
@@ -576,7 +585,7 @@
       <description>20260916期：包税人——一条理解民国兴衰的暗线（上）</description>
       <guid isPermaLink="false">ttfm-QJgAsYkmno</guid>
       <pubDate>Wed, 16 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/d8/89/d889bbaa6c49cd68774f1c65de32d82e.m4a?auth_key=1795816457-Qjdih0JI-0-41da0bff520f8644b8836d99dfa732c6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0916/d8/89/d889bbaa6c49cd68774f1c65de32d82e.m4a?auth_key=1795855596-hes85HOB-0-747f0bc2d3ccc644ad059d6465058c90" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:43</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYkmno</link>
     </item>
@@ -585,7 +594,7 @@
       <description>20260915期：科幻照进玛雅——走进《羽蛇的天空》的星辰与神话（下）</description>
       <guid isPermaLink="false">ttfm-ydkvsPG07J</guid>
       <pubDate>Tue, 15 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/a7/1b/a71b4a449a19c6ae70673569dfd082e2.m4a?auth_key=1795816457-qfjTsN0T-0-5e957fd2817785cea1bcd601199ee539" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0915/a7/1b/a71b4a449a19c6ae70673569dfd082e2.m4a?auth_key=1795855596-Gw2UiQV6-0-6b4fc56c62924a1e99d6feec7eb0d2fd" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ydkvsPG07J</link>
     </item>
@@ -594,7 +603,7 @@
       <description>20260914期：科幻照进玛雅——走进《羽蛇的天空》的星辰与神话（上）</description>
       <guid isPermaLink="false">ttfm-vdz8sOmjBa</guid>
       <pubDate>Mon, 14 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/23/47/234752f11af5c14d465bf8f80483ac83.m4a?auth_key=1795816457-M1hM1XGf-0-46976449fcbfb3847d1caa930e669e9c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0914/23/47/234752f11af5c14d465bf8f80483ac83.m4a?auth_key=1795855596-pZgSAEdw-0-4d8f0203abb08309d57f6e4a8831a416" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOmjBa</link>
     </item>
@@ -603,7 +612,7 @@
       <description>20260913期：当甲骨文遇上AI（下）</description>
       <guid isPermaLink="false">ttfm-4o6Qs9Dqmd</guid>
       <pubDate>Sun, 13 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/80/6f/806fa36f2cda07781aa4a9c4a395518a.m4a?auth_key=1795816457-OIBLmXlx-0-ea6297e414239d2829617ee6ad91161d" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0913/80/6f/806fa36f2cda07781aa4a9c4a395518a.m4a?auth_key=1795855596-0OS9nuz5-0-63cac31dcd487dac494280ef21c1f6b4" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:53</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9Dqmd</link>
     </item>
@@ -612,7 +621,7 @@
       <description>20260912期：礼赞五千年，国乐咏中华</description>
       <guid isPermaLink="false">ttfm-OowlsbNN3a</guid>
       <pubDate>Sat, 12 Sep 2026 15:12:21 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/78/8a/788a62e9994cb5b41beb27568becdbfb.m4a?auth_key=1795816457-HMemcnFs-0-92ea1cdd6ae9f1cf3e9480b37ed4eb4a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0912/78/8a/788a62e9994cb5b41beb27568becdbfb.m4a?auth_key=1795855596-9Ry4xT0m-0-b306a9085cffc062efa9bb82f61a7ba9" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OowlsbNN3a</link>
     </item>
@@ -621,7 +630,7 @@
       <description>20260911期：对话秦腔名家惠敏莉——秦腔的传承与创新</description>
       <guid isPermaLink="false">ttfm-6JW8s2l45d</guid>
       <pubDate>Fri, 11 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/dd/ba/ddbad6d3c82dd27521da48a1df339aa2.m4a?auth_key=1795816457-0XAqCkq9-0-f1fba7afeba1492db0a3b12edf9ccdbc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0911/dd/ba/ddbad6d3c82dd27521da48a1df339aa2.m4a?auth_key=1795855596-l9NrcCd0-0-7b11996f0818a87e432c5fb4401d4027" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:59</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/6JW8s2l45d</link>
     </item>
@@ -630,7 +639,7 @@
       <description>20260910期：诸神、英雄与海洋，古希腊文明的千年之境（下）</description>
       <guid isPermaLink="false">ttfm-xJvKsbxnKd</guid>
       <pubDate>Thu, 10 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/2c/4f/2c4f82392f887374fa0bb5df2d076def.m4a?auth_key=1795816457-rhUeOLhx-0-820880301dcbcd319f792783c8b2c8c2" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0910/2c/4f/2c4f82392f887374fa0bb5df2d076def.m4a?auth_key=1795855596-Wmczqtvk-0-d441dcefaa80bdb9908966d8f174b9e8" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xJvKsbxnKd</link>
     </item>
@@ -639,7 +648,7 @@
       <description>20260909期：诸神、英雄与海洋，古希腊文明的千年之境（上）</description>
       <guid isPermaLink="false">ttfm-xo4GsKVl0d</guid>
       <pubDate>Wed, 09 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/cb/8a/cb8abc39fe8b0a172cbb2121a3b88ebc.m4a?auth_key=1795816457-07xtC2vE-0-7bc3c3553c3cdb053f7cddadbcd2211b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0909/cb/8a/cb8abc39fe8b0a172cbb2121a3b88ebc.m4a?auth_key=1795855596-uZjHwN5f-0-f2a52267932355b38a904b2b4c10612f" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:05</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsKVl0d</link>
     </item>
@@ -648,7 +657,7 @@
       <description>20260908期：《朕亦一书生：乾隆时代的君臣父子》（下）</description>
       <guid isPermaLink="false">ttfm-kdjgsj6ZVo</guid>
       <pubDate>Tue, 08 Sep 2026 15:01:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/6f/5f/6f5fc73b69b97a91ba751f55bd83a8d4.m4a?auth_key=1795816457-kNdhVfSu-0-863e7d4526233b63cfaa14c0afddefff" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0908/6f/5f/6f5fc73b69b97a91ba751f55bd83a8d4.m4a?auth_key=1795855596-MYeWzFkB-0-779623810e3e4ef9b207c8c5cfbfc684" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsj6ZVo</link>
     </item>
@@ -657,7 +666,7 @@
       <description>20260907期：《朕亦一书生：乾隆时代的君臣父子》（上）</description>
       <guid isPermaLink="false">ttfm-2d9esKMrnd</guid>
       <pubDate>Mon, 07 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/ef/0e/ef0e7ad2355062900a185a57db4cfc48.m4a?auth_key=1795816457-9TD1ZKdS-0-bbaae202c9c8e6a52e7a02c81ac4cd3e" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0907/ef/0e/ef0e7ad2355062900a185a57db4cfc48.m4a?auth_key=1795855596-fJoGBwWt-0-68c3f569ec439686e8bd8a0ce8e079e6" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/2d9esKMrnd</link>
     </item>
@@ -666,7 +675,7 @@
       <description>20260906期：当甲骨文遇上AI（上）</description>
       <guid isPermaLink="false">ttfm-0dGMsngVMa</guid>
       <pubDate>Sun, 06 Sep 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/fe/8a/fe8a716b909723d3476d2f51084d583e.m4a?auth_key=1795816457-7Aybw66C-0-1563570508b271f587ff6cfa8df86a3f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0906/fe/8a/fe8a716b909723d3476d2f51084d583e.m4a?auth_key=1795855596-gLbEUxyI-0-a3e3dafe9338e6ac6f3bbbfc7b41c32b" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/0dGMsngVMa</link>
     </item>
@@ -675,7 +684,7 @@
       <description>20260905期：院士领航青春路：赤胆忠心 精忠报国</description>
       <guid isPermaLink="false">ttfm-4o6Qs9vX2d</guid>
       <pubDate>Sat, 05 Sep 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/02/14/0214b0ceaf8ff0a1747f648d393a433a.m4a?auth_key=1795816457-DG6BPSYn-0-63ca4f733ed4240afb8f1135ac7a9f1a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0905/02/14/0214b0ceaf8ff0a1747f648d393a433a.m4a?auth_key=1795855596-LCOtFW1n-0-630fe9d2837e36349dc90e3d217af9b6" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9vX2d</link>
     </item>
@@ -684,7 +693,7 @@
       <description>20260904期：《伊拉克，在死神脚下搵钱》——《欢迎来龙餐馆》原型专访</description>
       <guid isPermaLink="false">ttfm-raEvsAzWBJ</guid>
       <pubDate>Fri, 04 Sep 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/c1/f0/c1f0b30a1bb52a018b05085f86f97170.m4a?auth_key=1795816457-o1QGlUAc-0-b78322b055239d8f6c07107189cf9cb6" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0904/c1/f0/c1f0b30a1bb52a018b05085f86f97170.m4a?auth_key=1795855596-8Vcd48c6-0-4b9a82738229de482f262c64a74bb8d9" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsAzWBJ</link>
     </item>
@@ -693,7 +702,7 @@
       <description>20260903期：“开学第一课”特别节目（下）</description>
       <guid isPermaLink="false">ttfm-ZdRjs81MXd</guid>
       <pubDate>Thu, 03 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/fc/35/fc3540f1252f324b860146561ec0f8f4.m4a?auth_key=1795816457-mQldtuNo-0-b1f9168044e45b2b88a2fccb27cc98f9" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0903/fc/35/fc3540f1252f324b860146561ec0f8f4.m4a?auth_key=1795855596-Pr1FeU9a-0-12a6c85c60564635fa03b860ad52eae8" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZdRjs81MXd</link>
     </item>
@@ -702,7 +711,7 @@
       <description>20260902期：“开学第一课”特别节目（上）</description>
       <guid isPermaLink="false">ttfm-vdz8sOQzpa</guid>
       <pubDate>Wed, 02 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/08/b7/08b76fb8330e86f9e84370b2c45bbd54.m4a?auth_key=1795816457-EzhyJ3BY-0-4e54c3c678de48ee9431823331ec10e0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0902/08/b7/08b76fb8330e86f9e84370b2c45bbd54.m4a?auth_key=1795855596-Po2gSzUu-0-5b3f48f82b8cc96eea519181132d5452" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:46</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/vdz8sOQzpa</link>
     </item>
@@ -711,7 +720,7 @@
       <description>20260901期：《孤鹏——南宋战火与权谋中的岳飞》——寻找被轶事和传说隐没的岳飞（下）</description>
       <guid isPermaLink="false">ttfm-YdY3sxlXXa</guid>
       <pubDate>Tue, 01 Sep 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/22/48/224892dc5f1395e6cbce2fcffec7ccb6.m4a?auth_key=1795816457-6PKllwA1-0-f52b528636c089ffd5edc13d6d864962" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0901/22/48/224892dc5f1395e6cbce2fcffec7ccb6.m4a?auth_key=1795855596-Q8v3mdSU-0-1bb2d3c90394977bfcb49a00e2d3101b" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:51</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3sxlXXa</link>
     </item>
@@ -720,7 +729,7 @@
       <description>20260831期：《孤鹏——南宋战火与权谋中的岳飞》——寻找被轶事和传说隐没的岳飞（上）</description>
       <guid isPermaLink="false">ttfm-QJgAsYBbwo</guid>
       <pubDate>Mon, 31 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/c5/bd/c5bd4da0f3ab382e9b5a6b661ce698b3.m4a?auth_key=1795816457-SidJby0f-0-e30e10d73a3bc6daea65d07c27661b9f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0831/c5/bd/c5bd4da0f3ab382e9b5a6b661ce698b3.m4a?auth_key=1795855596-Nxb9JHMA-0-b65de24cba85c056d16e446ad39a91e6" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:20</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/QJgAsYBbwo</link>
     </item>
@@ -729,7 +738,7 @@
       <description>20260830期：首博美洲大展不可不看的文物</description>
       <guid isPermaLink="false">ttfm-PJQvsWXW6d</guid>
       <pubDate>Sun, 30 Aug 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/29/47/2947fd3708b5be3c184ebbdfc7d6125a.m4a?auth_key=1795816457-cLpMRZrR-0-8c2c399f17224e024f4272ddb32edd29" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0830/29/47/2947fd3708b5be3c184ebbdfc7d6125a.m4a?auth_key=1795855596-tdNVs5DI-0-133aa7b9914418dd6cddf7581efb913b" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:41</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvsWXW6d</link>
     </item>
@@ -738,7 +747,7 @@
       <description>20260829期：8月暑期档电影观察</description>
       <guid isPermaLink="false">ttfm-OdPXszprMd</guid>
       <pubDate>Sat, 29 Aug 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/49/51/49515c68815afe747f12a804ea549382.m4a?auth_key=1795816457-9ZgWR7kX-0-7792bf9a90256270b05f4603c1f76473" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0829/49/51/49515c68815afe747f12a804ea549382.m4a?auth_key=1795855596-GKpRbsaU-0-24a409edae2b352073ccdfe325c6742d" type="audio/mp4" length="0"/>
       <itunes:duration>00:48:53</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/OdPXszprMd</link>
     </item>
@@ -747,7 +756,7 @@
       <description>20260828期：《灯火与吴钩：辛弃疾的生命瞬间》</description>
       <guid isPermaLink="false">ttfm-4o6Qs9vQKd</guid>
       <pubDate>Fri, 28 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/5e/22/5e22b3a599898d4687a7ff108009fc2a.m4a?auth_key=1795816457-ooaJ8OHv-0-a8d4cd97fa5b42b7d235043157408a22" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0828/5e/22/5e22b3a599898d4687a7ff108009fc2a.m4a?auth_key=1795855596-N4fWWf8d-0-c7b6f549fb9b4785bd04e62a9a6455f7" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:58</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/4o6Qs9vQKd</link>
     </item>
@@ -756,7 +765,7 @@
       <description>20260827期：《鱼水》—我愿逆流而上，依偎在她身旁（下）</description>
       <guid isPermaLink="false">ttfm-Vob5sYKe2d</guid>
       <pubDate>Thu, 27 Aug 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/cf/d7/cfd76663a07bd179c4afb01f3b7c4223.m4a?auth_key=1795816457-vDyP8HUB-0-c7f161ca4a0a15b21eea7071535294d4" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0827/cf/d7/cfd76663a07bd179c4afb01f3b7c4223.m4a?auth_key=1795855596-rCGK8eWx-0-986c8c71f123865a3f615fe4de21c3d5" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Vob5sYKe2d</link>
     </item>
@@ -765,7 +774,7 @@
       <description>20260826期：《鱼水》—我愿逆流而上，依偎在她身旁（上）</description>
       <guid isPermaLink="false">ttfm-raEvsANz2J</guid>
       <pubDate>Wed, 26 Aug 2026 15:02:19 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/b2/d3/b2d306c8eac9f80b7376afe0becd5d0b.m4a?auth_key=1795816457-NyXOtiKf-0-4bf1660a825b753fac96c8e7fca0b638" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0826/b2/d3/b2d306c8eac9f80b7376afe0becd5d0b.m4a?auth_key=1795855596-CXk4a2mU-0-71641569dd0bf612a256056f13ee709d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:52</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/raEvsANz2J</link>
     </item>
@@ -774,7 +783,7 @@
       <description>20260825期：《看见国家宝藏》——60件国宝，读懂中国（下）</description>
       <guid isPermaLink="false">ttfm-3aMvs1pXkJ</guid>
       <pubDate>Tue, 25 Aug 2026 15:02:18 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/1a/4f/1a4f56eae405b8e712104d7b2542bdc3.m4a?auth_key=1795816457-Fw11uBKa-0-01e20f355acaea78a62f96399b4c5b32" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0825/1a/4f/1a4f56eae405b8e712104d7b2542bdc3.m4a?auth_key=1795855596-Cok6VkTp-0-c83b6bbc6c64a3ce3f419e43eb3ced25" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/3aMvs1pXkJ</link>
     </item>
@@ -783,7 +792,7 @@
       <description>20260824期：《看见国家宝藏》——60件国宝，读懂中国（上）</description>
       <guid isPermaLink="false">ttfm-PJQvskmMGd</guid>
       <pubDate>Mon, 24 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/cb/8e/cb8ecafec48580067a4cf36931796ffc.m4a?auth_key=1795816457-k3yMyX7z-0-9082237b326092e57556bb12e17e52ac" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0824/cb/8e/cb8ecafec48580067a4cf36931796ffc.m4a?auth_key=1795855596-D1vT0OId-0-16d659af9f602fa4cbdea30b04be4987" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:45</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PJQvskmMGd</link>
     </item>
@@ -792,7 +801,7 @@
       <description>20260823期：北大红楼读书会：在北大红楼回望邵飘萍</description>
       <guid isPermaLink="false">ttfm-ZJ3esNELDo</guid>
       <pubDate>Sun, 23 Aug 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/c2/e1/c2e170142aa736c686309ecf6915c472.m4a?auth_key=1795816457-7FZmn4xk-0-6d8791a9b0ea8c8e57bd999e56b61e69" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0823/c2/e1/c2e170142aa736c686309ecf6915c472.m4a?auth_key=1795855596-O6z622fD-0-585a257474e51ae39d4a81173dc91505" type="audio/mp4" length="0"/>
       <itunes:duration>00:50:25</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNELDo</link>
     </item>
@@ -801,7 +810,7 @@
       <description>20260822期：万福恭王府：全景体验恭王府“福”文化</description>
       <guid isPermaLink="false">ttfm-ea8RsxvqEd</guid>
       <pubDate>Sat, 22 Aug 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/48/7c/487cae42378521a2fd04045707f1e068.m4a?auth_key=1795816457-Uec3tKDU-0-c505a27945524d716f9352556a16d50b" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0822/48/7c/487cae42378521a2fd04045707f1e068.m4a?auth_key=1795855596-fLbVhiVA-0-34d0624575b3309301e7234a63abb362" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsxvqEd</link>
     </item>
@@ -810,7 +819,7 @@
       <description>20260821期：专访著名女高音歌唱家王莹</description>
       <guid isPermaLink="false">ttfm-ndKesBRvMa</guid>
       <pubDate>Fri, 21 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/90/4b/904ba266311651e483b6ff653274c283.m4a?auth_key=1795816457-k5JKgi1Q-0-54740d60068ac15ece910a5df1930233" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0821/90/4b/904ba266311651e483b6ff653274c283.m4a?auth_key=1795855596-esqIOb5y-0-52650fc5ad1de2f3a598c0413621293d" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:50</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ndKesBRvMa</link>
     </item>
@@ -819,7 +828,7 @@
       <description>20260820期：漂泊与归乡——《荷马史诗・奥德赛》（下）</description>
       <guid isPermaLink="false">ttfm-Oo5psB7vZd</guid>
       <pubDate>Thu, 20 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/ac/2c/ac2c55938230047d4756b730dd8bbbf4.m4a?auth_key=1795816457-BqdzTbbA-0-6e7da3e48889290d586512813764eed0" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0820/ac/2c/ac2c55938230047d4756b730dd8bbbf4.m4a?auth_key=1795855596-R2vKgrwh-0-d807c275b7c608eecdb91b56160344dc" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/Oo5psB7vZd</link>
     </item>
@@ -828,7 +837,7 @@
       <description>20260819期：漂泊与归乡——《荷马史诗・奥德赛》（上）</description>
       <guid isPermaLink="false">ttfm-ZJ3esNEWmo</guid>
       <pubDate>Wed, 19 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/09/e1/09e19ca41abb8b5d0c3744be9fbc0840.m4a?auth_key=1795816457-wcPLSmD9-0-b335b89007aba2e86f354e0d936efafd" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0819/09/e1/09e19ca41abb8b5d0c3744be9fbc0840.m4a?auth_key=1795855596-Nhy9ia30-0-abbf037ee783a71d284e2da03a270ee9" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:00</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ZJ3esNEWmo</link>
     </item>
@@ -837,7 +846,7 @@
       <description>20260818期：《温榆河上的西西弗斯》——一位流水线工人的二十年（下）</description>
       <guid isPermaLink="false">ttfm-ea8RsxPwLd</guid>
       <pubDate>Tue, 18 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/21/2d/212d9094b152350227be27602004da9e.m4a?auth_key=1795816457-l1mKZzQg-0-445c020c199847d8a92b2e01573959dc" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0818/21/2d/212d9094b152350227be27602004da9e.m4a?auth_key=1795855596-pb5OXLPP-0-c449075c952f5ff75abe2285b2024e68" type="audio/mp4" length="0"/>
       <itunes:duration>00:35:28</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/ea8RsxPwLd</link>
     </item>
@@ -846,7 +855,7 @@
       <description>20260817期：《温榆河上的西西弗斯》——一位流水线工人的二十年（上）</description>
       <guid isPermaLink="false">ttfm-goqZs1DvWa</guid>
       <pubDate>Mon, 17 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/4b/9c/4b9c24d4aff15256deb6df3232458613.m4a?auth_key=1795816457-uXWKIC2k-0-e50da36d788eabe89130652ecdec135c" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0817/4b/9c/4b9c24d4aff15256deb6df3232458613.m4a?auth_key=1795855596-ObWy3sW2-0-db93bbf0fe631d0c3363abb527c24f13" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:56</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/goqZs1DvWa</link>
     </item>
@@ -855,7 +864,7 @@
       <description>20260816期：当照片成为书——谈谈摄影书的艺术（下）</description>
       <guid isPermaLink="false">ttfm-xo4GsVbxRd</guid>
       <pubDate>Sun, 16 Aug 2026 15:12:22 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/34/bf/34bf9bd66867bec6a6d53c95d16de638.m4a?auth_key=1795816457-4NduIf3b-0-353b99770d542a3e070c5c07b456240a" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0816/34/bf/34bf9bd66867bec6a6d53c95d16de638.m4a?auth_key=1795855596-cGUnVSZo-0-94c6aea5fe0bc32c23587a00488852e4" type="audio/mp4" length="0"/>
       <itunes:duration>00:49:49</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/xo4GsVbxRd</link>
     </item>
@@ -864,7 +873,7 @@
       <description>20260815期：当照片成为书——谈谈摄影书的艺术（上）</description>
       <guid isPermaLink="false">ttfm-YdY3s3QZla</guid>
       <pubDate>Sat, 15 Aug 2026 15:12:20 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/02/60/02600165026cf4be1f8d5a1dcb210a79.m4a?auth_key=1795816457-thvZdAZp-0-db9fec2a2172bd561fbea5e2e1806531" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0815/02/60/02600165026cf4be1f8d5a1dcb210a79.m4a?auth_key=1795855596-FFnkqIlm-0-8f10ae75e7cac76673cb088e86cace06" type="audio/mp4" length="0"/>
       <itunes:duration>00:45:42</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/YdY3s3QZla</link>
     </item>
@@ -873,7 +882,7 @@
       <description>20260814期：从世界到长安——一场爵士乐的丝路首演</description>
       <guid isPermaLink="false">ttfm-kdjgsyg2Lo</guid>
       <pubDate>Fri, 14 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/a5/38/a53855ab8aee41e85a736e03b4595277.m4a?auth_key=1795816457-NPDRr34q-0-3b0da34e1b4fb061d0f0a5dd8f8a878f" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0814/a5/38/a53855ab8aee41e85a736e03b4595277.m4a?auth_key=1795855596-au0U3O00-0-79250f5c2adca9a0945d04a266ff739b" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:55</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/kdjgsyg2Lo</link>
     </item>
@@ -882,7 +891,7 @@
       <description>20260813期：纪念东野圭吾去世特别节目下——在找到凶手的同时，也找到自己</description>
       <guid isPermaLink="false">ttfm-MaXAs3OxWJ</guid>
       <pubDate>Thu, 13 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/b7/27/b727a44a6fdcc034c5eaf37c0e5f0de0.m4a?auth_key=1795816457-mQdgJiUB-0-0db3717d0d10b9bd01bd20211fd04c15" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0813/b7/27/b727a44a6fdcc034c5eaf37c0e5f0de0.m4a?auth_key=1795855596-jce71EU0-0-bdde0ae8b9e7a7c9d701b5590922c58c" type="audio/mp4" length="0"/>
       <itunes:duration>00:36:30</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/MaXAs3OxWJ</link>
     </item>
@@ -891,7 +900,7 @@
       <description>20260812期：纪念东野圭吾去世特别节目上——在找到凶手的同时，也找到自己</description>
       <guid isPermaLink="false">ttfm-PorqsBQWld</guid>
       <pubDate>Wed, 12 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/a4/dc/a4dc3e76edbd6af7c662153037780bb3.m4a?auth_key=1795816457-GaOEy5ta-0-19389839d95fe8934c66e0ab62b80e33" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0812/a4/dc/a4dc3e76edbd6af7c662153037780bb3.m4a?auth_key=1795855596-eNhkP4fJ-0-147eba3c012ac345df44f822ed5631ac" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:54</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/PorqsBQWld</link>
     </item>
@@ -900,18 +909,9 @@
       <description>20260811期：《秦朝生存指南》（下）——秦朝百姓日常吃什么？穿什么？</description>
       <guid isPermaLink="false">ttfm-7oZbs9n8Bo</guid>
       <pubDate>Tue, 11 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/73/c4/73c420f35f8b8c2d224c0cd2758a9923.m4a?auth_key=1795816457-5x9rMFcp-0-34f6e1e3542bb107269a396b8d25a096" type="audio/mp4" length="0"/>
+      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0811/73/c4/73c420f35f8b8c2d224c0cd2758a9923.m4a?auth_key=1795855596-yYCR5X83-0-06fc697063915a36fc32e8e61b8b9635" type="audio/mp4" length="0"/>
       <itunes:duration>00:34:46</itunes:duration>
       <link>https://mobile.tingtingfm.com/v3/vod/2/7oZbs9n8Bo</link>
-    </item>
-    <item>
-      <title>20260810期：《秦朝生存指南》（上）——秦朝的刑罚真的很重吗？</title>
-      <description>20260810期：《秦朝生存指南》（上）——秦朝的刑罚真的很重吗？</description>
-      <guid isPermaLink="false">ttfm-gay7sKVBRd</guid>
-      <pubDate>Mon, 10 Aug 2026 15:02:17 +0800</pubDate>
-      <enclosure url="https://ttfm2018-oss-cdn.tingtingfm.com/radio/2026/0810/4d/3e/4d3e647f1ba537f46e9e7f242340ccf7.m4a?auth_key=1795816457-3gzqNMET-0-860e0870fe1ffc338db38b935a783662" type="audio/mp4" length="0"/>
-      <itunes:duration>00:34:59</itunes:duration>
-      <link>https://mobile.tingtingfm.com/v3/vod/2/gay7sKVBRd</link>
     </item>
   </channel>
 </rss>
